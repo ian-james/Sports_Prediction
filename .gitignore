@@ -1,0 +1,70 @@
+# --- System / IDE ---
+.DS_Store
+*.swp
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+
+# --- Python (Backend) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.installed.cfg
+.python-version
+*.pyc
+
+# --- uv & Dependencies ---
+# We keep uv.lock but ignore the local project-specific cache
+.uv/
+.cache/
+uv.lock
+
+# --- Static Analysis & Testing ---
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.pytype/
+
+# --- Database (Local Development) ---
+*.db
+*.sqlite3
+# Ignore local postgres data if you mount it to a local folder instead of a volume
+pgdata/
+
+# --- Frontend (Next.js) ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.vercel
+frontend/.npm
+frontend/chartjs-plugin-datalabels.js.map
+
+# --- Logs ---
+*.log
+logs/
+backend/logs/
+frontend/logs/
+
+# --- Docker ---
+.docker/
+.dockerignore
+# If you use local build contexts
+*.tar
+
+# --- API Bridge ---
+# Some prefer to gitignore the generated types to force a sync in CI
+# Others prefer to keep them for IDE support without running the backend
+# Recommendation: Keep them for better DX unless they are massive
+# backend/openapi.json
