@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-07,,San Jose Sharks,4,1,W,,,31,13,0,4,0,50,44,53.2,31,34,47.7,24,28,46.2,48.9,113.0,Nashville Predators,Nashville Predators,San Jose Sharks,4,1
+2,2022-10-08,@,San Jose Sharks,3,2,W,,,33,6,1,4,0,39,45,46.4,25,30,45.5,32,24,57.1,40.0,116.9,Nashville Predators,San Jose Sharks,Nashville Predators,2,3
+3,2022-10-13,,Dallas Stars,1,4,L,,,29,15,2,4,0,39,33,54.2,27,26,50.9,19,18,51.4,52.6,94.5,Nashville Predators,Nashville Predators,Dallas Stars,1,4
+4,2022-10-15,@,Dallas Stars,1,5,L,,,22,10,0,2,1,61,43,58.7,50,28,64.1,19,24,44.2,50.6,75.0,Nashville Predators,Dallas Stars,Nashville Predators,5,1
+5,2022-10-18,,Los Angeles Kings,3,4,L,SO,,35,12,1,8,0,41,39,51.3,34,32,51.5,21,13,61.8,47.6,104.3,Nashville Predators,Nashville Predators,Los Angeles Kings,3,4
+6,2022-10-20,@,Columbus Blue Jackets,3,5,L,,,42,10,0,3,0,48,64,42.9,32,48,40.0,30,25,54.5,37.7,98.2,Nashville Predators,Columbus Blue Jackets,Nashville Predators,5,3
+7,2022-10-22,,Philadelphia Flyers,1,3,L,,,25,16,0,2,0,63,42,60.0,45,31,59.2,35,15,70.0,53.4,87.5,Nashville Predators,Nashville Predators,Philadelphia Flyers,1,3
+8,2022-10-27,,St. Louis Blues,6,2,W,,,35,4,1,3,0,62,44,58.5,44,37,54.3,21,21,50.0,62.1,111.1,Nashville Predators,Nashville Predators,St. Louis Blues,6,2
+9,2022-10-29,,Washington Capitals,0,3,L,,,35,10,0,3,0,43,55,43.9,35,42,45.5,24,19,55.8,54.8,89.3,Nashville Predators,Nashville Predators,Washington Capitals,0,3
+10,2022-11-01,@,Edmonton Oilers,4,7,L,,,37,9,2,6,0,37,52,41.6,27,34,44.3,27,24,52.9,30.0,90.3,Nashville Predators,Edmonton Oilers,Nashville Predators,7,4
+11,2022-11-03,@,Calgary Flames,4,1,W,,,30,8,0,3,0,48,54,47.1,37,33,52.9,34,22,60.7,36.4,108.0,Nashville Predators,Calgary Flames,Nashville Predators,1,4
+12,2022-11-05,@,Vancouver Canucks,4,3,W,SO,,45,30,1,4,0,50,50,50.0,39,39,50.0,27,24,52.9,58.0,102.1,Nashville Predators,Vancouver Canucks,Nashville Predators,3,4
+13,2022-11-08,@,Seattle Kraken,1,5,L,,,20,4,0,1,0,60,40,60.0,39,26,60.0,22,18,55.0,,76.8,Nashville Predators,Seattle Kraken,Nashville Predators,5,1
+14,2022-11-10,@,Colorado Avalanche,3,5,L,,,35,4,2,3,0,59,49,54.6,39,38,50.6,31,26,54.4,64.9,93.8,Nashville Predators,Colorado Avalanche,Nashville Predators,5,3
+15,2022-11-12,,New York Rangers,2,1,W,,,35,20,0,5,0,31,50,38.3,21,35,37.5,19,18,51.4,33.6,111.5,Nashville Predators,Nashville Predators,New York Rangers,2,1
+16,2022-11-15,,Minnesota Wild,2,1,W,,,33,22,0,5,0,30,53,36.1,23,40,36.5,22,14,61.1,42.7,102.3,Nashville Predators,Nashville Predators,Minnesota Wild,2,1
+17,2022-11-17,,New York Islanders,5,4,W,,,33,8,1,3,0,48,58,45.3,40,42,48.8,23,23,50.0,40.5,103.3,Nashville Predators,Nashville Predators,New York Islanders,5,4
+18,2022-11-19,,Tampa Bay Lightning,2,3,L,OT,,39,12,2,5,0,37,58,38.9,30,39,43.5,21,15,58.3,39.1,100.8,Nashville Predators,Nashville Predators,Tampa Bay Lightning,2,3
+19,2022-11-21,,Arizona Coyotes,4,3,W,SO,,27,21,0,2,1,53,41,56.4,44,33,57.1,25,22,53.2,40.3,95.2,Nashville Predators,Nashville Predators,Arizona Coyotes,4,3
+20,2022-11-23,@,Detroit Red Wings,0,3,L,,,29,6,1,2,0,55,35,61.1,33,28,54.1,14,22,38.9,87.0,90.5,Nashville Predators,Detroit Red Wings,Nashville Predators,3,0
+21,2022-11-29,,Anaheim Ducks,2,1,W,OT,,35,4,0,0,0,69,56,55.2,52,39,57.1,31,21,59.6,52.0,102.1,Nashville Predators,Nashville Predators,Anaheim Ducks,2,1
+22,2022-12-01,@,New Jersey Devils,4,3,W,OT,,28,2,2,5,0,50,42,54.3,33,32,50.8,24,25,49.0,70.3,113.0,Nashville Predators,New Jersey Devils,Nashville Predators,3,4
+23,2022-12-02,@,New York Islanders,4,1,W,,,49,11,1,4,0,35,65,35.0,27,50,35.1,27,18,60.0,36.5,111.8,Nashville Predators,New York Islanders,Nashville Predators,1,4
+24,2022-12-08,@,Tampa Bay Lightning,2,5,L,,,33,9,1,2,1,56,50,52.8,40,34,54.1,34,27,55.7,58.5,92.1,Nashville Predators,Tampa Bay Lightning,Nashville Predators,5,2
+25,2022-12-10,,Ottawa Senators,2,3,L,,,33,13,2,6,0,35,45,43.8,26,32,44.8,15,27,35.7,54.2,107.1,Nashville Predators,Nashville Predators,Ottawa Senators,2,3
+26,2022-12-12,@,St. Louis Blues,0,1,L,OT,,24,8,0,3,0,45,42,51.7,30,27,52.6,15,16,48.4,51.3,94.4,Nashville Predators,St. Louis Blues,Nashville Predators,1,0
+27,2022-12-13,,Edmonton Oilers,3,6,L,,,37,10,2,2,0,52,52,50.0,38,42,47.5,28,21,57.1,42.9,100.0,Nashville Predators,Nashville Predators,Edmonton Oilers,3,6
+28,2022-12-15,@,Winnipeg Jets,1,2,L,OT,,41,15,0,4,0,36,64,36.0,28,52,35.0,19,17,52.8,57.1,98.3,Nashville Predators,Winnipeg Jets,Nashville Predators,2,1
+29,2022-12-17,@,Colorado Avalanche,1,3,L,,,30,4,1,3,0,46,46,50.0,30,30,50.0,21,20,51.2,56.0,94.2,Nashville Predators,Colorado Avalanche,Nashville Predators,3,1
+30,2022-12-19,,Edmonton Oilers,4,3,W,OT,,33,4,2,3,0,54,52,50.9,45,37,54.9,24,19,55.8,48.6,106.0,Nashville Predators,Nashville Predators,Edmonton Oilers,4,3
+31,2022-12-21,@,Chicago Blackhawks,4,2,W,,,39,4,0,4,0,62,52,54.4,45,43,51.1,21,19,52.5,37.0,103.3,Nashville Predators,Chicago Blackhawks,Nashville Predators,2,4
+32,2022-12-23,,Colorado Avalanche,2,3,L,OT,,46,6,0,4,0,53,69,43.4,43,50,46.2,27,26,50.9,42.2,95.3,Nashville Predators,Nashville Predators,Colorado Avalanche,2,3
+33,2022-12-27,,Dallas Stars,2,3,L,,,33,6,1,6,0,44,55,44.4,32,38,45.7,22,15,59.5,48.3,97.4,Nashville Predators,Nashville Predators,Dallas Stars,2,3
+34,2022-12-30,@,Anaheim Ducks,6,1,W,,,27,2,0,1,0,76,54,58.5,59,45,56.7,23,21,52.3,50.0,107.9,Nashville Predators,Anaheim Ducks,Nashville Predators,1,6
+35,2022-12-31,@,Vegas Golden Knights,4,5,L,OT,,32,14,0,1,0,58,64,47.5,43,44,49.4,28,28,50.0,42.8,92.9,Nashville Predators,Vegas Golden Knights,Nashville Predators,5,4
+36,2023-01-03,,Montreal Canadiens,6,3,W,,,27,10,0,4,0,63,38,62.4,48,29,62.3,26,18,59.1,59.6,99.5,Nashville Predators,Nashville Predators,Montreal Canadiens,6,3
+37,2023-01-05,@,Carolina Hurricanes,5,3,W,,,67,8,1,4,0,40,85,32.0,27,70,27.8,23,34,40.4,30.5,115.4,Nashville Predators,Carolina Hurricanes,Nashville Predators,3,5
+38,2023-01-06,@,Washington Capitals,3,2,W,,,32,4,0,3,0,43,51,45.7,28,35,44.4,26,19,57.8,59.3,109.8,Nashville Predators,Washington Capitals,Nashville Predators,2,3
+39,2023-01-09,@,Ottawa Senators,3,0,W,,,38,17,0,5,0,33,51,39.3,29,35,45.3,15,25,37.5,36.8,113.6,Nashville Predators,Ottawa Senators,Nashville Predators,0,3
+40,2023-01-11,@,Toronto Maple Leafs,1,2,L,,,35,4,1,5,0,38,50,43.2,26,40,39.4,20,23,46.5,43.3,100.6,Nashville Predators,Toronto Maple Leafs,Nashville Predators,2,1
+41,2023-01-12,@,Montreal Canadiens,3,4,L,,,35,15,2,3,0,71,63,53.0,52,47,52.5,22,22,50.0,48.6,101.2,Nashville Predators,Montreal Canadiens,Nashville Predators,4,3
+42,2023-01-14,,Buffalo Sabres,3,5,L,,,33,6,1,4,1,60,49,55.0,44,41,51.8,24,25,49.0,56.3,94.2,Nashville Predators,Nashville Predators,Buffalo Sabres,3,5
+43,2023-01-16,,Calgary Flames,2,1,W,,,39,6,0,4,0,58,49,54.2,39,40,49.4,30,17,63.8,57.6,104.0,Nashville Predators,Nashville Predators,Calgary Flames,2,1
+44,2023-01-17,,Columbus Blue Jackets,2,1,W,,,40,6,0,3,0,52,46,53.1,41,37,52.6,23,16,59.0,39.3,104.3,Nashville Predators,Nashville Predators,Columbus Blue Jackets,2,1
+45,2023-01-19,@,St. Louis Blues,2,5,L,,,33,13,1,5,0,37,48,43.5,31,39,44.3,11,23,32.4,50.0,95.2,Nashville Predators,St. Louis Blues,Nashville Predators,5,2
+46,2023-01-21,,Los Angeles Kings,5,3,W,,,34,9,1,4,0,54,48,52.9,39,35,52.7,25,20,55.6,45.5,107.4,Nashville Predators,Nashville Predators,Los Angeles Kings,5,3
+47,2023-01-24,,Winnipeg Jets,2,1,W,,,33,11,0,3,0,59,52,53.2,49,39,55.7,19,23,45.2,60.0,101.8,Nashville Predators,Nashville Predators,Winnipeg Jets,2,1
+48,2023-01-26,,New Jersey Devils,6,4,W,,,39,4,0,2,0,62,56,52.5,50,40,55.6,27,30,47.4,48.7,101.4,Nashville Predators,Nashville Predators,New Jersey Devils,6,4
+49,2023-02-07,,Vegas Golden Knights,1,5,L,,,30,6,0,2,0,44,48,47.8,33,34,49.3,21,18,53.8,70.0,87.9,Nashville Predators,Nashville Predators,Vegas Golden Knights,1,5
+50,2023-02-11,@,Philadelphia Flyers,2,1,W,OT,,24,12,0,0,0,67,46,59.3,37,33,52.9,30,19,61.2,54.5,103.8,Nashville Predators,Philadelphia Flyers,Nashville Predators,1,2
+51,2023-02-13,,Arizona Coyotes,2,4,L,,,19,10,1,1,0,44,36,55.0,33,28,54.1,26,14,65.0,54.2,87.7,Nashville Predators,Nashville Predators,Arizona Coyotes,2,4
+52,2023-02-16,,Boston Bruins,0,5,L,,,30,6,1,4,0,45,39,53.6,36,29,55.4,17,23,42.5,37.5,78.9,Nashville Predators,Nashville Predators,Boston Bruins,0,5
+53,2023-02-18,,Florida Panthers,7,3,W,,,33,8,1,2,0,46,47,49.5,34,39,46.6,29,28,50.9,58.1,115.3,Nashville Predators,Nashville Predators,Florida Panthers,7,3
+54,2023-02-19,@,Minnesota Wild,3,4,L,,,35,4,1,5,0,49,50,49.5,33,35,48.5,21,18,53.8,53.8,102.3,Nashville Predators,Minnesota Wild,Nashville Predators,4,3
+55,2023-02-21,,Vancouver Canucks,5,4,W,SO,,39,8,1,4,0,45,59,43.3,31,41,43.1,25,13,65.8,32.3,104.6,Nashville Predators,Nashville Predators,Vancouver Canucks,5,4
+56,2023-02-23,@,San Jose Sharks,6,2,W,,,24,8,0,5,1,45,48,48.4,31,31,50.0,19,24,44.2,52.9,107.8,Nashville Predators,San Jose Sharks,Nashville Predators,2,6
+57,2023-02-26,@,Arizona Coyotes,6,2,W,,,27,16,0,5,1,45,51,46.9,33,36,47.8,23,19,54.8,41.2,109.9,Nashville Predators,Arizona Coyotes,Nashville Predators,2,6
+58,2023-02-28,,Pittsburgh Penguins,1,3,L,,,34,4,0,3,0,46,64,41.8,27,46,37.0,10,23,30.3,54.2,95.3,Nashville Predators,Nashville Predators,Pittsburgh Penguins,1,3
+59,2023-03-02,@,Florida Panthers,2,1,W,,,31,2,0,0,0,40,82,32.8,30,54,35.7,28,22,56.0,20.0,101.3,Nashville Predators,Florida Panthers,Nashville Predators,1,2
+60,2023-03-04,@,Chicago Blackhawks,3,1,W,,,28,10,0,2,0,37,41,47.4,30,32,48.4,23,20,53.5,53.4,104.3,Nashville Predators,Chicago Blackhawks,Nashville Predators,1,3
+61,2023-03-06,@,Vancouver Canucks,3,4,L,SO,,29,7,0,3,0,59,39,60.2,41,32,56.2,18,23,43.9,50.0,97.5,Nashville Predators,Vancouver Canucks,Nashville Predators,4,3
+62,2023-03-09,@,Arizona Coyotes,1,4,L,,,43,17,1,4,0,59,62,48.8,46,50,47.9,31,15,67.4,45.7,95.2,Nashville Predators,Arizona Coyotes,Nashville Predators,4,1
+63,2023-03-11,@,Los Angeles Kings,2,1,W,SO,,27,6,0,3,0,53,64,45.3,39,45,46.4,21,24,46.7,35.0,96.0,Nashville Predators,Los Angeles Kings,Nashville Predators,1,2
+64,2023-03-12,@,Anaheim Ducks,5,4,W,OT,,37,7,0,1,0,54,53,50.5,44,45,49.4,27,18,60.0,48.0,100.7,Nashville Predators,Anaheim Ducks,Nashville Predators,4,5
+65,2023-03-14,,Detroit Red Wings,2,1,W,,,29,10,1,4,0,21,54,28.0,13,37,26.0,22,15,59.5,47.4,122.2,Nashville Predators,Nashville Predators,Detroit Red Wings,2,1
+66,2023-03-16,,Chicago Blackhawks,1,2,L,,,21,4,0,1,0,62,47,56.9,46,34,57.5,35,18,66.0,51.4,92.6,Nashville Predators,Nashville Predators,Chicago Blackhawks,1,2
+67,2023-03-18,,Winnipeg Jets,2,3,L,OT,,34,7,0,4,0,36,59,37.9,25,42,37.3,19,27,41.3,35.2,101.1,Nashville Predators,Nashville Predators,Winnipeg Jets,2,3
+68,2023-03-19,@,New York Rangers,0,7,L,,,34,4,1,4,0,39,48,44.8,21,37,36.2,20,8,71.4,58.4,80.0,Nashville Predators,New York Rangers,Nashville Predators,7,0
+69,2023-03-21,@,Buffalo Sabres,7,3,W,,,31,11,1,4,0,39,44,47.0,32,39,45.1,22,16,57.9,29.4,122.7,Nashville Predators,Buffalo Sabres,Nashville Predators,3,7
+70,2023-03-23,,Seattle Kraken,2,1,W,SO,,28,4,0,2,0,56,52,51.9,40,39,50.6,22,16,57.9,49.4,100.4,Nashville Predators,Nashville Predators,Seattle Kraken,2,1
+71,2023-03-25,,Seattle Kraken,2,7,L,,,39,8,1,4,0,33,51,39.3,24,42,36.4,23,19,54.8,42.9,95.7,Nashville Predators,Nashville Predators,Seattle Kraken,2,7
+72,2023-03-26,,Toronto Maple Leafs,2,3,L,,,34,8,2,5,0,34,44,43.6,24,34,41.4,16,27,37.2,52.2,101.1,Nashville Predators,Nashville Predators,Toronto Maple Leafs,2,3
+73,2023-03-28,@,Boston Bruins,2,1,W,,,36,10,0,5,0,24,58,29.3,16,44,26.7,21,20,51.2,41.6,111.8,Nashville Predators,Boston Bruins,Nashville Predators,1,2
+74,2023-03-30,@,Pittsburgh Penguins,0,2,L,,,45,6,1,4,0,36,65,35.6,24,51,32.0,18,21,46.2,42.3,96.8,Nashville Predators,Pittsburgh Penguins,Nashville Predators,2,0
+75,2023-04-01,,St. Louis Blues,6,1,W,,,22,10,0,4,0,54,36,60.0,43,25,63.2,29,8,78.4,60.0,104.1,Nashville Predators,Nashville Predators,St. Louis Blues,6,1
+76,2023-04-03,@,Dallas Stars,1,5,L,,,26,6,2,4,0,36,46,43.9,24,36,40.0,30,20,60.0,40.0,92.3,Nashville Predators,Dallas Stars,Nashville Predators,5,1
+77,2023-04-04,,Vegas Golden Knights,3,2,W,OT,,32,8,0,3,0,42,58,42.0,29,40,42.0,15,23,39.5,54.9,95.7,Nashville Predators,Nashville Predators,Vegas Golden Knights,3,2
+78,2023-04-06,,Carolina Hurricanes,3,0,W,,,33,2,0,2,0,33,73,31.1,30,48,38.5,28,19,59.6,35.3,109.5,Nashville Predators,Nashville Predators,Carolina Hurricanes,3,0
+79,2023-04-08,@,Winnipeg Jets,0,2,L,,,38,2,0,3,0,35,70,33.3,28,49,36.4,18,24,42.9,38.7,93.8,Nashville Predators,Winnipeg Jets,Nashville Predators,2,0
+80,2023-04-10,@,Calgary Flames,3,2,W,SO,,44,12,0,4,0,32,63,33.7,30,40,42.9,20,17,54.1,42.6,103.8,Nashville Predators,Calgary Flames,Nashville Predators,2,3
+81,2023-04-13,,Minnesota Wild,4,3,W,OT,,24,6,0,1,0,57,42,57.6,37,35,51.4,16,14,53.3,50.0,98.1,Nashville Predators,Nashville Predators,Minnesota Wild,4,3
+82,2023-04-14,,Colorado Avalanche,3,4,L,,,34,4,0,4,0,37,55,40.2,26,39,40.0,25,15,62.5,58.3,96.7,Nashville Predators,Nashville Predators,Colorado Avalanche,3,4

@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-12,,Columbus Blue Jackets,4,1,W,,,32,4,0,2,0,84,50,62.7,64,41,61.0,37,27,57.8,53.1,107.6,Carolina Hurricanes,Carolina Hurricanes,Columbus Blue Jackets,4,1
+2,2022-10-14,@,San Jose Sharks,2,1,W,,,19,11,0,5,0,55,23,70.5,35,16,68.6,28,21,57.1,65.8,98.8,Carolina Hurricanes,San Jose Sharks,Carolina Hurricanes,1,2
+3,2022-10-17,@,Seattle Kraken,5,1,W,,,23,10,1,5,0,52,30,63.4,38,22,63.3,24,21,53.3,62.5,111.5,Carolina Hurricanes,Seattle Kraken,Carolina Hurricanes,1,5
+4,2022-10-20,@,Edmonton Oilers,4,6,L,,,33,10,2,5,1,56,43,56.6,40,32,55.6,29,32,47.5,58.6,95.1,Carolina Hurricanes,Edmonton Oilers,Carolina Hurricanes,6,4
+5,2022-10-22,@,Calgary Flames,2,3,L,OT,,32,8,1,4,0,47,31,60.3,33,25,56.9,22,15,59.5,63.2,98.7,Carolina Hurricanes,Calgary Flames,Carolina Hurricanes,3,2
+6,2022-10-24,@,Vancouver Canucks,3,2,W,,,16,6,1,2,0,62,34,64.6,50,20,71.4,38,22,63.3,56.4,97.4,Carolina Hurricanes,Vancouver Canucks,Carolina Hurricanes,2,3
+7,2022-10-28,,New York Islanders,2,6,L,,,32,6,0,1,1,73,45,61.9,49,36,57.6,32,25,56.1,70.6,91.0,Carolina Hurricanes,Carolina Hurricanes,New York Islanders,2,6
+8,2022-10-29,@,Philadelphia Flyers,4,3,W,OT,,29,10,1,6,0,52,28,65.0,40,22,64.5,20,24,45.5,58.2,103.8,Carolina Hurricanes,Philadelphia Flyers,Carolina Hurricanes,3,4
+9,2022-10-31,,Washington Capitals,3,2,W,SO,,20,16,1,4,0,43,27,61.4,30,22,57.7,21,20,51.2,65.2,98.8,Carolina Hurricanes,Carolina Hurricanes,Washington Capitals,3,2
+10,2022-11-03,@,Tampa Bay Lightning,4,3,W,SO,,26,12,2,5,0,61,37,62.2,45,27,62.5,31,17,64.6,74.8,97.8,Carolina Hurricanes,Tampa Bay Lightning,Carolina Hurricanes,3,4
+11,2022-11-04,,Buffalo Sabres,5,3,W,,,25,10,1,5,0,38,37,50.7,32,29,52.5,29,20,59.2,48.5,108.5,Carolina Hurricanes,Carolina Hurricanes,Buffalo Sabres,5,3
+12,2022-11-06,,Toronto Maple Leafs,1,3,L,,,21,4,0,1,0,62,42,59.6,49,33,59.8,30,30,50.0,57.5,85.0,Carolina Hurricanes,Carolina Hurricanes,Toronto Maple Leafs,1,3
+13,2022-11-09,@,Florida Panthers,0,3,L,,,37,6,1,4,0,50,38,56.8,36,31,53.7,26,22,54.2,56.0,90.5,Carolina Hurricanes,Florida Panthers,Carolina Hurricanes,3,0
+14,2022-11-10,,Edmonton Oilers,7,2,W,,,22,8,1,2,0,62,39,61.4,47,34,58.0,27,19,58.7,53.8,114.8,Carolina Hurricanes,Carolina Hurricanes,Edmonton Oilers,7,2
+15,2022-11-12,@,Colorado Avalanche,1,4,L,,,28,10,1,4,0,50,20,71.4,36,16,69.2,21,15,58.3,62.2,84.2,Carolina Hurricanes,Colorado Avalanche,Carolina Hurricanes,4,1
+16,2022-11-14,@,Chicago Blackhawks,3,0,W,,,27,6,0,4,0,43,27,61.4,32,21,60.4,19,24,44.2,48.5,114.3,Carolina Hurricanes,Chicago Blackhawks,Carolina Hurricanes,0,3
+17,2022-11-17,,Colorado Avalanche,2,3,L,OT,,15,10,1,3,0,62,25,71.3,49,19,72.1,35,15,70.0,71.8,88.6,Carolina Hurricanes,Carolina Hurricanes,Colorado Avalanche,2,3
+18,2022-11-19,@,Minnesota Wild,1,2,L,OT,,21,6,0,1,0,53,46,53.5,37,33,52.9,23,37,38.3,43.6,95.0,Carolina Hurricanes,Minnesota Wild,Carolina Hurricanes,2,1
+19,2022-11-21,@,Winnipeg Jets,3,4,L,OT,,23,4,0,3,0,69,35,66.3,51,27,65.4,19,13,59.4,50.5,92.0,Carolina Hurricanes,Winnipeg Jets,Carolina Hurricanes,4,3
+20,2022-11-23,,Arizona Coyotes,0,4,L,,,27,13,0,3,0,65,32,67.0,40,23,63.5,22,25,46.8,77.4,77.8,Carolina Hurricanes,Carolina Hurricanes,Arizona Coyotes,0,4
+21,2022-11-25,@,Boston Bruins,2,3,L,OT,,41,12,1,6,0,29,48,37.7,27,36,42.9,19,31,38.0,54.5,93.1,Carolina Hurricanes,Boston Bruins,Carolina Hurricanes,3,2
+22,2022-11-26,,Calgary Flames,3,2,W,,,20,8,1,3,0,56,39,58.9,44,29,60.3,18,29,38.3,63.0,97.2,Carolina Hurricanes,Carolina Hurricanes,Calgary Flames,3,2
+23,2022-11-29,@,Pittsburgh Penguins,3,2,W,OT,,32,4,0,2,0,57,50,53.3,46,36,56.1,26,22,54.2,48.5,102.1,Carolina Hurricanes,Pittsburgh Penguins,Carolina Hurricanes,2,3
+24,2022-12-01,@,St. Louis Blues,6,4,W,,,26,2,2,3,0,52,32,61.9,44,28,61.1,28,17,62.2,37.0,106.1,Carolina Hurricanes,St. Louis Blues,Carolina Hurricanes,4,6
+25,2022-12-03,@,Los Angeles Kings,4,2,W,,,33,6,1,4,0,50,55,47.6,45,40,52.9,22,29,43.1,39.3,107.0,Carolina Hurricanes,Los Angeles Kings,Carolina Hurricanes,2,4
+26,2022-12-06,@,Anaheim Ducks,3,4,L,OT,,30,4,0,2,0,63,45,58.3,45,29,60.8,27,22,55.1,60.6,92.7,Carolina Hurricanes,Anaheim Ducks,Carolina Hurricanes,4,3
+27,2022-12-10,@,New York Islanders,3,0,W,,,16,4,0,3,0,69,35,66.3,39,21,65.0,21,12,63.6,72.7,113.0,Carolina Hurricanes,New York Islanders,Carolina Hurricanes,0,3
+28,2022-12-13,@,Detroit Red Wings,1,0,W,,,27,4,0,3,0,51,43,54.3,36,36,50.0,27,25,51.9,48.2,100.0,Carolina Hurricanes,Detroit Red Wings,Carolina Hurricanes,0,1
+29,2022-12-15,,Seattle Kraken,3,2,W,,,17,4,0,2,0,58,29,66.7,45,21,68.2,22,21,51.2,44.4,95.2,Carolina Hurricanes,Carolina Hurricanes,Seattle Kraken,3,2
+30,2022-12-17,,Dallas Stars,5,4,W,OT,,30,12,2,5,0,57,44,56.4,43,30,58.9,30,32,48.4,53.0,100.7,Carolina Hurricanes,Carolina Hurricanes,Dallas Stars,5,4
+31,2022-12-18,,Pittsburgh Penguins,3,2,W,,,25,6,1,5,0,45,43,51.1,34,35,49.3,22,20,52.4,40.0,106.3,Carolina Hurricanes,Carolina Hurricanes,Pittsburgh Penguins,3,2
+32,2022-12-20,,New Jersey Devils,4,1,W,,,38,8,0,4,0,31,47,39.7,26,38,40.6,23,17,57.5,29.6,116.2,Carolina Hurricanes,Carolina Hurricanes,New Jersey Devils,4,1
+33,2022-12-22,@,Pittsburgh Penguins,4,3,W,OT,,27,12,1,3,1,66,37,64.1,44,30,59.5,25,34,42.4,59.0,108.1,Carolina Hurricanes,Pittsburgh Penguins,Carolina Hurricanes,3,4
+34,2022-12-23,,Philadelphia Flyers,6,5,W,,,31,8,0,2,2,58,40,59.2,43,34,55.8,29,25,53.7,42.6,100.0,Carolina Hurricanes,Carolina Hurricanes,Philadelphia Flyers,6,5
+35,2022-12-27,,Chicago Blackhawks,3,0,W,,,24,6,0,3,0,65,43,60.2,54,28,65.9,19,21,47.5,48.3,107.1,Carolina Hurricanes,Carolina Hurricanes,Chicago Blackhawks,3,0
+36,2022-12-30,,Florida Panthers,4,0,W,,,19,12,0,6,0,36,35,50.7,31,27,53.4,29,24,54.7,48.6,104.0,Carolina Hurricanes,Carolina Hurricanes,Florida Panthers,4,0
+37,2023-01-01,@,New Jersey Devils,5,4,W,SO,,28,10,0,3,0,67,37,64.4,49,30,62.0,33,26,55.9,70.2,87.4,Carolina Hurricanes,New Jersey Devils,Carolina Hurricanes,4,5
+38,2023-01-03,@,New York Rangers,3,5,L,,,31,8,3,5,0,34,37,47.9,23,29,44.2,16,22,42.1,28.7,109.7,Carolina Hurricanes,New York Rangers,Carolina Hurricanes,5,3
+39,2023-01-05,,Nashville Predators,3,5,L,,,25,10,1,3,0,85,40,68.0,70,27,72.2,34,23,59.6,69.5,84.6,Carolina Hurricanes,Carolina Hurricanes,Nashville Predators,3,5
+40,2023-01-07,@,Columbus Blue Jackets,3,4,L,SO,,18,14,2,5,0,53,20,72.6,41,15,73.2,23,20,53.5,65.9,94.0,Carolina Hurricanes,Columbus Blue Jackets,Carolina Hurricanes,4,3
+41,2023-01-10,,New Jersey Devils,3,5,L,,,22,6,0,4,0,66,33,66.7,42,26,61.8,25,23,52.1,59.0,77.5,Carolina Hurricanes,Carolina Hurricanes,New Jersey Devils,3,5
+42,2023-01-12,@,Columbus Blue Jackets,6,2,W,,,23,10,0,3,0,58,34,63.0,41,26,61.2,28,24,53.8,61.4,105.6,Carolina Hurricanes,Columbus Blue Jackets,Carolina Hurricanes,2,6
+43,2023-01-14,,Pittsburgh Penguins,2,1,W,,,35,4,1,6,0,53,51,51.0,44,39,53.0,24,19,55.8,53.3,107.4,Carolina Hurricanes,Carolina Hurricanes,Pittsburgh Penguins,2,1
+44,2023-01-15,,Vancouver Canucks,3,4,L,SO,,32,4,0,1,0,65,47,58.0,49,36,57.6,31,27,53.4,57.1,99.0,Carolina Hurricanes,Carolina Hurricanes,Vancouver Canucks,3,4
+45,2023-01-19,,Minnesota Wild,5,2,W,,,31,24,1,4,0,38,38,50.0,25,26,49.0,16,20,44.4,50.0,108.4,Carolina Hurricanes,Carolina Hurricanes,Minnesota Wild,5,2
+46,2023-01-21,@,New York Islanders,5,2,W,,,31,10,0,2,0,57,52,52.3,41,37,52.6,27,27,50.0,47.5,112.6,Carolina Hurricanes,New York Islanders,Carolina Hurricanes,2,5
+47,2023-01-25,@,Dallas Stars,3,2,W,OT,,21,9,0,2,0,52,32,61.9,34,24,58.6,33,23,58.9,48.6,99.6,Carolina Hurricanes,Dallas Stars,Carolina Hurricanes,2,3
+48,2023-01-27,,San Jose Sharks,5,4,W,OT,,30,4,0,2,0,60,46,56.6,45,34,57.0,29,28,50.9,56.1,98.4,Carolina Hurricanes,Carolina Hurricanes,San Jose Sharks,5,4
+49,2023-01-29,,Boston Bruins,4,1,W,,,25,10,0,6,0,39,26,60.0,34,22,60.7,17,24,41.5,50.0,101.3,Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,4,1
+50,2023-01-31,,Los Angeles Kings,5,4,W,OT,,21,4,1,2,0,61,35,63.5,48,28,63.2,34,26,56.7,68.8,95.7,Carolina Hurricanes,Carolina Hurricanes,Los Angeles Kings,5,4
+51,2023-02-01,@,Buffalo Sabres,5,1,W,,,30,4,0,4,0,48,43,52.7,33,34,49.3,27,16,62.8,39.3,106.5,Carolina Hurricanes,Buffalo Sabres,Carolina Hurricanes,1,5
+52,2023-02-11,,New York Rangers,2,6,L,,,19,4,1,1,0,59,37,61.5,45,29,60.8,31,25,55.4,67.6,78.6,Carolina Hurricanes,Carolina Hurricanes,New York Rangers,2,6
+53,2023-02-14,@,Washington Capitals,3,2,W,,,36,2,0,3,0,58,54,51.8,45,41,52.3,25,39,39.1,45.7,100.7,Carolina Hurricanes,Washington Capitals,Carolina Hurricanes,2,3
+54,2023-02-16,,Montreal Canadiens,6,2,W,,,22,6,1,3,0,59,29,67.0,50,25,66.7,21,22,48.8,60.7,109.2,Carolina Hurricanes,Carolina Hurricanes,Montreal Canadiens,6,2
+55,2023-02-18,,Washington Capitals,4,1,W,,,25,13,0,2,0,53,36,59.6,40,31,56.3,32,33,49.2,63.2,106.9,Carolina Hurricanes,Carolina Hurricanes,Washington Capitals,4,1
+56,2023-02-21,,St. Louis Blues,4,1,W,,,36,0,0,3,0,73,46,61.3,55,41,57.3,35,23,60.3,31.0,107.9,Carolina Hurricanes,Carolina Hurricanes,St. Louis Blues,4,1
+57,2023-02-24,,Ottawa Senators,4,0,W,,,32,4,0,5,0,59,42,58.4,47,36,56.6,34,20,63.0,46.2,114.3,Carolina Hurricanes,Carolina Hurricanes,Ottawa Senators,4,0
+58,2023-02-25,,Anaheim Ducks,2,3,L,,,16,8,0,3,0,72,25,74.2,57,19,75.0,24,24,50.0,76.4,81.5,Carolina Hurricanes,Carolina Hurricanes,Anaheim Ducks,2,3
+59,2023-03-01,@,Vegas Golden Knights,2,3,L,,,20,0,0,1,0,63,47,57.3,44,31,58.7,25,31,44.6,77.8,92.7,Carolina Hurricanes,Vegas Golden Knights,Carolina Hurricanes,3,2
+60,2023-03-03,@,Arizona Coyotes,6,1,W,,,18,8,0,3,0,62,30,67.4,50,22,69.4,24,21,53.3,75.0,102.3,Carolina Hurricanes,Arizona Coyotes,Carolina Hurricanes,1,6
+61,2023-03-05,,Tampa Bay Lightning,6,0,W,,,14,22,0,2,0,37,30,55.2,30,21,58.8,23,24,48.9,58.1,108.3,Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,6,0
+62,2023-03-07,@,Montreal Canadiens,4,3,W,SO,,24,6,0,4,0,79,41,65.8,56,34,62.2,30,24,55.6,56.2,95.6,Carolina Hurricanes,Montreal Canadiens,Carolina Hurricanes,3,4
+63,2023-03-09,,Philadelphia Flyers,1,0,W,,,19,10,0,1,0,54,28,65.9,36,22,62.1,24,12,66.7,52.4,100.0,Carolina Hurricanes,Carolina Hurricanes,Philadelphia Flyers,1,0
+64,2023-03-11,,Vegas Golden Knights,0,4,L,,,24,2,0,1,0,69,36,65.7,50,28,64.1,29,31,48.3,60.0,82.6,Carolina Hurricanes,Carolina Hurricanes,Vegas Golden Knights,0,4
+65,2023-03-12,@,New Jersey Devils,0,3,L,,,23,8,0,2,0,61,39,61.0,46,28,62.2,30,15,66.7,73.4,83.3,Carolina Hurricanes,New Jersey Devils,Carolina Hurricanes,3,0
+66,2023-03-14,,Winnipeg Jets,5,3,W,,,24,9,0,1,0,49,38,56.3,36,28,56.3,22,18,55.0,60.9,107.8,Carolina Hurricanes,Carolina Hurricanes,Winnipeg Jets,5,3
+67,2023-03-17,@,Toronto Maple Leafs,2,5,L,,,24,6,1,1,0,72,36,66.7,54,28,65.9,21,26,44.7,61.3,88.1,Carolina Hurricanes,Toronto Maple Leafs,Carolina Hurricanes,5,2
+68,2023-03-18,@,Philadelphia Flyers,5,4,W,OT,,33,2,1,4,0,63,36,63.6,45,33,57.7,28,28,50.0,54.1,101.3,Carolina Hurricanes,Philadelphia Flyers,Carolina Hurricanes,4,5
+69,2023-03-21,@,New York Rangers,3,2,W,,,31,2,0,3,0,60,39,60.6,48,33,59.3,27,29,48.2,75.0,100.5,Carolina Hurricanes,New York Rangers,Carolina Hurricanes,2,3
+70,2023-03-23,,New York Rangers,1,2,L,,,16,6,0,3,0,56,22,71.8,42,16,72.4,24,19,55.8,81.5,86.9,Carolina Hurricanes,Carolina Hurricanes,New York Rangers,1,2
+71,2023-03-25,,Toronto Maple Leafs,5,3,W,,,44,4,0,3,0,37,62,37.4,27,46,37.0,29,18,61.7,51.9,110.6,Carolina Hurricanes,Carolina Hurricanes,Toronto Maple Leafs,5,3
+72,2023-03-26,,Boston Bruins,3,4,L,SO,,38,6,1,2,0,70,50,58.3,53,41,56.4,29,28,50.9,66.8,103.7,Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,3,4
+73,2023-03-28,,Tampa Bay Lightning,0,4,L,,,21,6,0,1,0,47,45,51.1,42,27,60.9,24,23,51.1,52.8,77.8,Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,0,4
+74,2023-03-30,@,Detroit Red Wings,2,3,L,,,22,6,1,3,0,78,28,73.6,54,23,70.1,24,27,47.1,76.3,94.7,Carolina Hurricanes,Detroit Red Wings,Carolina Hurricanes,3,2
+75,2023-04-01,@,Montreal Canadiens,3,0,W,,,14,4,0,3,0,72,23,75.8,58,17,77.3,27,17,61.4,63.0,104.3,Carolina Hurricanes,Montreal Canadiens,Carolina Hurricanes,0,3
+76,2023-04-02,,New York Islanders,2,1,W,,,22,4,0,2,0,58,42,58.0,42,30,58.3,28,25,52.8,52.6,101.9,Carolina Hurricanes,Carolina Hurricanes,New York Islanders,2,1
+77,2023-04-04,,Ottawa Senators,3,2,W,OT,,28,10,1,4,0,52,51,50.5,39,40,49.4,27,17,61.4,60.7,103.4,Carolina Hurricanes,Carolina Hurricanes,Ottawa Senators,3,2
+78,2023-04-06,@,Nashville Predators,0,3,L,,,23,4,0,1,1,73,33,68.9,48,30,61.5,19,28,40.4,64.7,90.5,Carolina Hurricanes,Nashville Predators,Carolina Hurricanes,3,0
+79,2023-04-08,@,Buffalo Sabres,3,4,L,,,30,4,1,4,0,65,41,61.3,50,36,58.1,28,19,59.6,62.9,97.8,Carolina Hurricanes,Buffalo Sabres,Carolina Hurricanes,4,3
+80,2023-04-10,@,Ottawa Senators,2,3,L,,,32,12,0,6,0,35,34,50.7,22,29,43.1,16,24,40.0,59.7,92.5,Carolina Hurricanes,Ottawa Senators,Carolina Hurricanes,3,2
+81,2023-04-11,,Detroit Red Wings,4,1,W,,,21,2,0,2,0,47,30,61.0,37,25,59.7,21,27,43.8,41.4,111.7,Carolina Hurricanes,Carolina Hurricanes,Detroit Red Wings,4,1
+82,2023-04-13,@,Florida Panthers,6,4,W,,,34,20,0,2,0,70,56,55.6,55,41,57.3,21,32,39.6,55.8,106.0,Carolina Hurricanes,Florida Panthers,Carolina Hurricanes,4,6

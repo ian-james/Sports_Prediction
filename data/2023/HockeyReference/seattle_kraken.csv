@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-12,@,Anaheim Ducks,4,5,L,OT,,27,15,2,3,0,56,36,60.9,47,25,65.3,20,22,47.6,64.0,88.4,Seattle Kraken,Anaheim Ducks,Seattle Kraken,5,4
+2,2022-10-13,@,Los Angeles Kings,4,1,W,,,27,21,1,5,0,29,42,40.8,22,30,42.3,11,25,30.6,43.9,112.5,Seattle Kraken,Los Angeles Kings,Seattle Kraken,1,4
+3,2022-10-15,,Vegas Golden Knights,2,5,L,,,30,4,2,4,0,57,46,55.3,40,38,51.3,20,37,35.1,54.1,92.2,Seattle Kraken,Seattle Kraken,Vegas Golden Knights,2,5
+4,2022-10-17,,Carolina Hurricanes,1,5,L,,,34,10,2,5,0,30,52,36.6,22,38,36.7,21,24,46.7,37.5,88.5,Seattle Kraken,Seattle Kraken,Carolina Hurricanes,1,5
+5,2022-10-19,,St. Louis Blues,3,4,L,OT,,28,6,0,3,0,67,32,67.7,53,28,65.4,21,25,45.7,64.1,91.9,Seattle Kraken,Seattle Kraken,St. Louis Blues,3,4
+6,2022-10-21,@,Colorado Avalanche,3,2,W,,,20,15,0,2,1,45,39,53.6,38,28,57.6,17,29,37.0,73.2,100.6,Seattle Kraken,Colorado Avalanche,Seattle Kraken,2,3
+7,2022-10-23,@,Chicago Blackhawks,4,5,L,,,27,8,2,3,1,52,40,56.5,38,30,55.9,17,32,34.7,61.3,104.9,Seattle Kraken,Chicago Blackhawks,Seattle Kraken,5,4
+8,2022-10-25,,Buffalo Sabres,5,1,W,,,16,6,0,4,0,34,30,53.1,27,18,60.0,14,25,35.9,32.0,107.6,Seattle Kraken,Seattle Kraken,Buffalo Sabres,5,1
+9,2022-10-27,,Vancouver Canucks,4,5,L,,,19,23,2,2,0,58,29,66.7,43,21,67.2,20,26,43.5,78.6,92.4,Seattle Kraken,Seattle Kraken,Vancouver Canucks,4,5
+10,2022-10-29,,Pittsburgh Penguins,3,1,W,,,33,4,0,2,0,54,56,49.1,40,44,47.6,30,25,54.5,38.5,108.8,Seattle Kraken,Seattle Kraken,Pittsburgh Penguins,3,1
+11,2022-11-01,@,Calgary Flames,5,4,W,,,40,13,0,4,0,37,56,39.8,23,42,35.4,21,32,39.6,26.7,104.5,Seattle Kraken,Calgary Flames,Seattle Kraken,4,5
+12,2022-11-03,@,Minnesota Wild,4,0,W,,,22,4,0,2,0,39,36,52.0,32,24,57.1,21,18,53.8,60.9,114.3,Seattle Kraken,Minnesota Wild,Seattle Kraken,0,4
+13,2022-11-05,@,Pittsburgh Penguins,3,2,W,,,37,6,0,3,0,40,68,37.0,33,51,39.3,13,21,38.2,55.0,106.0,Seattle Kraken,Pittsburgh Penguins,Seattle Kraken,2,3
+14,2022-11-08,,Nashville Predators,5,1,W,,,25,2,0,2,0,40,60,40.0,26,39,40.0,18,22,45.0,,123.2,Seattle Kraken,Seattle Kraken,Nashville Predators,5,1
+15,2022-11-11,,Minnesota Wild,0,1,L,,,21,8,0,3,0,54,29,65.1,39,24,61.9,22,16,57.9,61.3,93.8,Seattle Kraken,Seattle Kraken,Minnesota Wild,0,1
+16,2022-11-13,,Winnipeg Jets,2,3,L,OT,,30,10,2,7,0,34,48,41.5,26,31,45.6,19,12,61.3,66.7,99.1,Seattle Kraken,Seattle Kraken,Winnipeg Jets,2,3
+17,2022-11-17,,New York Rangers,3,2,W,OT,,30,8,2,4,0,55,44,55.6,46,33,58.2,16,17,48.5,56.3,110.3,Seattle Kraken,Seattle Kraken,New York Rangers,3,2
+18,2022-11-19,,Los Angeles Kings,3,2,W,OT,,29,6,0,1,1,41,61,40.2,34,39,46.6,22,20,52.4,37.2,104.0,Seattle Kraken,Seattle Kraken,Los Angeles Kings,3,2
+19,2022-11-23,,San Jose Sharks,8,5,W,,,26,8,1,2,0,47,45,51.1,32,31,50.8,23,27,46.0,45.5,110.1,Seattle Kraken,Seattle Kraken,San Jose Sharks,8,5
+20,2022-11-25,@,Vegas Golden Knights,4,2,W,,,22,4,1,1,0,53,42,55.8,34,28,54.8,21,27,43.8,58.8,110.4,Seattle Kraken,Vegas Golden Knights,Seattle Kraken,2,4
+21,2022-11-27,@,Anaheim Ducks,5,4,W,,,29,4,3,4,0,37,41,47.4,29,33,46.8,19,26,42.2,62.1,114.7,Seattle Kraken,Anaheim Ducks,Seattle Kraken,4,5
+22,2022-11-29,@,Los Angeles Kings,9,8,W,OT,,35,8,2,4,0,47,48,49.5,39,40,49.4,19,33,36.5,57.4,101.6,Seattle Kraken,Los Angeles Kings,Seattle Kraken,8,9
+23,2022-12-01,,Washington Capitals,3,2,W,OT,,23,9,1,4,0,64,29,68.8,40,23,63.5,18,24,42.9,58.6,101.7,Seattle Kraken,Seattle Kraken,Washington Capitals,3,2
+24,2022-12-03,,Florida Panthers,1,5,L,,,28,6,3,4,0,55,42,56.7,45,31,59.2,20,22,47.6,62.5,93.5,Seattle Kraken,Seattle Kraken,Florida Panthers,1,5
+25,2022-12-06,,Montreal Canadiens,2,4,L,,,16,6,0,4,0,54,31,63.5,40,20,66.7,24,19,55.8,56.4,78.6,Seattle Kraken,Seattle Kraken,Montreal Canadiens,2,4
+26,2022-12-09,@,Washington Capitals,1,4,L,,,38,4,1,4,0,44,52,45.8,25,43,36.8,13,21,38.2,56.5,96.2,Seattle Kraken,Washington Capitals,Seattle Kraken,4,1
+27,2022-12-11,@,Florida Panthers,5,2,W,,,25,25,0,3,0,39,33,54.2,32,25,56.1,13,31,29.5,58.4,105.7,Seattle Kraken,Florida Panthers,Seattle Kraken,2,5
+28,2022-12-13,@,Tampa Bay Lightning,2,6,L,,,30,19,1,3,0,63,48,56.8,48,38,55.8,30,28,51.7,61.4,87.9,Seattle Kraken,Tampa Bay Lightning,Seattle Kraken,6,2
+29,2022-12-15,@,Carolina Hurricanes,2,3,L,,,39,4,0,2,0,29,58,33.3,21,45,31.8,21,22,48.8,55.6,104.8,Seattle Kraken,Carolina Hurricanes,Seattle Kraken,3,2
+30,2022-12-18,,Winnipeg Jets,3,2,W,,,17,6,2,3,0,54,29,65.1,39,17,69.6,26,15,63.4,61.9,110.7,Seattle Kraken,Seattle Kraken,Winnipeg Jets,3,2
+31,2022-12-20,,St. Louis Blues,5,2,W,,,24,6,1,3,0,52,42,55.3,45,27,62.5,19,15,55.9,38.1,110.1,Seattle Kraken,Seattle Kraken,St. Louis Blues,5,2
+32,2022-12-22,@,Vancouver Canucks,5,6,L,SO,,37,7,1,3,0,66,63,51.2,46,45,50.5,28,29,49.1,69.0,102.2,Seattle Kraken,Vancouver Canucks,Seattle Kraken,6,5
+33,2022-12-28,,Calgary Flames,2,3,L,,,44,2,1,4,0,59,51,53.6,45,45,50.0,20,23,46.5,50.0,99.8,Seattle Kraken,Seattle Kraken,Calgary Flames,2,3
+34,2022-12-30,,Edmonton Oilers,2,7,L,,,32,13,2,2,0,59,50,54.1,45,33,57.7,27,19,58.7,58.6,88.2,Seattle Kraken,Seattle Kraken,Edmonton Oilers,2,7
+35,2023-01-01,,New York Islanders,4,1,W,,,19,4,0,2,0,47,41,53.4,32,30,51.6,18,28,39.1,56.0,105.2,Seattle Kraken,Seattle Kraken,New York Islanders,4,1
+36,2023-01-03,@,Edmonton Oilers,5,2,W,,,32,6,1,3,0,38,49,43.7,30,35,46.2,23,29,44.2,45.2,115.0,Seattle Kraken,Edmonton Oilers,Seattle Kraken,2,5
+37,2023-01-05,@,Toronto Maple Leafs,5,1,W,,,27,4,1,5,0,41,45,47.7,28,36,43.8,15,23,39.5,54.2,119.0,Seattle Kraken,Toronto Maple Leafs,Seattle Kraken,1,5
+38,2023-01-07,@,Ottawa Senators,8,4,W,,,23,2,1,3,0,37,48,43.5,28,32,46.7,23,31,42.6,51.4,123.1,Seattle Kraken,Ottawa Senators,Seattle Kraken,4,8
+39,2023-01-09,@,Montreal Canadiens,4,0,W,,,21,27,0,2,0,48,47,50.5,36,27,57.1,16,16,50.0,33.6,109.7,Seattle Kraken,Montreal Canadiens,Seattle Kraken,0,4
+40,2023-01-10,@,Buffalo Sabres,4,3,W,,,35,4,1,4,0,35,53,39.8,31,41,43.1,35,24,59.3,47.4,107.1,Seattle Kraken,Buffalo Sabres,Seattle Kraken,3,4
+41,2023-01-12,@,Boston Bruins,3,0,W,,,27,6,0,1,0,43,52,45.3,34,36,48.6,9,23,28.1,52.2,110.7,Seattle Kraken,Boston Bruins,Seattle Kraken,0,3
+42,2023-01-14,@,Chicago Blackhawks,8,5,W,,,27,4,2,2,0,44,39,53.0,35,35,50.0,27,27,50.0,54.5,117.7,Seattle Kraken,Chicago Blackhawks,Seattle Kraken,5,8
+43,2023-01-16,,Tampa Bay Lightning,1,4,L,,,31,6,0,2,0,38,47,44.7,29,34,46.0,14,23,37.8,34.8,88.3,Seattle Kraken,Seattle Kraken,Tampa Bay Lightning,1,4
+44,2023-01-17,@,Edmonton Oilers,2,5,L,,,33,8,0,3,0,42,51,45.2,33,38,46.5,23,26,46.9,61.8,87.2,Seattle Kraken,Edmonton Oilers,Seattle Kraken,5,2
+45,2023-01-19,,New Jersey Devils,4,3,W,OT,,30,6,0,1,1,75,56,57.3,56,41,57.7,29,29,50.0,65.7,102.8,Seattle Kraken,Seattle Kraken,New Jersey Devils,4,3
+46,2023-01-21,,Colorado Avalanche,1,2,L,SO,,27,4,0,2,0,55,50,52.4,44,33,57.1,22,18,55.0,55.2,99.7,Seattle Kraken,Seattle Kraken,Colorado Avalanche,1,2
+47,2023-01-25,,Vancouver Canucks,6,1,W,,,20,13,0,5,0,57,32,64.0,40,21,65.6,23,20,53.5,53.5,107.5,Seattle Kraken,Seattle Kraken,Vancouver Canucks,6,1
+48,2023-01-27,,Calgary Flames,2,5,L,,,38,12,0,2,0,41,54,43.2,31,42,42.5,19,26,42.2,42.9,95.0,Seattle Kraken,Seattle Kraken,Calgary Flames,2,5
+49,2023-01-28,,Columbus Blue Jackets,3,1,W,,,25,4,0,2,0,58,45,56.3,44,32,57.9,26,26,50.0,41.2,105.6,Seattle Kraken,Seattle Kraken,Columbus Blue Jackets,3,1
+50,2023-02-07,@,New York Islanders,0,4,L,,,28,2,0,1,0,57,49,53.8,42,36,53.8,21,28,42.9,42.4,84.6,Seattle Kraken,New York Islanders,Seattle Kraken,4,0
+51,2023-02-09,@,New Jersey Devils,1,3,L,,,27,6,2,4,0,56,44,56.0,34,33,50.7,18,29,38.3,54.5,99.5,Seattle Kraken,New Jersey Devils,Seattle Kraken,3,1
+52,2023-02-10,@,New York Rangers,3,6,L,,,28,10,2,3,1,57,36,61.3,40,26,60.6,19,23,45.2,60.2,91.0,Seattle Kraken,New York Rangers,Seattle Kraken,6,3
+53,2023-02-12,@,Philadelphia Flyers,4,3,W,,,18,2,1,2,1,58,38,60.4,34,23,59.6,23,15,60.5,57.7,112.9,Seattle Kraken,Philadelphia Flyers,Seattle Kraken,3,4
+54,2023-02-14,@,Winnipeg Jets,2,3,L,SO,,40,8,0,3,0,43,58,42.6,34,48,41.5,23,26,46.9,40.0,98.6,Seattle Kraken,Winnipeg Jets,Seattle Kraken,3,2
+55,2023-02-16,,Philadelphia Flyers,6,2,W,,,19,11,0,1,0,47,50,48.5,32,32,50.0,22,29,43.1,56.5,104.5,Seattle Kraken,Seattle Kraken,Philadelphia Flyers,6,2
+56,2023-02-18,,Detroit Red Wings,4,2,W,,,23,16,0,3,0,57,54,51.4,42,42,50.0,31,21,59.6,52.6,106.9,Seattle Kraken,Seattle Kraken,Detroit Red Wings,4,2
+57,2023-02-20,@,San Jose Sharks,0,4,L,,,23,4,0,2,0,47,41,53.4,34,34,50.0,25,21,54.3,60.6,81.8,Seattle Kraken,San Jose Sharks,Seattle Kraken,4,0
+58,2023-02-23,,Boston Bruins,5,6,L,,,33,12,0,1,1,57,57,50.0,47,48,49.5,19,29,39.6,44.8,95.3,Seattle Kraken,Seattle Kraken,Boston Bruins,5,6
+59,2023-02-26,,Toronto Maple Leafs,1,5,L,,,33,4,0,1,0,47,48,49.5,33,38,46.5,10,27,27.0,50.0,86.9,Seattle Kraken,Seattle Kraken,Toronto Maple Leafs,1,5
+60,2023-02-28,@,St. Louis Blues,5,3,W,,,25,4,0,4,1,48,41,53.9,31,26,54.4,24,17,58.5,37.1,113.8,Seattle Kraken,St. Louis Blues,Seattle Kraken,3,5
+61,2023-03-02,@,Detroit Red Wings,5,4,W,OT,,29,15,0,3,0,54,37,59.3,39,30,56.5,20,31,39.2,60.8,97.1,Seattle Kraken,Detroit Red Wings,Seattle Kraken,4,5
+62,2023-03-03,@,Columbus Blue Jackets,4,2,W,,,23,8,1,4,0,55,43,56.1,43,34,55.8,21,29,42.0,69.7,100.9,Seattle Kraken,Columbus Blue Jackets,Seattle Kraken,2,4
+63,2023-03-05,@,Colorado Avalanche,3,2,W,OT,,23,10,0,2,0,48,33,59.3,34,25,57.6,21,26,44.7,57.1,100.9,Seattle Kraken,Colorado Avalanche,Seattle Kraken,2,3
+64,2023-03-07,,Anaheim Ducks,5,2,W,,,22,6,0,3,0,45,38,54.2,36,28,56.3,22,22,50.0,59.7,106.0,Seattle Kraken,Seattle Kraken,Anaheim Ducks,5,2
+65,2023-03-09,,Ottawa Senators,4,5,L,,,31,4,0,4,0,50,49,50.5,42,33,56.0,20,35,36.4,57.4,85.3,Seattle Kraken,Seattle Kraken,Ottawa Senators,4,5
+66,2023-03-11,,Dallas Stars,3,4,L,OT,,25,8,0,1,0,50,49,50.5,38,32,54.3,22,27,44.9,64.2,89.0,Seattle Kraken,Seattle Kraken,Dallas Stars,3,4
+67,2023-03-13,,Dallas Stars,2,5,L,,,32,4,3,4,0,46,47,49.5,37,35,51.4,17,28,37.8,50.0,100.3,Seattle Kraken,Seattle Kraken,Dallas Stars,2,5
+68,2023-03-16,@,San Jose Sharks,2,1,W,OT,,32,8,0,2,0,57,50,53.3,43,36,54.4,16,21,43.2,38.1,104.6,Seattle Kraken,San Jose Sharks,Seattle Kraken,1,2
+69,2023-03-18,,Edmonton Oilers,4,6,L,,,23,11,1,3,0,54,35,60.7,44,27,62.0,26,27,49.1,65.6,84.7,Seattle Kraken,Seattle Kraken,Edmonton Oilers,4,6
+70,2023-03-21,@,Dallas Stars,5,4,W,OT,,29,4,1,4,0,53,47,53.0,45,31,59.2,21,28,42.9,55.7,104.2,Seattle Kraken,Dallas Stars,Seattle Kraken,4,5
+71,2023-03-23,@,Nashville Predators,1,2,L,SO,,24,4,0,2,0,52,56,48.1,39,40,49.4,16,22,42.1,50.6,99.6,Seattle Kraken,Nashville Predators,Seattle Kraken,2,1
+72,2023-03-25,@,Nashville Predators,7,2,W,,,16,10,0,3,0,51,33,60.7,42,24,63.6,19,23,45.2,57.1,104.3,Seattle Kraken,Nashville Predators,Seattle Kraken,2,7
+73,2023-03-27,@,Minnesota Wild,1,5,L,,,20,18,1,3,0,55,32,63.2,42,26,61.8,26,19,57.8,46.1,76.5,Seattle Kraken,Minnesota Wild,Seattle Kraken,5,1
+74,2023-03-30,,Anaheim Ducks,4,1,W,,,19,6,0,2,0,69,30,69.7,54,19,74.0,17,19,47.2,76.2,102.1,Seattle Kraken,Seattle Kraken,Anaheim Ducks,4,1
+75,2023-04-01,,Los Angeles Kings,1,3,L,,,19,4,0,1,0,44,43,50.6,33,35,48.5,20,37,35.1,58.5,84.2,Seattle Kraken,Seattle Kraken,Los Angeles Kings,1,3
+76,2023-04-03,,Arizona Coyotes,8,1,W,,,21,49,0,3,0,31,36,46.3,24,23,51.1,21,16,56.8,48.0,123.2,Seattle Kraken,Seattle Kraken,Arizona Coyotes,8,1
+77,2023-04-04,@,Vancouver Canucks,5,2,W,,,18,13,0,5,0,35,28,55.6,27,18,60.0,19,17,52.8,52.4,99.6,Seattle Kraken,Vancouver Canucks,Seattle Kraken,2,5
+78,2023-04-06,,Arizona Coyotes,4,2,W,,,29,40,0,2,0,39,46,45.9,33,37,47.1,22,33,40.0,40.0,106.6,Seattle Kraken,Seattle Kraken,Arizona Coyotes,4,2
+79,2023-04-08,,Chicago Blackhawks,7,3,W,,,29,8,1,3,0,38,52,42.2,29,37,43.9,21,29,42.0,44.4,117.4,Seattle Kraken,Seattle Kraken,Chicago Blackhawks,7,3
+80,2023-04-10,@,Arizona Coyotes,4,1,W,,,23,15,0,4,0,44,30,59.5,33,25,56.9,18,16,52.9,52.4,103.3,Seattle Kraken,Arizona Coyotes,Seattle Kraken,1,4
+81,2023-04-11,@,Vegas Golden Knights,1,4,L,,,37,4,1,3,0,54,55,49.5,39,40,49.4,19,23,45.2,36.4,95.7,Seattle Kraken,Vegas Golden Knights,Seattle Kraken,4,1
+82,2023-04-13,,Vegas Golden Knights,1,3,L,,,19,12,0,2,1,65,38,63.1,45,24,65.2,24,30,44.4,56.8,92.2,Seattle Kraken,Seattle Kraken,Vegas Golden Knights,1,3

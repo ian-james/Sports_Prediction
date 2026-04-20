@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-11,@,New York Rangers,1,3,L,,,39,12,1,4,1,33,43,43.4,25,27,48.1,8,21,27.6,66.7,95.2,Tampa Bay Lightning,New York Rangers,Tampa Bay Lightning,3,1
+2,2022-10-14,@,Columbus Blue Jackets,5,2,W,,,28,4,0,4,0,64,26,71.1,51,23,68.9,14,28,33.3,78.6,98.3,Tampa Bay Lightning,Columbus Blue Jackets,Tampa Bay Lightning,2,5
+3,2022-10-15,@,Pittsburgh Penguins,2,6,L,,,45,8,2,4,0,45,56,44.6,33,47,41.3,16,30,34.8,53.6,92.4,Tampa Bay Lightning,Pittsburgh Penguins,Tampa Bay Lightning,6,2
+4,2022-10-18,,Philadelphia Flyers,2,3,L,,,24,16,1,2,0,63,42,60.0,49,28,63.6,28,17,62.2,66.7,90.5,Tampa Bay Lightning,Tampa Bay Lightning,Philadelphia Flyers,2,3
+5,2022-10-21,@,Florida Panthers,3,2,W,OT,,38,18,0,5,0,34,44,43.6,29,32,47.5,29,21,58.0,59.2,97.4,Tampa Bay Lightning,Florida Panthers,Tampa Bay Lightning,2,3
+6,2022-10-22,,New York Islanders,5,3,W,,,35,6,0,3,0,34,60,36.2,26,46,36.1,21,20,51.2,29.2,121.3,Tampa Bay Lightning,Tampa Bay Lightning,New York Islanders,5,3
+7,2022-10-25,@,Los Angeles Kings,2,4,L,,,33,10,1,4,0,42,54,43.8,25,38,39.7,19,17,52.8,47.7,100.8,Tampa Bay Lightning,Los Angeles Kings,Tampa Bay Lightning,4,2
+8,2022-10-26,@,Anaheim Ducks,4,2,W,,,21,6,0,2,0,54,38,58.7,36,23,61.0,25,29,46.3,60.3,100.4,Tampa Bay Lightning,Anaheim Ducks,Tampa Bay Lightning,2,4
+9,2022-10-29,@,San Jose Sharks,4,3,W,,,27,4,1,3,0,48,45,51.6,40,34,54.1,22,17,56.4,56.0,109.4,Tampa Bay Lightning,San Jose Sharks,Tampa Bay Lightning,3,4
+10,2022-11-01,,Ottawa Senators,4,3,W,,,15,26,0,3,1,36,39,48.0,22,21,51.2,15,20,42.9,62.4,95.8,Tampa Bay Lightning,Tampa Bay Lightning,Ottawa Senators,4,3
+11,2022-11-03,,Carolina Hurricanes,3,4,L,SO,,55,12,1,6,1,37,61,37.8,27,45,37.5,17,31,35.4,25.2,102.2,Tampa Bay Lightning,Tampa Bay Lightning,Carolina Hurricanes,3,4
+12,2022-11-05,,Buffalo Sabres,5,3,W,,,24,4,1,3,0,45,44,50.6,35,30,53.8,27,31,46.6,58.0,104.9,Tampa Bay Lightning,Tampa Bay Lightning,Buffalo Sabres,5,3
+13,2022-11-08,,Edmonton Oilers,2,3,L,,,29,10,2,4,1,52,37,58.4,37,27,57.8,25,20,55.6,54.2,106.5,Tampa Bay Lightning,Tampa Bay Lightning,Edmonton Oilers,2,3
+14,2022-11-11,@,Washington Capitals,1,5,L,,,24,38,0,6,0,41,44,48.2,27,32,45.8,22,12,64.7,69.0,80.3,Tampa Bay Lightning,Washington Capitals,Tampa Bay Lightning,5,1
+15,2022-11-13,,Washington Capitals,6,3,W,,,22,20,0,6,0,54,36,60.0,42,29,59.2,23,28,45.1,57.9,98.5,Tampa Bay Lightning,Tampa Bay Lightning,Washington Capitals,6,3
+16,2022-11-15,,Dallas Stars,5,4,W,OT,,32,12,2,2,1,50,45,52.6,41,35,53.9,30,30,50.0,41.2,109.3,Tampa Bay Lightning,Tampa Bay Lightning,Dallas Stars,5,4
+17,2022-11-17,,Calgary Flames,4,1,W,,,40,6,1,3,0,39,62,38.6,29,45,39.2,31,28,52.5,33.5,115.0,Tampa Bay Lightning,Tampa Bay Lightning,Calgary Flames,4,1
+18,2022-11-19,@,Nashville Predators,3,2,W,OT,,32,12,1,5,0,58,37,61.1,39,30,56.5,15,21,41.7,60.9,99.2,Tampa Bay Lightning,Nashville Predators,Tampa Bay Lightning,2,3
+19,2022-11-21,,Boston Bruins,3,5,L,,,29,6,2,4,0,48,35,57.8,42,26,61.8,20,21,48.8,70.8,92.4,Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,3,5
+20,2022-11-25,,St. Louis Blues,5,2,W,,,27,11,1,3,0,49,44,52.7,40,29,58.0,21,19,52.5,45.5,112.3,Tampa Bay Lightning,Tampa Bay Lightning,St. Louis Blues,5,2
+21,2022-11-28,@,Buffalo Sabres,6,5,W,OT,,37,10,0,1,0,46,56,45.1,38,46,45.2,34,19,64.2,49.2,100.3,Tampa Bay Lightning,Buffalo Sabres,Tampa Bay Lightning,5,6
+22,2022-11-29,@,Boston Bruins,1,3,L,,,26,4,1,1,0,46,42,52.3,29,32,47.5,23,21,52.3,44.0,91.7,Tampa Bay Lightning,Boston Bruins,Tampa Bay Lightning,3,1
+23,2022-12-01,@,Philadelphia Flyers,4,1,W,,,22,6,0,3,0,51,35,59.3,37,26,58.7,20,14,58.8,67.1,107.5,Tampa Bay Lightning,Philadelphia Flyers,Tampa Bay Lightning,1,4
+24,2022-12-03,,Toronto Maple Leafs,4,3,W,OT,,39,16,1,5,1,45,37,54.9,35,30,53.8,14,27,34.1,51.9,104.3,Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,4,3
+25,2022-12-06,,Detroit Red Wings,2,4,L,,,26,6,0,1,0,68,45,60.2,58,35,62.4,24,21,53.3,63.3,87.9,Tampa Bay Lightning,Tampa Bay Lightning,Detroit Red Wings,2,4
+26,2022-12-08,,Nashville Predators,5,2,W,,,36,9,0,2,1,50,56,47.2,34,40,45.9,27,34,44.3,41.5,107.9,Tampa Bay Lightning,Tampa Bay Lightning,Nashville Predators,5,2
+27,2022-12-10,,Florida Panthers,4,1,W,,,25,8,0,4,0,49,50,49.5,39,34,53.4,18,21,46.2,55.9,109.7,Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,4,1
+28,2022-12-13,,Seattle Kraken,6,2,W,,,38,29,0,3,0,48,63,43.2,38,48,44.2,28,30,48.3,38.6,112.1,Tampa Bay Lightning,Tampa Bay Lightning,Seattle Kraken,6,2
+29,2022-12-15,,Columbus Blue Jackets,4,1,W,,,25,6,0,1,0,49,49,50.0,35,33,51.5,24,27,47.1,43.4,113.2,Tampa Bay Lightning,Tampa Bay Lightning,Columbus Blue Jackets,4,1
+30,2022-12-17,@,Montreal Canadiens,5,1,W,,,23,19,0,3,0,27,39,40.9,20,27,42.6,13,21,38.2,43.5,116.4,Tampa Bay Lightning,Montreal Canadiens,Tampa Bay Lightning,1,5
+31,2022-12-20,@,Toronto Maple Leafs,1,4,L,,,40,6,1,2,0,42,45,48.3,29,41,41.4,21,19,52.5,42.3,96.2,Tampa Bay Lightning,Toronto Maple Leafs,Tampa Bay Lightning,4,1
+32,2022-12-21,@,Detroit Red Wings,4,7,L,,,31,14,0,2,0,51,39,56.7,34,29,54.0,24,16,60.0,39.8,86.3,Tampa Bay Lightning,Detroit Red Wings,Tampa Bay Lightning,7,4
+33,2022-12-28,,Montreal Canadiens,4,1,W,,,26,9,0,5,0,54,33,62.1,44,21,67.7,30,19,61.2,65.6,103.5,Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,4,1
+34,2022-12-29,,New York Rangers,2,1,W,SO,,46,2,0,3,0,74,62,54.4,54,52,50.9,27,20,57.4,52.6,100.1,Tampa Bay Lightning,Tampa Bay Lightning,New York Rangers,2,1
+35,2022-12-31,,Arizona Coyotes,5,3,W,,,31,11,0,1,0,50,41,54.9,41,34,54.7,30,17,63.8,60.6,98.7,Tampa Bay Lightning,Tampa Bay Lightning,Arizona Coyotes,5,3
+36,2023-01-03,@,Chicago Blackhawks,4,1,W,,,26,10,1,5,0,49,39,55.7,37,23,61.7,24,21,53.3,44.1,108.7,Tampa Bay Lightning,Chicago Blackhawks,Tampa Bay Lightning,1,4
+37,2023-01-04,@,Minnesota Wild,1,5,L,,,33,12,1,3,0,52,47,52.5,41,36,53.2,23,16,59.0,48.3,85.2,Tampa Bay Lightning,Minnesota Wild,Tampa Bay Lightning,5,1
+38,2023-01-06,@,Winnipeg Jets,2,4,L,,,20,17,2,6,1,46,32,59.0,33,24,57.9,17,13,56.7,52.8,100.0,Tampa Bay Lightning,Winnipeg Jets,Tampa Bay Lightning,4,2
+39,2023-01-10,,Columbus Blue Jackets,6,3,W,,,24,10,0,1,0,59,53,52.7,48,37,56.5,28,15,65.1,62.7,93.4,Tampa Bay Lightning,Tampa Bay Lightning,Columbus Blue Jackets,6,3
+40,2023-01-12,,Vancouver Canucks,5,4,W,,,40,13,1,3,0,47,50,48.5,33,37,47.1,30,29,50.8,54.5,101.9,Tampa Bay Lightning,Tampa Bay Lightning,Vancouver Canucks,5,4
+41,2023-01-14,@,St. Louis Blues,4,2,W,,,25,4,0,3,0,59,36,62.1,41,28,59.4,29,19,60.4,46.4,101.6,Tampa Bay Lightning,St. Louis Blues,Tampa Bay Lightning,2,4
+42,2023-01-16,@,Seattle Kraken,4,1,W,,,23,4,0,3,0,47,38,55.3,34,29,54.0,23,14,62.2,65.2,111.7,Tampa Bay Lightning,Seattle Kraken,Tampa Bay Lightning,1,4
+43,2023-01-18,@,Vancouver Canucks,5,2,W,,,39,2,2,4,0,30,63,32.3,26,46,36.1,21,25,45.7,21.4,123.8,Tampa Bay Lightning,Vancouver Canucks,Tampa Bay Lightning,2,5
+44,2023-01-19,@,Edmonton Oilers,3,5,L,,,34,20,1,4,0,51,56,47.7,41,40,50.6,27,22,55.1,48.0,97.4,Tampa Bay Lightning,Edmonton Oilers,Tampa Bay Lightning,5,3
+45,2023-01-21,@,Calgary Flames,3,6,L,,,41,21,1,4,0,34,58,37.0,27,44,38.0,31,17,64.6,62.1,102.9,Tampa Bay Lightning,Calgary Flames,Tampa Bay Lightning,6,3
+46,2023-01-24,,Minnesota Wild,4,2,W,,,35,15,1,4,1,42,52,44.7,29,41,41.4,24,21,53.3,44.3,111.5,Tampa Bay Lightning,Tampa Bay Lightning,Minnesota Wild,4,2
+47,2023-01-26,,Boston Bruins,3,2,W,,,39,15,0,2,0,54,52,50.9,45,43,51.1,28,27,50.9,58.4,100.8,Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,3,2
+48,2023-01-28,,Los Angeles Kings,5,2,W,,,28,14,0,2,0,47,43,52.2,33,34,49.3,31,21,59.6,51.5,112.8,Tampa Bay Lightning,Tampa Bay Lightning,Los Angeles Kings,5,2
+49,2023-02-06,@,Florida Panthers,1,7,L,,,49,16,1,2,0,55,68,44.7,44,53,45.4,31,21,59.6,56.2,88.9,Tampa Bay Lightning,Florida Panthers,Tampa Bay Lightning,7,1
+50,2023-02-07,,San Jose Sharks,3,4,L,OT,,22,17,2,3,0,64,34,65.3,45,29,60.8,29,23,55.8,61.8,94.9,Tampa Bay Lightning,Tampa Bay Lightning,San Jose Sharks,3,4
+51,2023-02-09,,Colorado Avalanche,5,0,W,,,30,26,0,2,0,51,50,50.5,35,35,50.0,35,14,71.4,51.9,113.6,Tampa Bay Lightning,Tampa Bay Lightning,Colorado Avalanche,5,0
+52,2023-02-11,@,Dallas Stars,3,1,W,,,29,4,0,4,0,59,56,51.3,43,42,50.6,23,26,46.9,51.7,106.0,Tampa Bay Lightning,Dallas Stars,Tampa Bay Lightning,1,3
+53,2023-02-14,@,Colorado Avalanche,4,3,W,SO,,46,13,0,2,0,64,53,54.7,49,43,53.3,23,22,51.1,41.2,101.8,Tampa Bay Lightning,Colorado Avalanche,Tampa Bay Lightning,3,4
+54,2023-02-15,@,Arizona Coyotes,0,1,L,SO,,26,10,0,2,0,60,45,57.1,51,33,60.7,19,22,46.3,65.0,100.0,Tampa Bay Lightning,Arizona Coyotes,Tampa Bay Lightning,1,0
+55,2023-02-18,@,Vegas Golden Knights,4,5,L,,,26,8,0,2,0,54,43,55.7,38,30,55.9,24,22,52.2,48.3,94.1,Tampa Bay Lightning,Vegas Golden Knights,Tampa Bay Lightning,5,4
+56,2023-02-21,,Anaheim Ducks,6,1,W,,,25,30,0,4,0,59,29,67.0,48,23,67.6,24,16,60.0,42.9,107.2,Tampa Bay Lightning,Tampa Bay Lightning,Anaheim Ducks,6,1
+57,2023-02-23,,Buffalo Sabres,5,6,L,OT,,23,6,1,2,1,55,42,56.7,47,32,59.5,17,26,39.5,47.8,91.1,Tampa Bay Lightning,Tampa Bay Lightning,Buffalo Sabres,5,6
+58,2023-02-25,@,Detroit Red Wings,3,0,W,,,45,4,0,4,0,32,69,31.7,22,46,32.4,21,21,50.0,31.3,120.0,Tampa Bay Lightning,Detroit Red Wings,Tampa Bay Lightning,0,3
+59,2023-02-26,@,Pittsburgh Penguins,3,7,L,,,36,6,1,2,0,54,54,50.0,40,39,50.6,24,25,49.0,50.0,88.9,Tampa Bay Lightning,Pittsburgh Penguins,Tampa Bay Lightning,7,3
+60,2023-02-28,,Florida Panthers,1,4,L,,,41,10,0,2,0,56,61,47.9,39,48,44.8,23,16,59.0,57.1,88.2,Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,1,4
+61,2023-03-02,,Pittsburgh Penguins,4,5,L,OT,,32,10,0,5,0,38,36,51.4,31,28,52.5,23,24,48.9,55.8,86.4,Tampa Bay Lightning,Tampa Bay Lightning,Pittsburgh Penguins,4,5
+62,2023-03-04,@,Buffalo Sabres,3,5,L,,,34,17,2,5,0,44,47,48.4,34,37,47.9,29,15,65.9,42.9,93.5,Tampa Bay Lightning,Buffalo Sabres,Tampa Bay Lightning,5,3
+63,2023-03-05,@,Carolina Hurricanes,0,6,L,,,38,16,4,5,0,30,37,44.8,21,30,41.2,24,23,51.1,41.9,91.7,Tampa Bay Lightning,Carolina Hurricanes,Tampa Bay Lightning,6,0
+64,2023-03-07,,Philadelphia Flyers,5,2,W,,,35,23,0,3,0,53,47,53.0,36,36,50.0,24,17,58.5,44.6,100.2,Tampa Bay Lightning,Tampa Bay Lightning,Philadelphia Flyers,5,2
+65,2023-03-09,,Vegas Golden Knights,3,4,L,OT,,21,75,1,2,1,65,28,69.9,51,20,71.8,18,20,47.4,76.6,90.5,Tampa Bay Lightning,Tampa Bay Lightning,Vegas Golden Knights,3,4
+66,2023-03-11,,Chicago Blackhawks,3,1,W,,,23,7,0,2,0,62,40,60.8,48,33,59.3,22,16,57.9,52.2,104.0,Tampa Bay Lightning,Tampa Bay Lightning,Chicago Blackhawks,3,1
+67,2023-03-12,,Winnipeg Jets,2,3,L,,,22,6,1,2,0,51,36,58.6,39,28,58.2,20,22,47.6,70.0,93.2,Tampa Bay Lightning,Tampa Bay Lightning,Winnipeg Jets,2,3
+68,2023-03-14,@,New Jersey Devils,4,1,W,,,23,4,0,2,0,48,52,48.0,34,35,49.3,16,26,38.1,54.8,106.5,Tampa Bay Lightning,New Jersey Devils,Tampa Bay Lightning,1,4
+69,2023-03-16,@,New Jersey Devils,4,3,W,SO,,35,6,1,4,0,49,56,46.7,31,40,43.7,20,26,43.5,53.5,101.8,Tampa Bay Lightning,New Jersey Devils,Tampa Bay Lightning,3,4
+70,2023-03-18,,Montreal Canadiens,5,3,W,,,21,4,1,2,0,71,31,69.6,51,24,68.0,34,20,63.0,62.9,100.0,Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,5,3
+71,2023-03-19,,New Jersey Devils,2,5,L,,,39,8,0,1,0,49,62,44.1,36,46,43.9,15,27,35.7,50.0,96.0,Tampa Bay Lightning,Tampa Bay Lightning,New Jersey Devils,2,5
+72,2023-03-21,@,Montreal Canadiens,2,3,L,,,20,6,0,2,0,52,36,59.1,35,29,54.7,21,19,52.5,75.8,87.0,Tampa Bay Lightning,Montreal Canadiens,Tampa Bay Lightning,3,2
+73,2023-03-23,@,Ottawa Senators,2,7,L,,,35,10,2,3,0,49,45,52.1,31,39,44.3,23,20,53.5,69.2,86.1,Tampa Bay Lightning,Ottawa Senators,Tampa Bay Lightning,7,2
+74,2023-03-25,@,Boston Bruins,1,2,L,,,34,17,1,7,0,40,41,49.4,32,27,54.2,13,19,40.6,57.7,95.7,Tampa Bay Lightning,Boston Bruins,Tampa Bay Lightning,2,1
+75,2023-03-28,@,Carolina Hurricanes,4,0,W,,,31,4,0,2,0,45,47,48.9,27,42,39.1,23,24,48.9,47.2,122.2,Tampa Bay Lightning,Carolina Hurricanes,Tampa Bay Lightning,0,4
+76,2023-03-30,,Washington Capitals,5,1,W,,,31,4,0,4,0,58,43,57.4,43,32,57.3,28,20,58.3,60.2,106.0,Tampa Bay Lightning,Tampa Bay Lightning,Washington Capitals,5,1
+77,2023-04-01,,New York Islanders,5,0,W,,,38,16,0,3,0,48,55,46.6,38,43,46.9,21,17,55.3,52.7,114.8,Tampa Bay Lightning,Tampa Bay Lightning,New York Islanders,5,0
+78,2023-04-05,@,New York Rangers,3,6,L,,,37,28,2,5,0,55,39,58.5,40,30,57.1,21,13,61.8,81.8,90.2,Tampa Bay Lightning,New York Rangers,Tampa Bay Lightning,6,3
+79,2023-04-06,@,New York Islanders,1,6,L,,,42,4,0,2,0,44,77,36.4,34,53,39.1,25,33,43.1,50.2,89.0,Tampa Bay Lightning,New York Islanders,Tampa Bay Lightning,6,1
+80,2023-04-08,@,Ottawa Senators,4,7,L,,,40,10,1,4,0,32,50,39.0,21,41,33.9,19,21,47.5,36.4,85.2,Tampa Bay Lightning,Ottawa Senators,Tampa Bay Lightning,7,4
+81,2023-04-11,,Toronto Maple Leafs,3,4,L,,,24,28,2,6,0,53,32,62.4,41,26,61.2,19,22,46.3,54.0,98.9,Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,3,4
+82,2023-04-13,,Detroit Red Wings,5,0,W,,,32,6,0,2,0,54,49,52.4,39,38,50.6,29,17,63.0,44.5,114.8,Tampa Bay Lightning,Tampa Bay Lightning,Detroit Red Wings,5,0

@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-12,,Toronto Maple Leafs,4,3,W,,,32,8,0,4,0,41,50,45.1,28,31,47.5,19,20,48.7,41.0,111.1,Montreal Canadiens,Montreal Canadiens,Toronto Maple Leafs,4,3
+2,2022-10-14,@,Detroit Red Wings,0,3,L,,,40,6,0,3,0,37,50,42.5,24,37,39.3,28,20,58.3,45.9,90.0,Montreal Canadiens,Detroit Red Wings,Montreal Canadiens,3,0
+3,2022-10-15,@,Washington Capitals,1,3,L,,,29,13,1,2,0,43,50,46.2,32,31,50.8,28,20,58.3,50.0,95.4,Montreal Canadiens,Washington Capitals,Montreal Canadiens,3,1
+4,2022-10-17,,Pittsburgh Penguins,3,2,W,OT,,28,6,0,3,0,58,45,56.3,42,33,56.0,23,21,52.3,70.2,97.9,Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,3,2
+5,2022-10-20,,Arizona Coyotes,6,2,W,,,27,7,0,3,0,42,38,52.5,29,26,52.7,24,28,46.2,48.1,110.8,Montreal Canadiens,Montreal Canadiens,Arizona Coyotes,6,2
+6,2022-10-22,,Dallas Stars,2,5,L,,,30,8,2,3,0,49,48,50.5,36,36,50.0,23,29,44.2,57.6,93.2,Montreal Canadiens,Montreal Canadiens,Dallas Stars,2,5
+7,2022-10-25,,Minnesota Wild,1,3,L,,,31,10,0,3,0,51,43,54.3,33,28,54.1,19,19,50.0,50.6,92.0,Montreal Canadiens,Montreal Canadiens,Minnesota Wild,1,3
+8,2022-10-27,@,Buffalo Sabres,3,2,W,,,45,6,1,4,0,49,51,49.0,37,41,47.4,22,17,56.4,58.6,107.1,Montreal Canadiens,Buffalo Sabres,Montreal Canadiens,2,3
+9,2022-10-29,@,St. Louis Blues,7,4,W,,,30,8,1,2,0,36,50,41.9,31,40,43.7,25,23,52.1,35.9,115.2,Montreal Canadiens,St. Louis Blues,Montreal Canadiens,4,7
+10,2022-11-01,@,Minnesota Wild,1,4,L,,,31,21,1,4,0,47,46,50.5,40,34,54.1,22,15,59.5,42.9,85.0,Montreal Canadiens,Minnesota Wild,Montreal Canadiens,4,1
+11,2022-11-03,@,Winnipeg Jets,2,3,L,OT,,36,4,1,5,0,34,52,39.5,28,42,40.0,17,19,47.2,44.0,104.9,Montreal Canadiens,Winnipeg Jets,Montreal Canadiens,3,2
+12,2022-11-05,,Vegas Golden Knights,4,6,L,,,42,6,2,4,0,54,59,47.8,37,35,51.4,21,25,45.7,46.7,97.0,Montreal Canadiens,Montreal Canadiens,Vegas Golden Knights,4,6
+13,2022-11-08,@,Detroit Red Wings,3,2,W,SO,,43,4,0,7,0,45,49,47.9,34,39,46.6,22,19,53.7,57.9,99.3,Montreal Canadiens,Detroit Red Wings,Montreal Canadiens,2,3
+14,2022-11-09,,Vancouver Canucks,5,2,W,,,33,10,0,2,0,37,49,43.0,31,35,47.0,21,19,52.5,31.3,108.2,Montreal Canadiens,Montreal Canadiens,Vancouver Canucks,5,2
+15,2022-11-12,,Pittsburgh Penguins,5,4,W,OT,,24,12,1,3,0,54,38,58.7,36,31,53.7,24,25,49.0,54.1,96.0,Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,5,4
+16,2022-11-15,,New Jersey Devils,1,5,L,,,39,4,1,2,0,51,61,45.5,32,40,44.4,31,21,59.6,55.9,91.4,Montreal Canadiens,Montreal Canadiens,New Jersey Devils,1,5
+17,2022-11-17,@,Columbus Blue Jackets,4,6,L,,,29,11,0,1,0,67,50,57.3,51,40,56.0,30,31,49.2,55.6,85.1,Montreal Canadiens,Columbus Blue Jackets,Montreal Canadiens,6,4
+18,2022-11-19,,Philadelphia Flyers,5,4,W,SO,,29,11,0,4,0,57,54,51.4,40,39,50.6,28,11,71.8,49.7,95.5,Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers,5,4
+19,2022-11-22,,Buffalo Sabres,2,7,L,,,38,21,2,4,0,31,52,37.3,23,35,39.7,20,19,51.3,43.1,93.3,Montreal Canadiens,Montreal Canadiens,Buffalo Sabres,2,7
+20,2022-11-23,@,Columbus Blue Jackets,3,1,W,,,31,11,0,3,0,45,51,46.9,32,34,48.5,27,32,45.8,58.2,107.1,Montreal Canadiens,Columbus Blue Jackets,Montreal Canadiens,1,3
+21,2022-11-25,@,Chicago Blackhawks,3,2,W,SO,,32,4,1,4,0,42,40,51.2,32,29,52.5,19,21,47.5,72.0,99.7,Montreal Canadiens,Chicago Blackhawks,Montreal Canadiens,2,3
+22,2022-11-29,,San Jose Sharks,0,4,L,,,24,12,0,5,0,53,20,72.6,34,16,68.0,16,14,53.3,64.7,60.0,Montreal Canadiens,Montreal Canadiens,San Jose Sharks,0,4
+23,2022-12-01,@,Calgary Flames,2,1,W,,,46,6,0,4,0,32,63,33.7,27,42,39.1,30,25,54.5,34.3,102.9,Montreal Canadiens,Calgary Flames,Montreal Canadiens,1,2
+24,2022-12-03,@,Edmonton Oilers,3,5,L,,,22,6,3,5,0,50,29,63.3,39,21,65.0,21,14,60.0,52.0,90.2,Montreal Canadiens,Edmonton Oilers,Montreal Canadiens,5,3
+25,2022-12-05,@,Vancouver Canucks,6,7,L,OT,,32,11,1,2,0,49,51,49.0,38,39,49.4,28,29,49.1,51.4,104.6,Montreal Canadiens,Vancouver Canucks,Montreal Canadiens,7,6
+26,2022-12-06,@,Seattle Kraken,4,2,W,,,33,8,0,3,0,31,54,36.5,20,40,33.3,19,24,44.2,43.6,121.4,Montreal Canadiens,Seattle Kraken,Montreal Canadiens,2,4
+27,2022-12-10,,Los Angeles Kings,2,4,L,,,35,6,0,4,0,43,44,49.4,27,38,41.5,15,27,35.7,33.3,101.1,Montreal Canadiens,Montreal Canadiens,Los Angeles Kings,2,4
+28,2022-12-12,,Calgary Flames,2,1,W,SO,,35,21,1,6,0,45,43,51.1,32,34,48.5,28,26,51.9,52.5,104.3,Montreal Canadiens,Montreal Canadiens,Calgary Flames,2,1
+29,2022-12-14,@,Ottawa Senators,2,3,L,,,31,6,2,7,0,38,32,54.3,28,24,53.8,14,21,40.0,57.1,103.6,Montreal Canadiens,Ottawa Senators,Montreal Canadiens,3,2
+30,2022-12-15,,Anaheim Ducks,2,5,L,,,32,10,1,2,0,45,41,52.3,34,35,49.3,25,22,53.2,52.9,90.6,Montreal Canadiens,Montreal Canadiens,Anaheim Ducks,2,5
+31,2022-12-17,,Tampa Bay Lightning,1,5,L,,,27,13,2,6,0,39,27,59.1,27,20,57.4,21,13,61.8,56.5,83.6,Montreal Canadiens,Montreal Canadiens,Tampa Bay Lightning,1,5
+32,2022-12-19,@,Arizona Coyotes,3,2,W,OT,,39,4,0,2,0,42,54,43.8,33,43,43.4,28,23,54.9,53.3,107.0,Montreal Canadiens,Arizona Coyotes,Montreal Canadiens,2,3
+33,2022-12-21,@,Colorado Avalanche,1,2,L,OT,,36,2,1,2,0,41,70,36.9,26,48,35.1,19,27,41.3,34.3,102.3,Montreal Canadiens,Colorado Avalanche,Montreal Canadiens,2,1
+34,2022-12-23,@,Dallas Stars,2,4,L,,,36,4,3,5,0,33,52,38.8,24,36,40.0,23,33,41.1,47.5,101.4,Montreal Canadiens,Dallas Stars,Montreal Canadiens,4,2
+35,2022-12-28,@,Tampa Bay Lightning,1,4,L,,,38,17,1,1,0,33,54,37.9,21,44,32.3,19,30,38.8,34.4,96.5,Montreal Canadiens,Tampa Bay Lightning,Montreal Canadiens,4,1
+36,2022-12-29,@,Florida Panthers,2,7,L,,,41,27,3,6,0,32,41,43.8,25,32,43.9,16,25,39.0,50.0,84.6,Montreal Canadiens,Florida Panthers,Montreal Canadiens,7,2
+37,2022-12-31,@,Washington Capitals,2,9,L,,,40,8,2,4,0,57,55,50.9,42,44,48.8,26,28,48.1,66.7,83.3,Montreal Canadiens,Washington Capitals,Montreal Canadiens,9,2
+38,2023-01-03,@,Nashville Predators,3,6,L,,,34,10,2,4,0,38,63,37.6,29,48,37.7,18,26,40.9,40.4,100.5,Montreal Canadiens,Nashville Predators,Montreal Canadiens,6,3
+39,2023-01-05,,New York Rangers,1,4,L,,,31,4,1,3,1,43,53,44.8,27,36,42.9,23,19,54.8,56.6,99.1,Montreal Canadiens,Montreal Canadiens,New York Rangers,1,4
+40,2023-01-07,,St. Louis Blues,5,4,W,,,22,8,1,3,0,33,42,44.0,25,29,46.3,14,21,40.0,49.3,105.3,Montreal Canadiens,Montreal Canadiens,St. Louis Blues,5,4
+41,2023-01-09,,Seattle Kraken,0,4,L,,,41,9,1,6,0,47,48,49.5,27,36,42.9,16,16,50.0,66.4,90.3,Montreal Canadiens,Montreal Canadiens,Seattle Kraken,0,4
+42,2023-01-12,,Nashville Predators,4,3,W,,,42,15,0,3,0,63,71,47.0,47,52,47.5,22,22,50.0,51.4,98.8,Montreal Canadiens,Montreal Canadiens,Nashville Predators,4,3
+43,2023-01-14,@,New York Islanders,1,2,L,,,38,4,0,2,0,42,66,38.9,28,46,37.8,25,21,54.3,32.3,99.3,Montreal Canadiens,New York Islanders,Montreal Canadiens,2,1
+44,2023-01-15,@,New York Rangers,2,1,W,,,39,4,0,2,0,46,73,38.7,40,50,44.4,18,18,50.0,44.0,100.5,Montreal Canadiens,New York Rangers,Montreal Canadiens,1,2
+45,2023-01-17,,Winnipeg Jets,4,1,W,,,26,11,1,2,0,43,57,43.0,34,41,45.3,20,24,45.5,34.4,114.8,Montreal Canadiens,Montreal Canadiens,Winnipeg Jets,4,1
+46,2023-01-19,,Florida Panthers,2,6,L,,,40,37,4,8,0,33,38,46.5,19,29,39.6,16,9,64.0,35.4,104.9,Montreal Canadiens,Montreal Canadiens,Florida Panthers,2,6
+47,2023-01-21,,Toronto Maple Leafs,3,2,W,OT,,38,10,0,2,0,40,68,37.0,29,49,37.2,11,21,34.4,56.6,106.8,Montreal Canadiens,Montreal Canadiens,Toronto Maple Leafs,3,2
+48,2023-01-24,,Boston Bruins,2,4,L,,,29,8,1,3,0,40,47,46.0,29,32,47.5,29,20,59.2,65.6,92.5,Montreal Canadiens,Montreal Canadiens,Boston Bruins,2,4
+49,2023-01-26,,Detroit Red Wings,3,4,L,OT,,42,9,1,2,0,44,72,37.9,27,48,36.0,24,24,50.0,45.0,104.1,Montreal Canadiens,Montreal Canadiens,Detroit Red Wings,3,4
+50,2023-01-28,@,Ottawa Senators,0,5,L,,,36,6,1,3,1,44,55,44.4,29,45,39.2,16,19,45.7,44.4,89.7,Montreal Canadiens,Ottawa Senators,Montreal Canadiens,5,0
+51,2023-01-31,,Ottawa Senators,4,5,L,,,29,10,2,3,0,41,42,49.4,29,29,50.0,24,19,55.8,37.0,94.8,Montreal Canadiens,Montreal Canadiens,Ottawa Senators,4,5
+52,2023-02-11,,New York Islanders,4,3,W,OT,,30,4,1,2,0,49,54,47.6,37,35,51.4,17,24,41.5,55.4,107.4,Montreal Canadiens,Montreal Canadiens,New York Islanders,4,3
+53,2023-02-12,,Edmonton Oilers,6,2,W,,,31,15,1,6,0,34,41,45.3,21,26,44.7,12,22,35.3,42.9,111.4,Montreal Canadiens,Montreal Canadiens,Edmonton Oilers,6,2
+54,2023-02-14,,Chicago Blackhawks,4,0,W,,,22,16,0,4,0,48,38,55.8,35,26,57.4,19,22,46.3,61.5,111.1,Montreal Canadiens,Montreal Canadiens,Chicago Blackhawks,4,0
+55,2023-02-16,@,Carolina Hurricanes,2,6,L,,,41,6,0,3,1,29,59,33.0,25,50,33.3,22,21,51.2,39.3,90.8,Montreal Canadiens,Carolina Hurricanes,Montreal Canadiens,6,2
+56,2023-02-18,@,Toronto Maple Leafs,1,5,L,,,41,2,1,3,0,51,55,48.1,38,44,46.3,18,32,36.0,51.4,92.5,Montreal Canadiens,Toronto Maple Leafs,Montreal Canadiens,5,1
+57,2023-02-21,@,New Jersey Devils,5,2,W,,,40,4,1,3,0,30,69,30.3,23,42,35.4,16,28,36.4,32.1,130.1,Montreal Canadiens,New Jersey Devils,Montreal Canadiens,2,5
+58,2023-02-24,@,Philadelphia Flyers,5,2,W,,,26,19,0,0,0,53,47,53.0,37,32,53.6,29,25,53.7,42.4,108.3,Montreal Canadiens,Philadelphia Flyers,Montreal Canadiens,2,5
+59,2023-02-25,,Ottawa Senators,2,5,L,,,22,11,0,1,0,45,54,45.5,35,38,47.9,31,28,52.5,48.4,83.6,Montreal Canadiens,Montreal Canadiens,Ottawa Senators,2,5
+60,2023-02-28,@,San Jose Sharks,3,1,W,,,39,8,0,2,0,42,63,40.0,35,46,43.2,26,28,48.1,49.8,107.8,Montreal Canadiens,San Jose Sharks,Montreal Canadiens,1,3
+61,2023-03-02,@,Los Angeles Kings,2,3,L,,,33,6,0,4,0,31,47,39.7,22,38,36.7,19,20,48.7,36.0,95.1,Montreal Canadiens,Los Angeles Kings,Montreal Canadiens,3,2
+62,2023-03-03,@,Anaheim Ducks,2,3,L,,,33,6,2,3,0,42,51,45.2,33,37,47.1,26,18,59.1,41.9,104.3,Montreal Canadiens,Anaheim Ducks,Montreal Canadiens,3,2
+63,2023-03-05,@,Vegas Golden Knights,3,4,L,,,28,9,0,1,0,48,71,40.3,31,43,41.9,17,17,50.0,40.9,97.7,Montreal Canadiens,Vegas Golden Knights,Montreal Canadiens,4,3
+64,2023-03-07,,Carolina Hurricanes,3,4,L,SO,,39,10,0,2,0,41,79,34.2,34,56,37.8,24,30,44.4,43.8,104.4,Montreal Canadiens,Montreal Canadiens,Carolina Hurricanes,3,4
+65,2023-03-09,,New York Rangers,3,4,L,SO,,33,6,2,4,0,45,44,50.6,26,32,44.8,23,20,53.5,66.9,105.1,Montreal Canadiens,Montreal Canadiens,New York Rangers,3,4
+66,2023-03-11,,New Jersey Devils,1,3,L,,,37,0,0,0,0,52,74,41.3,32,48,40.0,28,28,50.0,47.4,96.1,Montreal Canadiens,Montreal Canadiens,New Jersey Devils,1,3
+67,2023-03-13,,Colorado Avalanche,4,8,L,,,33,13,3,3,0,40,54,42.6,29,33,46.8,26,18,59.1,50.4,97.4,Montreal Canadiens,Montreal Canadiens,Colorado Avalanche,4,8
+68,2023-03-14,@,Pittsburgh Penguins,6,4,W,,,43,6,2,4,0,43,74,36.8,30,55,35.3,15,33,31.3,44.7,121.9,Montreal Canadiens,Pittsburgh Penguins,Montreal Canadiens,4,6
+69,2023-03-16,@,Florida Panthers,5,9,L,,,42,2,1,4,0,39,55,41.5,35,45,43.8,26,28,48.1,44.8,91.8,Montreal Canadiens,Florida Panthers,Montreal Canadiens,9,5
+70,2023-03-18,@,Tampa Bay Lightning,3,5,L,,,41,4,1,2,0,31,71,30.4,24,51,32.0,20,34,37.0,37.1,100.0,Montreal Canadiens,Tampa Bay Lightning,Montreal Canadiens,5,3
+71,2023-03-21,,Tampa Bay Lightning,3,2,W,,,33,6,1,2,0,36,52,40.9,29,35,45.3,19,21,47.5,24.2,113.0,Montreal Canadiens,Montreal Canadiens,Tampa Bay Lightning,3,2
+72,2023-03-23,@,Boston Bruins,2,4,L,,,21,25,0,5,0,48,31,60.8,40,24,62.5,20,18,52.6,69.7,77.8,Montreal Canadiens,Boston Bruins,Montreal Canadiens,4,2
+73,2023-03-25,,Columbus Blue Jackets,8,2,W,,,23,6,0,4,0,55,32,63.2,41,20,67.2,15,22,40.5,71.0,111.7,Montreal Canadiens,Montreal Canadiens,Columbus Blue Jackets,8,2
+74,2023-03-27,@,Buffalo Sabres,4,3,W,SO,,33,6,1,4,0,54,46,54.0,40,33,54.8,18,29,38.3,50.0,101.4,Montreal Canadiens,Buffalo Sabres,Montreal Canadiens,3,4
+75,2023-03-28,@,Philadelphia Flyers,2,3,L,,,27,0,0,2,0,54,50,51.9,36,35,50.7,29,25,53.7,57.1,94.9,Montreal Canadiens,Philadelphia Flyers,Montreal Canadiens,3,2
+76,2023-03-30,,Florida Panthers,2,5,L,,,30,4,1,2,0,48,55,46.6,29,42,40.8,20,20,50.0,48.0,91.0,Montreal Canadiens,Montreal Canadiens,Florida Panthers,2,5
+77,2023-04-01,,Carolina Hurricanes,0,3,L,,,50,6,1,2,0,23,72,24.2,17,58,22.7,17,27,38.6,37.0,95.7,Montreal Canadiens,Montreal Canadiens,Carolina Hurricanes,0,3
+78,2023-04-04,,Detroit Red Wings,0,5,L,,,21,8,1,3,0,31,36,46.3,26,24,52.0,13,16,44.8,46.8,75.0,Montreal Canadiens,Montreal Canadiens,Detroit Red Wings,0,5
+79,2023-04-06,,Washington Capitals,6,2,W,,,26,21,1,5,0,47,42,52.8,32,29,52.5,23,23,50.0,48.6,112.6,Montreal Canadiens,Montreal Canadiens,Washington Capitals,6,2
+80,2023-04-08,@,Toronto Maple Leafs,1,7,L,,,46,17,4,6,0,35,58,37.6,25,51,32.9,21,17,55.3,50.0,97.7,Montreal Canadiens,Toronto Maple Leafs,Montreal Canadiens,7,1
+81,2023-04-12,@,New York Islanders,2,4,L,,,35,4,1,3,0,47,63,42.7,28,44,38.9,15,34,30.6,60.8,95.6,Montreal Canadiens,New York Islanders,Montreal Canadiens,4,2
+82,2023-04-13,,Boston Bruins,4,5,L,,,21,13,0,6,0,54,47,53.5,43,31,58.1,20,22,47.6,34.0,84.0,Montreal Canadiens,Montreal Canadiens,Boston Bruins,4,5

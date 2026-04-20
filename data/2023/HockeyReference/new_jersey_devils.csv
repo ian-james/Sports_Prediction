@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-13,@,Philadelphia Flyers,2,5,L,,,25,8,1,3,0,70,31,69.3,47,24,66.2,35,25,58.3,61.0,80.9,New Jersey Devils,Philadelphia Flyers,New Jersey Devils,5,2
+2,2022-10-15,,Detroit Red Wings,2,5,L,,,22,10,0,4,0,63,34,64.9,45,24,65.2,25,19,56.8,69.9,76.6,New Jersey Devils,New Jersey Devils,Detroit Red Wings,2,5
+3,2022-10-18,,Anaheim Ducks,4,2,W,,,20,23,0,4,0,63,26,70.8,50,20,71.4,21,19,52.5,41.0,96.2,New Jersey Devils,New Jersey Devils,Anaheim Ducks,4,2
+4,2022-10-20,@,New York Islanders,4,1,W,,,17,8,0,2,0,64,42,60.4,49,22,69.0,22,18,55.0,45.8,104.3,New Jersey Devils,New York Islanders,New Jersey Devils,1,4
+5,2022-10-22,,San Jose Sharks,2,1,W,,,22,6,0,2,0,47,51,48.0,36,36,50.0,23,27,46.0,55.3,98.4,New Jersey Devils,New Jersey Devils,San Jose Sharks,2,1
+6,2022-10-24,,Washington Capitals,3,6,L,,,22,8,1,3,1,55,33,62.5,45,24,65.2,23,25,47.9,66.7,80.5,New Jersey Devils,New Jersey Devils,Washington Capitals,3,6
+7,2022-10-25,@,Detroit Red Wings,6,2,W,,,22,2,0,3,0,61,38,61.6,49,26,65.3,30,20,60.0,55.6,98.5,New Jersey Devils,Detroit Red Wings,New Jersey Devils,2,6
+8,2022-10-28,,Colorado Avalanche,1,0,W,,,24,6,0,6,0,44,32,57.9,30,23,56.6,22,10,68.8,52.2,100.0,New Jersey Devils,New Jersey Devils,Colorado Avalanche,1,0
+9,2022-10-30,,Columbus Blue Jackets,7,1,W,,,21,8,0,2,0,68,36,65.4,52,24,68.4,31,24,56.4,51.1,111.0,New Jersey Devils,New Jersey Devils,Columbus Blue Jackets,7,1
+10,2022-11-01,@,Vancouver Canucks,5,2,W,,,23,27,2,5,0,55,46,54.5,44,32,57.9,26,18,59.1,48.4,109.1,New Jersey Devils,Vancouver Canucks,New Jersey Devils,2,5
+11,2022-11-03,@,Edmonton Oilers,4,3,W,,,37,6,1,2,0,70,55,56.0,54,45,54.5,17,23,42.5,50.0,103.9,New Jersey Devils,Edmonton Oilers,New Jersey Devils,3,4
+12,2022-11-05,@,Calgary Flames,4,3,W,OT,,30,14,0,2,0,46,47,49.5,37,32,53.6,28,27,50.9,48.5,96.8,New Jersey Devils,Calgary Flames,New Jersey Devils,3,4
+13,2022-11-08,,Calgary Flames,3,2,W,,,35,15,2,4,0,38,50,43.2,23,43,34.8,25,23,52.1,40.0,114.3,New Jersey Devils,New Jersey Devils,Calgary Flames,3,2
+14,2022-11-10,,Ottawa Senators,4,3,W,OT,,28,6,1,4,0,74,47,61.2,56,39,58.9,23,25,47.9,49.4,99.6,New Jersey Devils,New Jersey Devils,Ottawa Senators,4,3
+15,2022-11-12,,Arizona Coyotes,4,2,W,,,18,18,2,4,0,36,28,56.3,30,23,56.6,25,22,53.2,51.9,115.8,New Jersey Devils,New Jersey Devils,Arizona Coyotes,4,2
+16,2022-11-15,@,Montreal Canadiens,5,1,W,,,26,4,0,2,0,61,51,54.5,40,32,55.6,21,31,40.4,44.1,108.6,New Jersey Devils,Montreal Canadiens,New Jersey Devils,1,5
+17,2022-11-17,@,Toronto Maple Leafs,3,2,W,OT,,27,4,1,5,0,50,45,52.6,41,31,56.9,15,25,37.5,66.0,105.3,New Jersey Devils,Toronto Maple Leafs,New Jersey Devils,2,3
+18,2022-11-19,@,Ottawa Senators,5,1,W,,,26,8,0,2,0,42,42,50.0,32,32,50.0,26,31,45.6,38.0,107.5,New Jersey Devils,Ottawa Senators,New Jersey Devils,1,5
+19,2022-11-21,,Edmonton Oilers,5,2,W,,,30,6,1,4,0,55,40,57.9,43,30,58.9,23,21,52.3,62.7,111.5,New Jersey Devils,New Jersey Devils,Edmonton Oilers,5,2
+20,2022-11-23,,Toronto Maple Leafs,1,2,L,,,20,6,0,4,0,54,31,63.5,36,23,61.0,26,16,61.9,78.6,89.9,New Jersey Devils,New Jersey Devils,Toronto Maple Leafs,1,2
+21,2022-11-25,@,Buffalo Sabres,3,1,W,,,34,2,0,1,0,69,54,56.1,51,40,56.0,38,28,57.6,56.9,104.3,New Jersey Devils,Buffalo Sabres,New Jersey Devils,1,3
+22,2022-11-26,,Washington Capitals,5,1,W,,,38,8,1,4,0,34,62,35.4,30,40,42.9,17,20,45.9,34.6,115.4,New Jersey Devils,New Jersey Devils,Washington Capitals,5,1
+23,2022-11-28,@,New York Rangers,5,3,W,,,38,6,1,5,0,49,48,50.5,41,37,52.6,21,15,58.3,37.2,110.3,New Jersey Devils,New York Rangers,New Jersey Devils,3,5
+24,2022-12-01,,Nashville Predators,3,4,L,OT,,24,10,0,1,0,42,50,45.7,32,33,49.2,25,24,51.0,29.7,87.0,New Jersey Devils,New Jersey Devils,Nashville Predators,3,4
+25,2022-12-03,@,Philadelphia Flyers,3,2,W,,,33,6,1,3,0,35,51,40.7,26,37,41.3,26,20,56.5,40.0,115.0,New Jersey Devils,Philadelphia Flyers,New Jersey Devils,2,3
+26,2022-12-06,,Chicago Blackhawks,3,0,W,,,24,4,0,3,0,61,29,67.8,42,22,65.6,16,21,43.2,48.0,107.4,New Jersey Devils,New Jersey Devils,Chicago Blackhawks,3,0
+27,2022-12-09,,New York Islanders,4,6,L,,,32,11,1,4,0,63,41,60.6,40,28,58.8,20,32,38.5,65.7,87.5,New Jersey Devils,New Jersey Devils,New York Islanders,4,6
+28,2022-12-12,@,New York Rangers,3,4,L,OT,,23,6,1,2,0,53,34,60.9,42,25,62.7,25,21,54.3,45.8,93.1,New Jersey Devils,New York Rangers,New Jersey Devils,4,3
+29,2022-12-13,,Dallas Stars,1,4,L,,,32,4,0,1,0,63,55,53.4,44,41,51.8,24,34,41.4,61.5,89.7,New Jersey Devils,New Jersey Devils,Dallas Stars,1,4
+30,2022-12-15,,Philadelphia Flyers,1,2,L,,,24,16,1,5,0,66,41,61.7,46,28,62.2,20,25,44.4,68.4,94.7,New Jersey Devils,New Jersey Devils,Philadelphia Flyers,1,2
+31,2022-12-17,,Florida Panthers,2,4,L,,,29,8,1,2,0,64,49,56.6,46,33,58.2,24,28,46.2,51.5,95.4,New Jersey Devils,New Jersey Devils,Florida Panthers,2,4
+32,2022-12-20,@,Carolina Hurricanes,1,4,L,,,20,8,0,4,1,47,31,60.3,38,26,59.4,17,23,42.5,70.4,83.8,New Jersey Devils,Carolina Hurricanes,New Jersey Devils,4,1
+33,2022-12-21,@,Florida Panthers,4,2,W,,,36,41,1,1,0,51,71,41.8,41,45,47.7,21,26,44.7,43.8,106.8,New Jersey Devils,Florida Panthers,New Jersey Devils,2,4
+34,2022-12-23,,Boston Bruins,3,4,L,,,23,4,0,1,0,71,41,63.4,44,28,61.1,22,23,48.9,53.3,87.9,New Jersey Devils,New Jersey Devils,Boston Bruins,3,4
+35,2022-12-28,,Boston Bruins,1,3,L,,,27,9,0,3,0,71,46,60.7,51,38,57.3,16,29,35.6,57.8,90.2,New Jersey Devils,New Jersey Devils,Boston Bruins,1,3
+36,2022-12-30,@,Pittsburgh Penguins,4,2,W,,,27,12,0,9,0,38,29,56.7,29,19,60.4,19,17,52.8,45.0,95.7,New Jersey Devils,Pittsburgh Penguins,New Jersey Devils,2,4
+37,2023-01-01,,Carolina Hurricanes,4,5,L,SO,,47,8,1,4,1,37,67,35.6,30,49,38.0,26,33,44.1,29.8,112.6,New Jersey Devils,New Jersey Devils,Carolina Hurricanes,4,5
+38,2023-01-04,@,Detroit Red Wings,5,1,W,,,33,6,1,2,0,40,55,42.1,29,44,39.7,21,38,35.6,31.7,113.0,New Jersey Devils,Detroit Red Wings,New Jersey Devils,1,5
+39,2023-01-05,,St. Louis Blues,3,5,L,,,19,8,1,2,0,61,26,70.1,43,19,69.4,21,11,65.6,57.9,75.9,New Jersey Devils,New Jersey Devils,St. Louis Blues,3,5
+40,2023-01-07,,New York Rangers,4,3,W,OT,,34,8,0,2,0,66,52,55.9,41,41,50.0,26,30,46.4,50.4,98.4,New Jersey Devils,New Jersey Devils,New York Rangers,4,3
+41,2023-01-10,@,Carolina Hurricanes,5,3,W,,,28,8,0,3,2,33,66,33.3,26,42,38.2,23,25,47.9,41.0,122.5,New Jersey Devils,Carolina Hurricanes,New Jersey Devils,3,5
+42,2023-01-13,@,Anaheim Ducks,6,2,W,,,33,11,1,4,0,55,48,53.4,48,38,55.8,26,16,61.9,42.9,109.8,New Jersey Devils,Anaheim Ducks,New Jersey Devils,2,6
+43,2023-01-14,@,Los Angeles Kings,5,2,W,,,37,6,2,4,0,44,54,44.9,29,44,39.7,26,28,48.1,43.2,120.0,New Jersey Devils,Los Angeles Kings,New Jersey Devils,2,5
+44,2023-01-16,@,San Jose Sharks,4,3,W,SO,,32,4,1,3,0,63,49,56.3,41,37,52.6,23,24,48.9,46.5,101.2,New Jersey Devils,San Jose Sharks,New Jersey Devils,3,4
+45,2023-01-19,@,Seattle Kraken,3,4,L,OT,,40,6,0,1,0,56,75,42.7,41,56,42.3,29,29,50.0,34.3,97.2,New Jersey Devils,Seattle Kraken,New Jersey Devils,4,3
+46,2023-01-22,,Pittsburgh Penguins,2,1,W,OT,,26,4,0,2,0,51,56,47.7,32,43,42.7,21,24,46.7,54.1,100.7,New Jersey Devils,New Jersey Devils,Pittsburgh Penguins,2,1
+47,2023-01-24,,Vegas Golden Knights,3,2,W,OT,,30,7,0,3,0,65,53,55.1,44,35,55.7,31,12,72.1,57.7,98.8,New Jersey Devils,New Jersey Devils,Vegas Golden Knights,3,2
+48,2023-01-26,@,Nashville Predators,4,6,L,,,41,4,1,2,0,56,62,47.5,40,50,44.4,30,27,52.6,51.3,98.6,New Jersey Devils,Nashville Predators,New Jersey Devils,6,4
+49,2023-01-27,@,Dallas Stars,3,2,W,OT,,35,6,1,4,0,41,59,41.0,30,38,44.1,21,30,41.2,56.2,108.6,New Jersey Devils,Dallas Stars,New Jersey Devils,2,3
+50,2023-02-06,,Vancouver Canucks,5,4,W,OT,,30,8,0,1,0,47,53,47.0,35,35,50.0,30,20,60.0,43.2,98.8,New Jersey Devils,New Jersey Devils,Vancouver Canucks,5,4
+51,2023-02-09,,Seattle Kraken,3,1,W,,,34,8,0,3,0,44,56,44.0,33,34,49.3,29,18,61.7,45.5,100.5,New Jersey Devils,New Jersey Devils,Seattle Kraken,3,1
+52,2023-02-11,@,Minnesota Wild,2,3,L,SO,,24,21,1,3,0,45,58,43.7,33,37,47.1,26,27,49.1,46.3,103.8,New Jersey Devils,Minnesota Wild,New Jersey Devils,3,2
+53,2023-02-14,@,Columbus Blue Jackets,3,2,W,,,33,4,1,3,0,71,45,61.2,49,35,58.3,22,20,52.4,51.7,106.2,New Jersey Devils,Columbus Blue Jackets,New Jersey Devils,2,3
+54,2023-02-16,@,St. Louis Blues,2,4,L,,,35,4,1,3,0,64,58,52.5,45,42,51.7,26,27,49.1,57.0,95.9,New Jersey Devils,St. Louis Blues,New Jersey Devils,4,2
+55,2023-02-18,@,Pittsburgh Penguins,5,2,W,,,31,6,1,5,0,54,55,49.5,45,36,55.6,19,24,44.2,63.5,104.3,New Jersey Devils,Pittsburgh Penguins,New Jersey Devils,2,5
+56,2023-02-19,,Winnipeg Jets,4,2,W,,,25,4,0,3,0,47,48,49.5,36,32,52.9,27,19,58.7,48.6,105.2,New Jersey Devils,New Jersey Devils,Winnipeg Jets,4,2
+57,2023-02-21,,Montreal Canadiens,2,5,L,,,18,6,0,2,0,69,30,69.7,42,23,64.6,28,16,63.6,67.9,69.9,New Jersey Devils,New Jersey Devils,Montreal Canadiens,2,5
+58,2023-02-23,,Los Angeles Kings,4,3,W,OT,,22,8,0,1,0,55,38,59.1,41,30,57.7,27,18,60.0,64.9,99.8,New Jersey Devils,New Jersey Devils,Los Angeles Kings,4,3
+59,2023-02-25,,Philadelphia Flyers,7,0,W,,,23,7,0,2,0,60,50,54.5,50,38,56.8,28,25,52.8,37.5,120.6,New Jersey Devils,New Jersey Devils,Philadelphia Flyers,7,0
+60,2023-03-01,@,Colorado Avalanche,7,5,W,,,31,4,0,1,0,51,56,47.7,36,39,48.0,30,32,48.4,30.2,106.4,New Jersey Devils,Colorado Avalanche,New Jersey Devils,5,7
+61,2023-03-03,@,Vegas Golden Knights,3,4,L,SO,,27,4,0,1,0,90,47,65.7,64,34,65.3,30,27,52.6,53.7,90.6,New Jersey Devils,Vegas Golden Knights,New Jersey Devils,4,3
+62,2023-03-05,@,Arizona Coyotes,5,4,W,OT,,29,2,0,2,0,63,46,57.8,43,34,55.8,19,26,42.2,80.3,94.9,New Jersey Devils,Arizona Coyotes,New Jersey Devils,4,5
+63,2023-03-07,,Toronto Maple Leafs,3,4,L,,,25,8,1,2,1,50,38,56.8,41,31,56.9,14,27,34.1,50.0,98.1,New Jersey Devils,New Jersey Devils,Toronto Maple Leafs,3,4
+64,2023-03-09,@,Washington Capitals,3,2,W,SO,,22,6,0,2,0,56,42,57.1,45,27,62.5,30,22,57.7,44.1,92.4,New Jersey Devils,Washington Capitals,New Jersey Devils,2,3
+65,2023-03-11,@,Montreal Canadiens,3,1,W,,,24,0,0,0,0,74,52,58.7,48,32,60.0,28,28,50.0,52.6,103.9,New Jersey Devils,Montreal Canadiens,New Jersey Devils,1,3
+66,2023-03-12,,Carolina Hurricanes,3,0,W,,,32,6,0,3,0,39,61,39.0,28,46,37.8,15,30,33.3,26.6,116.7,New Jersey Devils,New Jersey Devils,Carolina Hurricanes,3,0
+67,2023-03-14,,Tampa Bay Lightning,1,4,L,,,30,4,0,2,1,52,48,52.0,35,34,50.7,26,16,61.9,45.2,93.5,New Jersey Devils,New Jersey Devils,Tampa Bay Lightning,1,4
+68,2023-03-16,,Tampa Bay Lightning,3,4,L,SO,,24,8,1,3,0,56,49,53.3,40,31,56.3,26,20,56.5,46.5,98.2,New Jersey Devils,New Jersey Devils,Tampa Bay Lightning,3,4
+69,2023-03-18,@,Florida Panthers,2,4,L,,,41,4,1,4,0,45,52,46.4,40,38,51.3,20,20,50.0,58.3,93.3,New Jersey Devils,Florida Panthers,New Jersey Devils,4,2
+70,2023-03-19,@,Tampa Bay Lightning,5,2,W,,,24,2,0,4,0,62,49,55.9,46,36,56.1,27,15,64.3,50.0,104.0,New Jersey Devils,Tampa Bay Lightning,New Jersey Devils,2,5
+71,2023-03-21,,Minnesota Wild,1,2,L,OT,,29,6,0,1,0,69,64,51.9,53,48,52.5,17,25,40.5,65.2,95.0,New Jersey Devils,New Jersey Devils,Minnesota Wild,1,2
+72,2023-03-24,@,Buffalo Sabres,4,5,L,,,26,6,1,4,0,51,32,61.4,38,30,55.9,23,28,45.1,43.6,94.1,New Jersey Devils,Buffalo Sabres,New Jersey Devils,5,4
+73,2023-03-25,,Ottawa Senators,5,3,W,,,28,9,0,3,0,64,54,54.2,48,38,55.8,35,25,58.3,62.3,101.4,New Jersey Devils,New Jersey Devils,Ottawa Senators,5,3
+74,2023-03-27,@,New York Islanders,1,5,L,,,36,4,0,1,1,60,60,50.0,43,46,48.3,19,28,40.4,74.2,87.9,New Jersey Devils,New York Islanders,New Jersey Devils,5,1
+75,2023-03-30,,New York Rangers,2,1,W,,,25,4,1,2,0,57,43,57.0,40,35,53.3,21,26,44.7,45.5,103.8,New Jersey Devils,New Jersey Devils,New York Rangers,2,1
+76,2023-04-01,@,Chicago Blackhawks,6,3,W,,,17,2,0,1,0,70,29,70.7,49,22,69.0,25,21,54.3,84.6,96.3,New Jersey Devils,Chicago Blackhawks,New Jersey Devils,3,6
+77,2023-04-02,@,Winnipeg Jets,1,6,L,,,27,6,1,3,0,59,35,62.8,40,31,56.3,19,25,43.2,71.4,77.3,New Jersey Devils,Winnipeg Jets,New Jersey Devils,6,1
+78,2023-04-04,,Pittsburgh Penguins,5,1,W,,,23,8,0,4,0,49,40,55.1,37,26,58.7,20,18,52.6,43.5,110.4,New Jersey Devils,New Jersey Devils,Pittsburgh Penguins,5,1
+79,2023-04-06,,Columbus Blue Jackets,8,1,W,,,17,20,0,5,0,54,28,65.9,43,19,69.4,15,19,44.1,52.4,111.5,New Jersey Devils,New Jersey Devils,Columbus Blue Jackets,8,1
+80,2023-04-08,@,Boston Bruins,1,2,L,,,40,10,1,1,0,40,63,38.8,33,48,40.7,26,35,42.6,36.5,101.0,New Jersey Devils,Boston Bruins,New Jersey Devils,2,1
+81,2023-04-11,,Buffalo Sabres,6,2,W,,,38,4,0,2,0,46,66,41.1,37,47,44.0,26,21,55.3,40.0,115.2,New Jersey Devils,New Jersey Devils,Buffalo Sabres,6,2
+82,2023-04-13,@,Washington Capitals,5,4,W,OT,,31,11,0,1,0,75,47,61.5,56,42,57.1,31,29,51.7,54.5,99.2,New Jersey Devils,Washington Capitals,New Jersey Devils,4,5

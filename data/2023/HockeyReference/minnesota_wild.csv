@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-13,,New York Rangers,3,7,L,,,35,17,1,5,0,38,38,50.0,28,28,50.0,20,22,47.6,39.0,85.5,Minnesota Wild,Minnesota Wild,New York Rangers,3,7
+2,2022-10-15,,Los Angeles Kings,6,7,L,,,34,14,2,6,0,53,31,63.1,36,27,57.1,20,32,38.5,56.3,89.8,Minnesota Wild,Minnesota Wild,Los Angeles Kings,6,7
+3,2022-10-17,,Colorado Avalanche,3,6,L,,,38,14,1,2,1,51,56,47.7,38,45,45.8,25,24,51.0,52.9,92.3,Minnesota Wild,Minnesota Wild,Colorado Avalanche,3,6
+4,2022-10-20,,Vancouver Canucks,4,3,W,OT,,26,13,0,2,0,50,46,52.1,39,32,54.9,22,20,52.4,64.9,94.7,Minnesota Wild,Minnesota Wild,Vancouver Canucks,4,3
+5,2022-10-22,@,Boston Bruins,3,4,L,OT,,43,10,1,5,0,32,50,39.0,25,35,41.7,17,23,42.5,53.2,94.5,Minnesota Wild,Boston Bruins,Minnesota Wild,4,3
+6,2022-10-25,@,Montreal Canadiens,3,1,W,,,27,10,0,3,0,43,51,45.7,28,33,45.9,19,19,50.0,49.4,108.0,Minnesota Wild,Montreal Canadiens,Minnesota Wild,1,3
+7,2022-10-27,@,Ottawa Senators,4,2,W,,,29,20,1,5,0,48,50,49.0,41,32,56.2,24,21,53.3,55.8,101.7,Minnesota Wild,Ottawa Senators,Minnesota Wild,2,4
+8,2022-10-29,@,Detroit Red Wings,1,2,L,,,25,4,1,2,0,57,45,55.9,40,32,55.6,19,16,54.3,54.5,99.2,Minnesota Wild,Detroit Red Wings,Minnesota Wild,2,1
+9,2022-10-30,@,Chicago Blackhawks,4,3,W,SO,,26,25,0,0,0,61,44,58.1,47,33,58.8,21,40,34.4,50.0,97.1,Minnesota Wild,Chicago Blackhawks,Minnesota Wild,3,4
+10,2022-11-01,,Montreal Canadiens,4,1,W,,,35,45,1,2,0,46,47,49.5,34,40,45.9,15,22,40.5,57.1,115.0,Minnesota Wild,Minnesota Wild,Montreal Canadiens,4,1
+11,2022-11-03,,Seattle Kraken,0,4,L,,,23,4,1,2,0,36,39,48.0,24,32,42.9,18,21,46.2,39.1,85.7,Minnesota Wild,Minnesota Wild,Seattle Kraken,0,4
+12,2022-11-08,@,Los Angeles Kings,0,1,L,,,30,2,0,4,0,38,52,42.2,27,38,41.5,12,21,36.4,,95.8,Minnesota Wild,Los Angeles Kings,Minnesota Wild,1,0
+13,2022-11-09,@,Anaheim Ducks,4,1,W,,,32,57,0,4,0,52,33,61.2,39,29,57.4,13,13,50.0,50.0,101.3,Minnesota Wild,Anaheim Ducks,Minnesota Wild,1,4
+14,2022-11-11,@,Seattle Kraken,1,0,W,,,28,6,0,4,0,29,54,34.9,24,39,38.1,16,22,42.1,38.7,106.3,Minnesota Wild,Seattle Kraken,Minnesota Wild,0,1
+15,2022-11-13,,San Jose Sharks,2,3,L,SO,,37,4,0,3,0,57,58,49.6,45,47,48.9,24,22,52.2,40.6,97.6,Minnesota Wild,Minnesota Wild,San Jose Sharks,2,3
+16,2022-11-15,@,Nashville Predators,1,2,L,,,25,24,1,5,0,53,30,63.9,40,23,63.5,14,22,38.9,57.3,97.8,Minnesota Wild,Nashville Predators,Minnesota Wild,2,1
+17,2022-11-17,,Pittsburgh Penguins,4,6,L,,,32,6,2,5,0,39,44,47.0,29,30,49.2,19,25,43.2,35.0,97.6,Minnesota Wild,Minnesota Wild,Pittsburgh Penguins,4,6
+18,2022-11-19,,Carolina Hurricanes,2,1,W,OT,,21,4,0,2,0,46,53,46.5,33,37,47.1,37,23,61.7,56.4,105.0,Minnesota Wild,Minnesota Wild,Carolina Hurricanes,2,1
+19,2022-11-23,,Winnipeg Jets,6,1,W,,,29,19,0,2,0,44,52,45.8,35,36,49.3,25,19,56.8,63.0,109.2,Minnesota Wild,Minnesota Wild,Winnipeg Jets,6,1
+20,2022-11-25,,Toronto Maple Leafs,3,4,L,,,28,4,0,3,0,56,43,56.6,34,33,50.7,18,25,41.9,58.6,92.1,Minnesota Wild,Minnesota Wild,Toronto Maple Leafs,3,4
+21,2022-11-27,,Arizona Coyotes,4,3,W,,,23,13,0,2,0,46,38,54.8,32,31,50.8,28,24,53.8,57.8,98.4,Minnesota Wild,Minnesota Wild,Arizona Coyotes,4,3
+22,2022-12-01,,Edmonton Oilers,5,3,W,,,21,6,1,3,0,48,37,56.5,35,24,59.3,21,27,43.8,68.8,100.2,Minnesota Wild,Minnesota Wild,Edmonton Oilers,5,3
+23,2022-12-03,,Anaheim Ducks,5,4,W,SO,,33,8,2,3,0,74,45,62.2,57,37,60.6,41,33,55.4,57.5,99.5,Minnesota Wild,Minnesota Wild,Anaheim Ducks,5,4
+24,2022-12-04,@,Dallas Stars,6,5,W,SO,,35,13,0,4,0,41,50,45.1,35,34,50.7,20,20,50.0,32.0,92.8,Minnesota Wild,Dallas Stars,Minnesota Wild,5,6
+25,2022-12-07,@,Calgary Flames,3,5,L,,,27,8,2,6,0,42,35,54.5,30,25,54.5,21,25,45.7,57.9,96.6,Minnesota Wild,Calgary Flames,Minnesota Wild,5,3
+26,2022-12-09,@,Edmonton Oilers,2,5,L,,,38,10,2,3,0,42,50,45.7,31,38,44.9,32,32,50.0,43.5,94.6,Minnesota Wild,Edmonton Oilers,Minnesota Wild,5,2
+27,2022-12-10,@,Vancouver Canucks,3,0,W,,,35,9,0,3,0,55,56,49.5,43,38,53.1,25,21,54.3,44.8,103.7,Minnesota Wild,Vancouver Canucks,Minnesota Wild,0,3
+28,2022-12-12,,Edmonton Oilers,2,1,W,,,21,6,1,5,0,43,34,55.8,37,22,62.7,14,23,37.8,43.5,104.2,Minnesota Wild,Minnesota Wild,Edmonton Oilers,2,1
+29,2022-12-14,,Detroit Red Wings,4,1,W,,,17,13,0,3,0,31,37,45.6,22,25,46.8,19,20,48.7,56.4,113.7,Minnesota Wild,Minnesota Wild,Detroit Red Wings,4,1
+30,2022-12-16,,Chicago Blackhawks,4,1,W,,,30,6,1,5,0,43,39,52.4,26,28,48.1,22,22,50.0,54.3,116.7,Minnesota Wild,Minnesota Wild,Chicago Blackhawks,4,1
+31,2022-12-18,,Ottawa Senators,4,2,W,,,28,6,0,3,0,40,44,47.6,26,28,48.1,20,20,50.0,50.0,112.7,Minnesota Wild,Minnesota Wild,Ottawa Senators,4,2
+32,2022-12-21,@,Anaheim Ducks,4,1,W,,,22,24,0,2,0,51,42,54.8,36,34,51.4,24,17,58.5,48.5,108.3,Minnesota Wild,Anaheim Ducks,Minnesota Wild,1,4
+33,2022-12-22,@,San Jose Sharks,2,5,L,,,25,13,2,6,0,39,38,50.6,29,25,53.7,19,20,48.7,59.0,94.9,Minnesota Wild,San Jose Sharks,Minnesota Wild,5,2
+34,2022-12-27,@,Winnipeg Jets,4,1,W,,,32,4,0,2,0,52,50,51.0,43,41,51.2,23,36,39.0,51.5,107.9,Minnesota Wild,Winnipeg Jets,Minnesota Wild,1,4
+35,2022-12-29,,Dallas Stars,1,4,L,,,43,6,2,3,0,51,52,49.5,36,39,48.0,13,41,24.1,47.2,98.5,Minnesota Wild,Minnesota Wild,Dallas Stars,1,4
+36,2022-12-31,@,St. Louis Blues,5,2,W,,,31,16,0,4,0,57,51,52.8,43,41,51.2,13,28,31.7,35.5,109.0,Minnesota Wild,St. Louis Blues,Minnesota Wild,2,5
+37,2023-01-04,,Tampa Bay Lightning,5,1,W,,,35,10,1,4,0,47,52,47.5,36,41,46.8,16,23,41.0,51.7,114.8,Minnesota Wild,Minnesota Wild,Tampa Bay Lightning,5,1
+38,2023-01-07,@,Buffalo Sabres,5,6,L,OT,,37,8,2,3,0,45,57,44.1,41,41,50.0,25,24,51.0,44.7,96.6,Minnesota Wild,Buffalo Sabres,Minnesota Wild,6,5
+39,2023-01-08,,St. Louis Blues,0,3,L,,,24,6,1,4,0,68,32,68.0,45,25,64.3,13,21,38.2,60.0,88.9,Minnesota Wild,Minnesota Wild,St. Louis Blues,0,3
+40,2023-01-10,@,New York Rangers,3,4,L,SO,,43,4,0,3,0,45,74,37.8,41,48,46.1,28,35,44.4,40.0,101.3,Minnesota Wild,New York Rangers,Minnesota Wild,4,3
+41,2023-01-12,@,New York Islanders,3,1,W,,,20,12,0,3,0,48,37,56.5,36,25,59.0,24,16,60.0,52.0,100.5,Minnesota Wild,New York Islanders,Minnesota Wild,1,3
+42,2023-01-14,,Arizona Coyotes,2,1,W,,,28,4,0,1,0,38,50,43.2,31,35,47.0,24,22,52.2,39.4,100.8,Minnesota Wild,Minnesota Wild,Arizona Coyotes,2,1
+43,2023-01-17,@,Washington Capitals,4,2,W,,,36,6,0,3,0,44,67,39.6,27,52,34.2,25,23,52.1,23.2,115.2,Minnesota Wild,Washington Capitals,Minnesota Wild,2,4
+44,2023-01-19,@,Carolina Hurricanes,2,5,L,,,29,21,2,7,1,38,38,50.0,26,25,51.0,20,16,55.6,50.0,91.6,Minnesota Wild,Carolina Hurricanes,Minnesota Wild,5,2
+45,2023-01-21,@,Florida Panthers,3,5,L,,,27,19,1,2,0,53,47,53.0,42,35,54.5,27,24,52.9,46.4,86.6,Minnesota Wild,Florida Panthers,Minnesota Wild,5,3
+46,2023-01-24,@,Tampa Bay Lightning,2,4,L,,,39,23,1,5,0,52,42,55.3,41,29,58.6,21,24,46.7,55.7,88.5,Minnesota Wild,Tampa Bay Lightning,Minnesota Wild,4,2
+47,2023-01-26,,Philadelphia Flyers,3,2,W,OT,,30,28,0,3,0,53,46,53.5,32,33,49.2,24,20,54.5,46.1,101.8,Minnesota Wild,Minnesota Wild,Philadelphia Flyers,3,2
+48,2023-01-28,,Buffalo Sabres,3,2,W,SO,,31,8,0,1,0,45,53,45.9,36,39,48.0,26,25,51.0,53.2,97.4,Minnesota Wild,Minnesota Wild,Buffalo Sabres,3,2
+49,2023-02-06,@,Arizona Coyotes,2,3,L,,,36,8,1,6,0,54,56,49.1,42,44,48.8,20,19,51.3,68.0,99.3,Minnesota Wild,Arizona Coyotes,Minnesota Wild,3,2
+50,2023-02-08,@,Dallas Stars,1,4,L,,,37,6,0,1,0,65,56,53.7,48,41,53.9,19,24,44.2,46.9,87.5,Minnesota Wild,Dallas Stars,Minnesota Wild,4,1
+51,2023-02-09,,Vegas Golden Knights,1,5,L,,,31,8,0,1,0,53,49,52.0,37,36,50.7,29,34,46.0,63.6,83.9,Minnesota Wild,Minnesota Wild,Vegas Golden Knights,1,5
+52,2023-02-11,,New Jersey Devils,3,2,W,SO,,29,13,0,2,0,58,45,56.3,37,33,52.9,27,26,50.9,53.7,96.2,Minnesota Wild,Minnesota Wild,New Jersey Devils,3,2
+53,2023-02-13,,Florida Panthers,1,2,L,SO,,34,12,0,7,0,42,47,47.2,31,29,51.7,18,17,51.4,50.4,99.7,Minnesota Wild,Minnesota Wild,Florida Panthers,1,2
+54,2023-02-15,,Colorado Avalanche,2,3,L,,,19,9,0,1,0,78,40,66.1,59,23,72.0,25,22,53.2,73.0,85.8,Minnesota Wild,Minnesota Wild,Colorado Avalanche,2,3
+55,2023-02-17,,Dallas Stars,2,1,W,SO,,30,8,0,4,0,49,53,48.0,36,32,52.9,21,26,44.7,53.2,95.2,Minnesota Wild,Minnesota Wild,Dallas Stars,2,1
+56,2023-02-19,,Nashville Predators,4,3,W,,,26,10,0,2,0,50,49,50.5,35,33,51.5,18,21,46.2,46.2,97.7,Minnesota Wild,Minnesota Wild,Nashville Predators,4,3
+57,2023-02-21,,Los Angeles Kings,2,1,W,,,34,6,0,1,0,33,71,31.7,23,50,31.5,15,21,41.7,40.4,110.3,Minnesota Wild,Minnesota Wild,Los Angeles Kings,2,1
+58,2023-02-23,@,Columbus Blue Jackets,2,0,W,,,30,2,0,1,0,55,66,45.5,44,41,51.8,13,36,26.5,42.1,108.0,Minnesota Wild,Columbus Blue Jackets,Minnesota Wild,0,2
+59,2023-02-24,@,Toronto Maple Leafs,1,2,L,OT,,24,2,0,2,0,60,46,56.6,35,33,51.5,12,33,26.7,32.7,95.2,Minnesota Wild,Toronto Maple Leafs,Minnesota Wild,2,1
+60,2023-02-26,,Columbus Blue Jackets,3,2,W,OT,,24,4,0,2,0,65,46,58.6,52,31,62.7,21,24,46.7,60.6,96.7,Minnesota Wild,Minnesota Wild,Columbus Blue Jackets,3,2
+61,2023-02-28,,New York Islanders,2,1,W,SO,,40,7,0,0,0,50,62,44.6,37,49,43.0,16,22,42.1,36.6,101.0,Minnesota Wild,Minnesota Wild,New York Islanders,2,1
+62,2023-03-02,@,Vancouver Canucks,2,1,W,,,22,15,1,3,0,53,32,62.4,40,21,65.6,23,21,52.3,60.0,107.4,Minnesota Wild,Vancouver Canucks,Minnesota Wild,1,2
+63,2023-03-04,@,Calgary Flames,3,0,W,,,31,4,0,2,0,58,52,52.7,44,37,54.3,35,23,60.3,55.8,110.0,Minnesota Wild,Calgary Flames,Minnesota Wild,0,3
+64,2023-03-07,,Calgary Flames,0,1,L,SO,,26,12,0,3,0,48,46,51.1,41,27,60.3,19,23,45.2,59.3,100.0,Minnesota Wild,Minnesota Wild,Calgary Flames,0,1
+65,2023-03-08,@,Winnipeg Jets,4,2,W,,,48,2,0,3,0,33,74,30.8,31,51,37.8,13,22,37.1,33.3,113.4,Minnesota Wild,Winnipeg Jets,Minnesota Wild,2,4
+66,2023-03-11,@,San Jose Sharks,5,2,W,,,37,8,2,5,0,37,59,38.5,30,42,41.7,27,28,49.1,42.7,115.8,Minnesota Wild,San Jose Sharks,Minnesota Wild,2,5
+67,2023-03-12,@,Arizona Coyotes,4,5,L,OT,,23,28,1,2,0,59,41,59.0,37,31,54.4,21,27,43.8,47.5,95.2,Minnesota Wild,Arizona Coyotes,Minnesota Wild,5,4
+68,2023-03-15,@,St. Louis Blues,8,5,W,,,36,23,3,5,0,36,49,42.4,31,41,43.1,30,17,63.8,38.5,114.4,Minnesota Wild,St. Louis Blues,Minnesota Wild,5,8
+69,2023-03-18,,Boston Bruins,2,5,L,,,38,12,1,4,0,42,52,44.7,34,44,43.6,16,25,39.0,41.7,92.2,Minnesota Wild,Minnesota Wild,Boston Bruins,2,5
+70,2023-03-19,,Washington Capitals,5,3,W,,,36,40,2,4,0,52,38,57.8,45,29,60.8,21,29,42.0,44.1,110.1,Minnesota Wild,Minnesota Wild,Washington Capitals,5,3
+71,2023-03-21,@,New Jersey Devils,2,1,W,OT,,48,2,0,3,0,64,69,48.1,48,53,47.5,25,17,59.5,34.8,105.0,Minnesota Wild,New Jersey Devils,Minnesota Wild,1,2
+72,2023-03-23,@,Philadelphia Flyers,4,5,L,SO,,34,6,1,1,0,46,62,42.6,36,44,45.0,22,20,52.4,53.5,108.3,Minnesota Wild,Philadelphia Flyers,Minnesota Wild,5,4
+73,2023-03-25,,Chicago Blackhawks,3,1,W,,,23,4,0,2,0,45,42,51.7,34,36,48.6,28,17,62.2,54.8,110.2,Minnesota Wild,Minnesota Wild,Chicago Blackhawks,3,1
+74,2023-03-27,,Seattle Kraken,5,1,W,,,36,18,0,3,0,32,55,36.8,26,42,38.2,19,26,42.2,53.9,123.5,Minnesota Wild,Minnesota Wild,Seattle Kraken,5,1
+75,2023-03-29,@,Colorado Avalanche,4,2,W,,,44,6,0,4,0,34,70,32.7,23,56,29.1,15,28,34.9,23.6,105.6,Minnesota Wild,Colorado Avalanche,Minnesota Wild,2,4
+76,2023-04-01,@,Vegas Golden Knights,1,4,L,,,43,6,0,2,0,59,63,48.4,39,50,43.8,24,18,57.1,50.3,94.1,Minnesota Wild,Vegas Golden Knights,Minnesota Wild,4,1
+77,2023-04-03,,Vegas Golden Knights,3,4,L,SO,,26,8,0,3,0,55,50,52.4,39,30,56.5,20,22,47.6,62.9,91.1,Minnesota Wild,Minnesota Wild,Vegas Golden Knights,3,4
+78,2023-04-06,@,Pittsburgh Penguins,1,4,L,,,31,10,1,4,0,49,35,58.3,33,26,55.9,19,25,43.2,56.7,88.0,Minnesota Wild,Pittsburgh Penguins,Minnesota Wild,4,1
+79,2023-04-08,,St. Louis Blues,5,3,W,,,40,8,0,2,0,43,60,41.7,30,45,40.0,17,22,43.6,33.3,101.2,Minnesota Wild,Minnesota Wild,St. Louis Blues,5,3
+80,2023-04-10,@,Chicago Blackhawks,4,2,W,,,42,9,0,3,0,37,79,31.9,25,48,34.2,18,32,36.0,33.5,111.5,Minnesota Wild,Chicago Blackhawks,Minnesota Wild,2,4
+81,2023-04-11,,Winnipeg Jets,1,3,L,,,20,24,0,3,0,48,33,59.3,31,22,58.5,22,20,52.4,57.7,81.3,Minnesota Wild,Minnesota Wild,Winnipeg Jets,1,3
+82,2023-04-13,@,Nashville Predators,3,4,L,OT,,31,2,0,3,1,42,57,42.4,35,37,48.6,14,16,46.7,50.0,101.9,Minnesota Wild,Nashville Predators,Minnesota Wild,4,3

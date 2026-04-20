@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-12,,Chicago Blackhawks,5,2,W,,,17,17,2,3,0,47,30,61.0,33,19,63.5,16,19,45.7,60.0,104.0,Colorado Avalanche,Colorado Avalanche,Chicago Blackhawks,5,2
+2,2022-10-13,@,Calgary Flames,3,5,L,,,27,12,2,5,1,39,38,50.6,30,27,52.6,20,26,43.5,59.3,99.6,Colorado Avalanche,Calgary Flames,Colorado Avalanche,5,3
+3,2022-10-17,@,Minnesota Wild,6,3,W,,,39,10,2,4,0,56,51,52.3,45,38,54.2,24,25,49.0,47.1,107.7,Colorado Avalanche,Minnesota Wild,Colorado Avalanche,3,6
+4,2022-10-19,,Winnipeg Jets,3,4,L,OT,,28,6,1,2,0,65,45,59.1,40,35,53.3,25,24,51.0,57.9,93.8,Colorado Avalanche,Colorado Avalanche,Winnipeg Jets,3,4
+5,2022-10-21,,Seattle Kraken,2,3,L,,,38,9,1,5,0,39,45,46.4,28,38,42.4,29,17,63.0,26.8,99.4,Colorado Avalanche,Colorado Avalanche,Seattle Kraken,2,3
+6,2022-10-22,@,Vegas Golden Knights,3,2,W,,,35,4,1,4,0,59,50,54.1,35,39,47.3,16,27,37.2,48.0,101.3,Colorado Avalanche,Vegas Golden Knights,Colorado Avalanche,2,3
+7,2022-10-25,@,New York Rangers,3,2,W,SO,,46,6,0,4,0,54,56,49.1,40,46,46.5,22,24,47.8,40.4,94.1,Colorado Avalanche,New York Rangers,Colorado Avalanche,2,3
+8,2022-10-28,@,New Jersey Devils,0,1,L,,,23,12,1,3,0,32,44,42.1,23,30,43.4,10,22,31.3,47.8,100.0,Colorado Avalanche,New Jersey Devils,Colorado Avalanche,1,0
+9,2022-10-29,@,New York Islanders,4,5,L,,,44,4,0,3,0,54,61,47.0,40,51,44.0,27,22,55.1,50.0,97.2,Colorado Avalanche,New York Islanders,Colorado Avalanche,5,4
+10,2022-11-04,,Columbus Blue Jackets,6,3,W,,,39,10,1,7,0,44,42,51.2,33,30,52.4,26,38,40.6,55.8,108.3,Colorado Avalanche,Colorado Avalanche,Columbus Blue Jackets,6,3
+11,2022-11-05,@,Columbus Blue Jackets,5,1,W,,,32,7,1,1,0,74,50,59.7,54,37,59.3,35,27,56.5,59.1,111.4,Colorado Avalanche,Columbus Blue Jackets,Colorado Avalanche,1,5
+12,2022-11-10,,Nashville Predators,5,3,W,,,35,6,1,2,0,49,59,45.4,38,39,49.4,26,31,45.6,35.1,106.3,Colorado Avalanche,Colorado Avalanche,Nashville Predators,5,3
+13,2022-11-12,,Carolina Hurricanes,4,1,W,,,25,8,0,5,0,20,50,28.6,16,36,30.8,15,21,41.7,37.8,115.8,Colorado Avalanche,Colorado Avalanche,Carolina Hurricanes,4,1
+14,2022-11-14,,St. Louis Blues,2,3,L,,,39,10,1,2,0,68,52,56.7,53,45,54.1,27,23,54.0,46.2,96.8,Colorado Avalanche,Colorado Avalanche,St. Louis Blues,2,3
+15,2022-11-17,@,Carolina Hurricanes,3,2,W,OT,,48,8,0,4,0,25,62,28.7,19,49,27.9,15,35,30.0,28.2,111.4,Colorado Avalanche,Carolina Hurricanes,Colorado Avalanche,2,3
+16,2022-11-19,@,Washington Capitals,4,0,W,,,32,6,0,2,0,49,55,47.1,39,40,49.4,19,27,41.3,38.7,113.0,Colorado Avalanche,Washington Capitals,Colorado Avalanche,0,4
+17,2022-11-21,@,Dallas Stars,3,2,W,SO,,24,27,0,1,0,45,42,51.7,30,22,57.7,17,25,40.5,50.7,91.8,Colorado Avalanche,Dallas Stars,Colorado Avalanche,2,3
+18,2022-11-23,,Vancouver Canucks,3,4,L,,,25,12,0,5,0,45,27,62.5,29,21,58.0,24,25,49.0,67.0,82.5,Colorado Avalanche,Colorado Avalanche,Vancouver Canucks,3,4
+19,2022-11-26,,Dallas Stars,4,1,W,,,42,33,1,5,0,37,38,49.3,30,30,50.0,21,34,38.2,45.9,111.1,Colorado Avalanche,Colorado Avalanche,Dallas Stars,4,1
+20,2022-11-29,@,Winnipeg Jets,0,5,L,,,23,8,1,2,0,51,36,58.6,40,27,59.7,13,24,35.1,53.1,77.8,Colorado Avalanche,Winnipeg Jets,Colorado Avalanche,5,0
+21,2022-12-01,@,Buffalo Sabres,6,4,W,,,28,14,2,7,0,25,41,37.9,22,29,43.1,23,19,54.8,34.8,107.1,Colorado Avalanche,Buffalo Sabres,Colorado Avalanche,4,6
+22,2022-12-03,@,Boston Bruins,1,5,L,,,40,13,1,5,0,39,51,43.3,28,41,40.6,22,29,43.1,56.9,92.6,Colorado Avalanche,Boston Bruins,Colorado Avalanche,5,1
+23,2022-12-05,@,Philadelphia Flyers,3,5,L,,,34,10,2,3,0,59,39,60.2,39,31,55.7,17,16,51.5,57.9,95.6,Colorado Avalanche,Philadelphia Flyers,Colorado Avalanche,5,3
+24,2022-12-07,,Boston Bruins,0,4,L,,,37,13,0,3,0,36,54,40.0,28,41,40.6,28,23,54.9,45.4,87.5,Colorado Avalanche,Colorado Avalanche,Boston Bruins,0,4
+25,2022-12-09,,New York Rangers,1,2,L,SO,,29,2,0,1,0,64,49,56.6,49,37,57.0,23,23,50.0,56.9,99.1,Colorado Avalanche,Colorado Avalanche,New York Rangers,1,2
+26,2022-12-11,@,St. Louis Blues,3,2,W,OT,,32,6,1,4,1,41,44,48.2,32,36,47.1,18,28,39.1,54.3,112.0,Colorado Avalanche,St. Louis Blues,Colorado Avalanche,2,3
+27,2022-12-13,,Philadelphia Flyers,3,2,W,,,28,6,0,2,0,45,42,51.7,27,32,45.8,24,25,49.0,47.3,101.4,Colorado Avalanche,Colorado Avalanche,Philadelphia Flyers,3,2
+28,2022-12-15,,Buffalo Sabres,2,4,L,,,21,4,1,2,0,75,29,72.1,52,25,67.5,44,20,68.8,77.8,89.0,Colorado Avalanche,Colorado Avalanche,Buffalo Sabres,2,4
+29,2022-12-17,,Nashville Predators,3,1,W,,,26,6,0,2,0,46,46,50.0,30,30,50.0,20,21,48.8,44.0,105.8,Colorado Avalanche,Colorado Avalanche,Nashville Predators,3,1
+30,2022-12-19,,New York Islanders,1,0,W,SO,,26,4,0,1,0,79,49,61.7,56,35,61.5,26,35,42.6,54.2,100.0,Colorado Avalanche,Colorado Avalanche,New York Islanders,1,0
+31,2022-12-21,,Montreal Canadiens,2,1,W,OT,,20,4,0,1,0,70,41,63.1,48,26,64.9,27,19,58.7,65.7,97.7,Colorado Avalanche,Colorado Avalanche,Montreal Canadiens,2,1
+32,2022-12-23,@,Nashville Predators,3,2,W,OT,,39,8,1,3,0,69,53,56.6,50,43,53.8,26,27,49.1,57.8,104.7,Colorado Avalanche,Nashville Predators,Colorado Avalanche,2,3
+33,2022-12-27,@,Arizona Coyotes,3,6,L,,,33,2,1,3,0,59,42,58.4,42,35,54.5,27,18,60.0,63.3,89.0,Colorado Avalanche,Arizona Coyotes,Colorado Avalanche,6,3
+34,2022-12-29,,Los Angeles Kings,4,5,L,SO,,27,12,2,4,0,50,43,53.8,33,34,49.3,22,24,47.8,64.2,102.5,Colorado Avalanche,Colorado Avalanche,Los Angeles Kings,4,5
+35,2022-12-31,,Toronto Maple Leafs,2,6,L,,,32,6,1,4,0,53,40,57.0,34,31,52.3,14,26,35.0,46.2,91.1,Colorado Avalanche,Colorado Avalanche,Toronto Maple Leafs,2,6
+36,2023-01-02,,Vegas Golden Knights,2,3,L,,,28,17,0,1,0,37,46,44.6,28,39,41.8,19,22,46.3,58.5,97.1,Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,2,3
+37,2023-01-05,@,Vancouver Canucks,2,4,L,,,43,10,1,7,0,56,40,58.3,34,35,49.3,19,25,43.2,63.4,93.8,Colorado Avalanche,Vancouver Canucks,Colorado Avalanche,4,2
+38,2023-01-07,@,Edmonton Oilers,3,2,W,OT,,30,10,2,5,0,58,32,64.4,49,23,68.1,23,24,48.9,71.3,108.3,Colorado Avalanche,Edmonton Oilers,Colorado Avalanche,2,3
+39,2023-01-10,,Florida Panthers,4,5,L,,,37,15,2,2,0,51,51,50.0,36,40,47.4,27,31,46.6,52.5,103.8,Colorado Avalanche,Colorado Avalanche,Florida Panthers,4,5
+40,2023-01-12,@,Chicago Blackhawks,2,3,L,,,30,10,0,3,0,57,30,65.5,42,23,64.6,19,21,47.5,68.2,91.4,Colorado Avalanche,Chicago Blackhawks,Colorado Avalanche,3,2
+41,2023-01-14,,Ottawa Senators,7,0,W,,,29,11,0,3,0,53,51,51.0,40,37,51.9,22,30,42.3,40.2,120.0,Colorado Avalanche,Colorado Avalanche,Ottawa Senators,7,0
+42,2023-01-16,,Detroit Red Wings,6,3,W,,,29,10,0,2,0,49,45,52.1,26,36,41.9,16,28,36.4,52.2,111.5,Colorado Avalanche,Colorado Avalanche,Detroit Red Wings,6,3
+43,2023-01-18,@,Calgary Flames,4,1,W,,,35,16,1,2,0,46,52,46.9,39,40,49.4,23,27,46.0,25.0,111.1,Colorado Avalanche,Calgary Flames,Colorado Avalanche,1,4
+44,2023-01-20,@,Vancouver Canucks,4,1,W,,,29,8,0,4,0,39,33,54.2,28,28,50.0,19,20,48.7,48.1,105.2,Colorado Avalanche,Vancouver Canucks,Colorado Avalanche,1,4
+45,2023-01-21,@,Seattle Kraken,2,1,W,SO,,27,4,0,2,0,50,55,47.6,33,44,42.9,18,22,45.0,44.8,100.3,Colorado Avalanche,Seattle Kraken,Colorado Avalanche,1,2
+46,2023-01-24,,Washington Capitals,3,2,W,,,39,0,0,2,0,48,65,42.5,33,50,39.8,27,27,50.0,43.2,105.8,Colorado Avalanche,Colorado Avalanche,Washington Capitals,3,2
+47,2023-01-26,,Anaheim Ducks,3,5,L,,,32,4,0,2,0,69,46,60.0,54,35,60.7,33,24,57.9,48.7,87.6,Colorado Avalanche,Colorado Avalanche,Anaheim Ducks,3,5
+48,2023-01-28,,St. Louis Blues,4,2,W,,,28,10,1,2,0,54,47,53.5,40,33,54.8,31,20,60.8,42.3,110.1,Colorado Avalanche,Colorado Avalanche,St. Louis Blues,4,2
+49,2023-02-07,@,Pittsburgh Penguins,1,2,L,OT,,38,8,0,1,0,58,76,43.3,45,52,46.4,22,22,50.0,58.5,97.5,Colorado Avalanche,Pittsburgh Penguins,Colorado Avalanche,2,1
+50,2023-02-09,@,Tampa Bay Lightning,0,5,L,,,32,14,2,3,0,50,51,49.5,35,35,50.0,14,35,28.6,48.4,86.4,Colorado Avalanche,Tampa Bay Lightning,Colorado Avalanche,5,0
+51,2023-02-11,@,Florida Panthers,5,3,W,,,45,11,0,4,0,54,54,50.0,44,40,52.4,27,30,47.4,55.6,98.9,Colorado Avalanche,Florida Panthers,Colorado Avalanche,3,5
+52,2023-02-14,,Tampa Bay Lightning,3,4,L,SO,,35,9,0,4,0,53,64,45.3,43,49,46.7,22,23,48.9,58.8,98.2,Colorado Avalanche,Colorado Avalanche,Tampa Bay Lightning,3,4
+53,2023-02-15,@,Minnesota Wild,3,2,W,,,43,7,1,2,0,40,78,33.9,23,59,28.0,22,25,46.8,27.0,114.2,Colorado Avalanche,Minnesota Wild,Colorado Avalanche,2,3
+54,2023-02-18,@,St. Louis Blues,4,1,W,,,20,8,0,3,0,45,34,57.0,35,24,59.3,19,23,45.2,65.2,102.1,Colorado Avalanche,St. Louis Blues,Colorado Avalanche,1,4
+55,2023-02-19,,Edmonton Oilers,6,5,W,OT,,40,8,0,1,0,49,68,41.9,37,46,44.6,36,31,53.7,45.2,104.7,Colorado Avalanche,Colorado Avalanche,Edmonton Oilers,6,5
+56,2023-02-24,@,Winnipeg Jets,5,1,W,,,27,6,1,5,0,46,48,48.9,34,38,47.2,24,28,46.2,41.9,117.9,Colorado Avalanche,Winnipeg Jets,Colorado Avalanche,1,5
+57,2023-02-25,,Calgary Flames,4,1,W,,,29,15,1,5,0,36,56,39.1,26,37,41.3,25,26,49.0,48.4,114.3,Colorado Avalanche,Colorado Avalanche,Calgary Flames,4,1
+58,2023-02-27,,Vegas Golden Knights,3,0,W,,,31,6,0,1,0,57,47,54.8,41,36,53.2,22,31,41.5,53.1,109.4,Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,3,0
+59,2023-03-01,,New Jersey Devils,5,7,L,,,29,2,1,2,0,56,51,52.3,39,36,52.0,32,30,51.6,69.8,93.6,Colorado Avalanche,Colorado Avalanche,New Jersey Devils,5,7
+60,2023-03-04,@,Dallas Stars,3,7,L,,,29,8,0,3,0,52,52,50.0,35,37,48.6,17,26,39.5,54.2,80.8,Colorado Avalanche,Dallas Stars,Colorado Avalanche,7,3
+61,2023-03-05,,Seattle Kraken,2,3,L,OT,,35,4,0,5,0,33,48,40.7,25,34,42.4,26,21,55.3,42.9,99.1,Colorado Avalanche,Colorado Avalanche,Seattle Kraken,2,3
+62,2023-03-07,,San Jose Sharks,6,0,W,,,13,30,0,3,0,52,29,64.2,40,15,72.7,21,25,45.7,69.7,116.1,Colorado Avalanche,Colorado Avalanche,San Jose Sharks,6,0
+63,2023-03-09,,Los Angeles Kings,2,5,L,,,31,6,0,4,0,56,35,61.5,42,29,59.2,18,21,46.2,69.6,85.1,Colorado Avalanche,Colorado Avalanche,Los Angeles Kings,2,5
+64,2023-03-11,,Arizona Coyotes,3,2,W,OT,,20,6,0,1,0,80,24,76.9,60,20,75.0,25,25,50.0,72.7,92.9,Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,3,2
+65,2023-03-13,@,Montreal Canadiens,8,4,W,,,19,25,1,2,0,54,40,57.4,33,29,53.2,18,26,40.9,50.0,102.6,Colorado Avalanche,Montreal Canadiens,Colorado Avalanche,4,8
+66,2023-03-15,@,Toronto Maple Leafs,2,1,W,SO,,18,10,0,3,0,55,32,63.2,36,22,62.1,20,27,42.6,66.5,93.3,Colorado Avalanche,Toronto Maple Leafs,Colorado Avalanche,1,2
+67,2023-03-16,@,Ottawa Senators,5,4,W,,,36,10,2,5,0,49,48,50.5,36,32,52.9,23,29,44.2,38.8,106.1,Colorado Avalanche,Ottawa Senators,Colorado Avalanche,4,5
+68,2023-03-18,@,Detroit Red Wings,5,1,W,,,34,8,0,3,0,37,39,48.7,29,28,50.9,25,36,41.0,47.6,111.2,Colorado Avalanche,Detroit Red Wings,Colorado Avalanche,1,5
+69,2023-03-20,,Chicago Blackhawks,5,0,W,,,27,2,0,2,0,57,48,54.3,41,35,53.9,28,23,54.9,34.3,113.3,Colorado Avalanche,Colorado Avalanche,Chicago Blackhawks,5,0
+70,2023-03-22,,Pittsburgh Penguins,2,5,L,,,45,8,2,4,0,54,64,45.8,39,50,43.8,21,29,42.0,41.0,95.4,Colorado Avalanche,Colorado Avalanche,Pittsburgh Penguins,2,5
+71,2023-03-24,,Arizona Coyotes,3,1,W,,,18,6,0,1,0,53,33,61.6,34,28,54.8,22,24,47.8,61.8,99.0,Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,3,1
+72,2023-03-26,@,Arizona Coyotes,4,3,W,SO,,30,6,0,3,0,48,50,49.0,34,33,50.7,26,26,50.0,46.3,95.8,Colorado Avalanche,Arizona Coyotes,Colorado Avalanche,3,4
+73,2023-03-27,@,Anaheim Ducks,5,1,W,,,30,6,0,3,0,65,45,59.1,47,36,56.6,20,24,45.5,53.3,107.3,Colorado Avalanche,Anaheim Ducks,Colorado Avalanche,1,5
+74,2023-03-29,,Minnesota Wild,2,4,L,,,29,10,0,3,2,70,34,67.3,56,23,70.9,28,15,65.1,76.4,94.4,Colorado Avalanche,Colorado Avalanche,Minnesota Wild,2,4
+75,2023-04-01,,Dallas Stars,5,2,W,,,28,6,2,5,0,43,42,50.6,30,33,47.6,23,17,57.5,60.9,116.0,Colorado Avalanche,Colorado Avalanche,Dallas Stars,5,2
+76,2023-04-04,@,San Jose Sharks,4,3,W,OT,,31,6,1,1,0,65,47,58.0,45,35,56.3,24,35,40.7,47.5,103.7,Colorado Avalanche,San Jose Sharks,Colorado Avalanche,3,4
+77,2023-04-06,@,San Jose Sharks,6,2,W,,,23,2,0,1,0,45,58,43.7,32,40,44.4,26,30,46.4,33.3,111.6,Colorado Avalanche,San Jose Sharks,Colorado Avalanche,2,6
+78,2023-04-08,@,Los Angeles Kings,4,3,W,,,41,16,1,2,0,49,62,44.1,36,46,43.9,21,24,46.7,36.0,114.4,Colorado Avalanche,Los Angeles Kings,Colorado Avalanche,3,4
+79,2023-04-09,@,Anaheim Ducks,5,4,W,OT,,23,26,0,3,0,54,34,61.4,42,23,64.6,27,25,51.9,68.1,82.4,Colorado Avalanche,Anaheim Ducks,Colorado Avalanche,4,5
+80,2023-04-11,,Edmonton Oilers,1,2,L,OT,,40,6,1,4,0,40,53,43.0,29,41,41.4,21,21,50.0,50.0,101.6,Colorado Avalanche,Colorado Avalanche,Edmonton Oilers,1,2
+81,2023-04-13,,Winnipeg Jets,4,2,W,,,20,6,0,3,1,37,35,51.4,28,23,54.9,27,26,50.9,60.7,106.5,Colorado Avalanche,Colorado Avalanche,Winnipeg Jets,4,2
+82,2023-04-14,@,Nashville Predators,4,3,W,,,21,8,1,2,0,55,37,59.8,39,26,60.0,15,25,37.5,41.7,103.3,Colorado Avalanche,Nashville Predators,Colorado Avalanche,3,4
