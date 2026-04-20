@@ -1,0 +1,24 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.4.4
+    hooks:
+      - id: ruff
+        args: [ --fix ]
+      - id: ruff-format
+
+  - repo: local
+    hooks:
+      - id: mypy
+        name: mypy
+        # We add UV_PROJECT_ENVIRONMENT override to prevent it from touching the Docker .venv
+        entry: bash -c "cd backend && UV_PROJECT_ENVIRONMENT=/tmp/mypy_venv uv run mypy ."
+        language: system
+        types: [python]
+        # Ensure it doesn't try to scan the Docker venv folder
+        exclude: ^backend/\.venv/
