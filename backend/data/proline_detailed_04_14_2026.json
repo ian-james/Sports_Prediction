@@ -1,0 +1,18 @@
+[
+  {
+    "event_id": 399,
+    "margin_event_id": 408,
+    "teams": {"visitor": "Carolina", "home": "New York Is"},
+    "moneyline": {"visitor": 2.06, "home": 1.69},
+    "winning_margins": {
+      "visitor_by_3_plus": 6.25,
+      "visitor_by_2": 8.20,
+      "visitor_by_1_reg": 7.20,
+      "visitor_ot_so": 7.25,
+      "home_ot_so": 6.50,
+      "home_by_1_reg": 5.80,
+      "home_by_2": 5.30,
+      "home_by_3_plus": 2.55
+    }
+  }
+]

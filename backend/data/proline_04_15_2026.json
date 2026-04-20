@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": 390,
+    "time": "2026-04-14T20:00:00",
+    "visitor_team": "Carolina",
+    "home_team": "New York Is",
+    "moneyline": { "visitor": 2.77, "tie": 3.95, "home": 1.93 },
+    "spread": {
+      "visitor": {"line": 1.5, "odds": 1.49},
+      "home": {"line": -1.5, "odds": 2.45}
+    },
+    "total": { "line": 6.0, "over": 1.87, "under": 1.87 }
+  },
+  {
+    "event_id": 391,
+    "time": "2026-04-14T20:00:00",
+    "visitor_team": "Montreal",
+    "home_team": "Philadelphia",
+    "moneyline": { "visitor": 1.63, "tie": 4.10, "home": 3.45 },
+    "spread": {
+      "visitor": {"line": -1.5, "odds": 2.13},
+      "home": {"line": 1.5, "odds": 1.64}
+    },
+    "total": { "line": 6.0, "over": 1.92, "under": 1.80 }
+  }
+]
