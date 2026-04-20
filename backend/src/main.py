@@ -6,6 +6,7 @@ app = FastAPI()
 # Routes
 app.include_router(prediction_router)
 
+
 @app.get("/")
 def read_root():
     return {"status": "Sports Prediction API Running"}
