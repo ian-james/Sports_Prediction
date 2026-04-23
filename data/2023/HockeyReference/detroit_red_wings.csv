@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-14,,Montreal Canadiens,3,0,W,,,29,6,0,3,0,50,37,57.5,37,24,60.7,20,28,41.7,54.1,110.0,Detroit Red Wings,Detroit Red Wings,Montreal Canadiens,3,0
+2,2022-10-15,@,New Jersey Devils,5,2,W,,,39,12,0,3,0,34,63,35.1,24,45,34.8,19,25,43.2,30.1,123.4,Detroit Red Wings,New Jersey Devils,Detroit Red Wings,2,5
+3,2022-10-17,,Los Angeles Kings,4,5,L,OT,,36,8,0,4,0,40,53,43.0,30,40,42.9,16,32,33.3,51.0,94.8,Detroit Red Wings,Detroit Red Wings,Los Angeles Kings,4,5
+4,2022-10-21,@,Chicago Blackhawks,3,4,L,OT,,29,14,0,3,1,46,48,48.9,32,35,47.8,17,26,39.5,32.5,95.8,Detroit Red Wings,Chicago Blackhawks,Detroit Red Wings,4,3
+5,2022-10-23,,Anaheim Ducks,5,1,W,,,33,14,0,4,0,36,53,40.4,30,40,42.9,18,24,42.9,48.0,104.1,Detroit Red Wings,Detroit Red Wings,Anaheim Ducks,5,1
+6,2022-10-25,,New Jersey Devils,2,6,L,,,41,6,1,1,1,38,61,38.4,26,49,34.7,20,30,40.0,44.4,101.5,Detroit Red Wings,Detroit Red Wings,New Jersey Devils,2,6
+7,2022-10-27,@,Boston Bruins,1,5,L,,,33,10,3,6,0,40,37,51.9,31,32,49.2,23,20,53.5,45.3,95.7,Detroit Red Wings,Boston Bruins,Detroit Red Wings,5,1
+8,2022-10-29,,Minnesota Wild,2,1,W,,,31,6,0,1,0,45,57,44.1,32,40,44.4,16,19,45.7,45.5,100.8,Detroit Red Wings,Detroit Red Wings,Minnesota Wild,2,1
+9,2022-10-31,@,Buffalo Sabres,3,8,L,,,46,4,2,5,0,29,62,31.9,25,51,32.9,28,27,50.9,31.7,97.5,Detroit Red Wings,Buffalo Sabres,Detroit Red Wings,8,3
+10,2022-11-03,,Washington Capitals,3,1,W,,,34,8,0,4,0,35,46,43.2,29,34,46.0,15,25,37.5,37.0,105.6,Detroit Red Wings,Detroit Red Wings,Washington Capitals,3,1
+11,2022-11-05,,New York Islanders,3,0,W,,,24,10,0,3,0,35,54,39.3,27,32,45.8,15,22,40.5,47.0,105.3,Detroit Red Wings,Detroit Red Wings,New York Islanders,3,0
+12,2022-11-06,@,New York Rangers,3,2,W,OT,,29,8,1,2,0,43,57,43.0,31,37,45.6,28,22,56.0,39.5,104.0,Detroit Red Wings,New York Rangers,Detroit Red Wings,2,3
+13,2022-11-08,,Montreal Canadiens,2,3,L,SO,,33,35,0,1,0,49,45,52.1,39,34,53.4,19,22,46.3,42.1,100.7,Detroit Red Wings,Detroit Red Wings,Montreal Canadiens,2,3
+14,2022-11-10,,New York Rangers,2,8,L,,,33,4,1,3,1,34,47,42.0,25,35,41.7,17,19,47.2,66.7,86.9,Detroit Red Wings,Detroit Red Wings,New York Rangers,2,8
+15,2022-11-12,@,Los Angeles Kings,3,4,L,,,21,8,2,3,0,44,47,48.4,25,30,45.5,18,24,42.9,57.1,95.1,Detroit Red Wings,Los Angeles Kings,Detroit Red Wings,4,3
+16,2022-11-15,@,Anaheim Ducks,2,3,L,OT,,30,8,1,5,0,49,58,45.8,39,39,50.0,26,20,56.5,42.5,95.4,Detroit Red Wings,Anaheim Ducks,Detroit Red Wings,3,2
+17,2022-11-17,@,San Jose Sharks,7,4,W,,,25,6,0,1,0,39,57,40.6,28,38,42.4,22,25,46.8,32.0,123.8,Detroit Red Wings,San Jose Sharks,Detroit Red Wings,4,7
+18,2022-11-19,@,Columbus Blue Jackets,6,1,W,,,28,8,0,2,0,48,49,49.5,35,36,49.3,20,35,36.4,51.8,110.1,Detroit Red Wings,Columbus Blue Jackets,Detroit Red Wings,1,6
+19,2022-11-23,,Nashville Predators,3,0,W,,,26,4,0,3,0,35,55,38.9,28,33,45.9,22,14,61.1,13.0,109.5,Detroit Red Wings,Detroit Red Wings,Nashville Predators,3,0
+20,2022-11-25,,Arizona Coyotes,4,3,W,SO,,24,15,0,4,0,52,30,63.4,44,24,64.7,21,15,58.3,59.2,84.0,Detroit Red Wings,Detroit Red Wings,Arizona Coyotes,4,3
+21,2022-11-28,,Toronto Maple Leafs,2,4,L,,,25,6,1,2,0,69,29,70.4,47,24,66.2,17,26,39.5,63.4,90.6,Detroit Red Wings,Detroit Red Wings,Toronto Maple Leafs,2,4
+22,2022-11-30,,Buffalo Sabres,4,5,L,SO,,34,16,1,2,1,46,45,50.5,41,35,53.9,35,17,67.3,47.2,104.6,Detroit Red Wings,Detroit Red Wings,Buffalo Sabres,4,5
+23,2022-12-03,,Vegas Golden Knights,1,4,L,,,25,6,1,1,0,53,46,53.5,31,31,50.0,24,23,51.1,64.5,86.4,Detroit Red Wings,Detroit Red Wings,Vegas Golden Knights,1,4
+24,2022-12-04,@,Columbus Blue Jackets,4,2,W,,,34,10,1,3,0,41,37,52.6,29,28,50.9,21,19,52.5,37.0,103.9,Detroit Red Wings,Columbus Blue Jackets,Detroit Red Wings,2,4
+25,2022-12-06,@,Tampa Bay Lightning,4,2,W,,,46,4,0,2,0,45,68,39.8,35,58,37.6,21,24,46.7,36.7,112.1,Detroit Red Wings,Tampa Bay Lightning,Detroit Red Wings,2,4
+26,2022-12-08,@,Florida Panthers,1,5,L,,,41,8,0,3,0,27,54,33.3,21,39,35.0,18,16,52.9,60.0,82.8,Detroit Red Wings,Florida Panthers,Detroit Red Wings,5,1
+27,2022-12-10,@,Dallas Stars,2,3,L,OT,,33,4,1,4,0,45,57,44.1,35,46,43.2,22,20,52.4,44.6,101.9,Detroit Red Wings,Dallas Stars,Detroit Red Wings,3,2
+28,2022-12-13,,Carolina Hurricanes,0,1,L,,,27,6,1,2,0,43,51,45.7,36,36,50.0,25,27,48.1,51.8,100.0,Detroit Red Wings,Detroit Red Wings,Carolina Hurricanes,0,1
+29,2022-12-14,@,Minnesota Wild,1,4,L,,,22,11,1,4,0,37,31,54.4,25,22,53.2,20,19,51.3,43.6,86.3,Detroit Red Wings,Minnesota Wild,Detroit Red Wings,4,1
+30,2022-12-17,,Ottawa Senators,3,6,L,,,28,14,3,5,2,37,26,58.7,25,16,61.0,6,18,25.0,72.7,102.2,Detroit Red Wings,Detroit Red Wings,Ottawa Senators,3,6
+31,2022-12-19,@,Washington Capitals,3,4,L,OT,,42,8,0,3,0,37,65,36.3,23,53,30.3,17,16,51.5,32.8,102.8,Detroit Red Wings,Washington Capitals,Detroit Red Wings,4,3
+32,2022-12-21,,Tampa Bay Lightning,7,4,W,,,38,10,0,4,0,39,51,43.3,29,34,46.0,16,24,40.0,60.2,113.7,Detroit Red Wings,Detroit Red Wings,Tampa Bay Lightning,7,4
+33,2022-12-28,@,Pittsburgh Penguins,5,4,W,OT,,31,8,2,2,0,56,54,50.9,40,41,49.4,23,20,53.5,48.8,101.2,Detroit Red Wings,Pittsburgh Penguins,Detroit Red Wings,4,5
+34,2022-12-29,@,Buffalo Sabres,3,6,L,,,35,6,1,5,0,41,52,44.1,34,39,46.6,23,28,45.1,58.6,91.0,Detroit Red Wings,Buffalo Sabres,Detroit Red Wings,6,3
+35,2022-12-31,,Ottawa Senators,4,2,W,,,23,8,0,4,0,43,50,46.2,29,33,46.8,16,17,48.5,74.1,110.5,Detroit Red Wings,Detroit Red Wings,Ottawa Senators,4,2
+36,2023-01-04,,New Jersey Devils,1,5,L,,,27,4,2,3,0,55,40,57.9,44,29,60.3,38,21,64.4,68.3,87.0,Detroit Red Wings,Detroit Red Wings,New Jersey Devils,1,5
+37,2023-01-06,,Florida Panthers,2,3,L,,,20,10,2,2,0,53,32,62.4,39,25,60.9,30,16,65.2,51.6,102.1,Detroit Red Wings,Detroit Red Wings,Florida Panthers,2,3
+38,2023-01-07,@,Toronto Maple Leafs,1,4,L,,,29,8,1,5,0,34,36,48.6,28,27,50.9,20,22,47.6,38.4,92.2,Detroit Red Wings,Toronto Maple Leafs,Detroit Red Wings,4,1
+39,2023-01-10,,Winnipeg Jets,7,5,W,,,37,6,1,3,0,34,78,30.4,24,56,30.0,23,32,41.8,16.3,123.9,Detroit Red Wings,Detroit Red Wings,Winnipeg Jets,7,5
+40,2023-01-12,,Toronto Maple Leafs,4,1,W,,,33,10,0,3,0,33,45,42.3,26,34,43.3,21,14,60.0,34.3,106.7,Detroit Red Wings,Detroit Red Wings,Toronto Maple Leafs,4,1
+41,2023-01-14,,Columbus Blue Jackets,3,4,L,,,25,4,0,1,0,45,39,53.6,32,33,49.2,19,23,45.2,50.0,95.3,Detroit Red Wings,Detroit Red Wings,Columbus Blue Jackets,3,4
+42,2023-01-16,@,Colorado Avalanche,3,6,L,,,27,6,2,4,0,45,49,47.9,36,26,58.1,28,16,63.6,47.8,88.5,Detroit Red Wings,Colorado Avalanche,Detroit Red Wings,6,3
+43,2023-01-17,@,Arizona Coyotes,3,4,L,SO,,23,6,0,2,0,59,50,54.1,43,30,58.9,20,27,42.6,48.3,90.9,Detroit Red Wings,Arizona Coyotes,Detroit Red Wings,4,3
+44,2023-01-19,@,Vegas Golden Knights,3,2,W,,,35,2,0,0,0,46,61,43.0,34,46,42.5,24,34,41.4,39.5,102.6,Detroit Red Wings,Vegas Golden Knights,Detroit Red Wings,2,3
+45,2023-01-21,,Philadelphia Flyers,1,2,L,,,25,8,0,1,0,66,43,60.6,39,32,54.9,29,22,56.9,65.5,93.9,Detroit Red Wings,Detroit Red Wings,Philadelphia Flyers,1,2
+46,2023-01-24,,San Jose Sharks,3,2,W,OT,,30,6,0,1,0,50,60,45.5,42,38,52.5,28,25,52.8,62.8,102.5,Detroit Red Wings,Detroit Red Wings,San Jose Sharks,3,2
+47,2023-01-26,@,Montreal Canadiens,4,3,W,OT,,23,9,0,2,1,72,44,62.1,48,27,64.0,24,24,50.0,55.0,95.9,Detroit Red Wings,Montreal Canadiens,Detroit Red Wings,3,4
+48,2023-01-27,@,New York Islanders,0,2,L,,,29,10,0,4,0,31,48,39.2,23,39,37.1,16,21,43.2,60.4,91.7,Detroit Red Wings,New York Islanders,Detroit Red Wings,2,0
+49,2023-02-07,,Edmonton Oilers,2,5,L,,,27,18,1,4,1,37,32,53.6,30,25,54.5,18,19,48.6,75.8,91.7,Detroit Red Wings,Detroit Red Wings,Edmonton Oilers,2,5
+50,2023-02-09,,Calgary Flames,2,1,W,,,36,10,0,3,0,23,52,30.7,16,40,28.6,15,17,46.9,30.0,110.8,Detroit Red Wings,Detroit Red Wings,Calgary Flames,2,1
+51,2023-02-11,,Vancouver Canucks,5,2,W,,,34,12,1,3,0,29,56,34.1,23,37,38.3,19,19,50.0,28.0,112.1,Detroit Red Wings,Detroit Red Wings,Vancouver Canucks,5,2
+52,2023-02-13,@,Vancouver Canucks,6,1,W,,,30,2,0,4,0,39,44,47.0,28,36,43.8,15,23,39.5,40.6,119.6,Detroit Red Wings,Vancouver Canucks,Detroit Red Wings,1,6
+53,2023-02-15,@,Edmonton Oilers,5,4,W,SO,,45,4,1,3,0,29,75,27.9,25,58,30.1,27,31,46.6,66.1,102.5,Detroit Red Wings,Edmonton Oilers,Detroit Red Wings,4,5
+54,2023-02-16,@,Calgary Flames,5,2,W,,,35,8,0,2,1,30,71,29.7,24,50,32.4,23,22,51.1,18.5,112.2,Detroit Red Wings,Calgary Flames,Detroit Red Wings,2,5
+55,2023-02-18,@,Seattle Kraken,2,4,L,,,26,16,0,2,0,54,57,48.6,42,42,50.0,21,31,40.4,47.4,93.1,Detroit Red Wings,Seattle Kraken,Detroit Red Wings,4,2
+56,2023-02-21,@,Washington Capitals,3,1,W,,,27,6,1,3,0,43,60,41.7,33,40,45.2,19,19,50.0,33.3,111.8,Detroit Red Wings,Washington Capitals,Detroit Red Wings,1,3
+57,2023-02-23,,New York Rangers,4,1,W,,,31,15,0,2,0,33,58,36.3,25,37,40.3,24,22,52.2,24.2,112.5,Detroit Red Wings,Detroit Red Wings,New York Rangers,4,1
+58,2023-02-25,,Tampa Bay Lightning,0,3,L,,,18,8,0,2,0,69,32,68.3,46,22,67.6,21,21,50.0,68.7,80.0,Detroit Red Wings,Detroit Red Wings,Tampa Bay Lightning,0,3
+59,2023-02-27,@,Ottawa Senators,2,6,L,,,42,8,2,6,0,37,47,44.0,24,37,39.3,24,28,46.2,63.8,91.7,Detroit Red Wings,Ottawa Senators,Detroit Red Wings,6,2
+60,2023-02-28,@,Ottawa Senators,1,6,L,,,27,27,2,6,1,26,36,41.9,20,27,42.6,18,18,50.0,71.0,89.6,Detroit Red Wings,Ottawa Senators,Detroit Red Wings,6,1
+61,2023-03-02,,Seattle Kraken,4,5,L,OT,,37,11,1,5,0,37,54,40.7,30,39,43.5,31,20,60.8,39.2,102.9,Detroit Red Wings,Detroit Red Wings,Seattle Kraken,4,5
+62,2023-03-04,@,New York Islanders,1,4,L,,,36,6,1,2,0,36,56,39.1,25,46,35.2,9,24,27.3,50.0,90.6,Detroit Red Wings,New York Islanders,Detroit Red Wings,4,1
+63,2023-03-05,@,Philadelphia Flyers,1,3,L,,,37,6,0,3,1,45,62,42.1,30,43,41.1,27,16,62.8,44.8,97.6,Detroit Red Wings,Philadelphia Flyers,Detroit Red Wings,3,1
+64,2023-03-08,,Chicago Blackhawks,4,3,W,,,20,6,1,3,0,58,30,65.9,48,20,70.6,33,24,57.9,65.8,96.1,Detroit Red Wings,Detroit Red Wings,Chicago Blackhawks,4,3
+65,2023-03-11,@,Boston Bruins,2,3,L,,,38,4,1,4,0,41,50,45.1,32,37,46.4,20,28,41.7,35.1,92.9,Detroit Red Wings,Boston Bruins,Detroit Red Wings,3,2
+66,2023-03-12,,Boston Bruins,5,3,W,,,33,12,0,3,0,37,64,36.6,30,41,42.3,19,24,44.2,65.7,98.8,Detroit Red Wings,Detroit Red Wings,Boston Bruins,5,3
+67,2023-03-14,@,Nashville Predators,1,2,L,,,16,8,0,5,0,54,21,72.0,37,13,74.0,15,22,40.5,52.6,77.8,Detroit Red Wings,Nashville Predators,Detroit Red Wings,2,1
+68,2023-03-18,,Colorado Avalanche,1,5,L,,,23,8,1,3,1,39,37,51.3,28,29,49.1,36,25,59.0,52.6,88.8,Detroit Red Wings,Detroit Red Wings,Colorado Avalanche,1,5
+69,2023-03-20,,Florida Panthers,2,5,L,,,25,4,1,2,0,43,48,47.3,35,37,48.6,17,21,44.7,53.8,90.5,Detroit Red Wings,Detroit Red Wings,Florida Panthers,2,5
+70,2023-03-21,@,St. Louis Blues,3,2,W,SO,,22,6,0,3,0,49,40,55.1,38,28,57.6,24,17,58.5,81.3,94.0,Detroit Red Wings,St. Louis Blues,Detroit Red Wings,2,3
+71,2023-03-23,,St. Louis Blues,3,4,L,,,22,7,0,4,0,52,36,59.1,34,25,57.6,23,24,48.9,55.2,92.0,Detroit Red Wings,Detroit Red Wings,St. Louis Blues,3,4
+72,2023-03-25,@,Philadelphia Flyers,0,3,L,,,22,14,0,3,0,34,35,49.3,24,27,47.1,17,17,50.0,54.2,82.4,Detroit Red Wings,Philadelphia Flyers,Detroit Red Wings,3,0
+73,2023-03-28,,Pittsburgh Penguins,7,4,W,,,39,6,2,6,0,44,49,47.3,32,38,45.7,23,26,46.9,25.0,118.3,Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,7,4
+74,2023-03-30,,Carolina Hurricanes,3,2,W,,,33,6,0,3,0,28,78,26.4,23,54,29.9,27,24,52.9,23.7,105.3,Detroit Red Wings,Detroit Red Wings,Carolina Hurricanes,3,2
+75,2023-03-31,@,Winnipeg Jets,2,6,L,,,29,2,0,3,0,51,52,49.5,37,34,52.1,21,20,51.2,70.6,79.3,Detroit Red Wings,Winnipeg Jets,Detroit Red Wings,6,2
+76,2023-04-02,@,Toronto Maple Leafs,5,2,W,,,45,14,2,3,0,43,65,39.8,35,49,41.7,18,35,34.0,29.9,122.7,Detroit Red Wings,Toronto Maple Leafs,Detroit Red Wings,2,5
+77,2023-04-04,@,Montreal Canadiens,5,0,W,,,24,8,0,3,0,36,31,53.7,24,26,48.0,16,13,55.2,53.2,125.0,Detroit Red Wings,Montreal Canadiens,Detroit Red Wings,0,5
+78,2023-04-06,,Buffalo Sabres,6,7,L,SO,,36,8,1,3,0,43,44,49.4,33,39,45.8,29,24,54.7,51.1,96.9,Detroit Red Wings,Detroit Red Wings,Buffalo Sabres,6,7
+79,2023-04-08,,Pittsburgh Penguins,1,5,L,,,28,6,1,4,0,40,41,49.4,28,28,50.0,25,11,69.4,45.4,88.9,Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,1,5
+80,2023-04-10,,Dallas Stars,1,6,L,,,22,6,1,3,0,37,41,47.4,26,30,46.4,15,21,41.7,42.9,80.6,Detroit Red Wings,Detroit Red Wings,Dallas Stars,1,6
+81,2023-04-11,@,Carolina Hurricanes,1,4,L,,,28,4,0,1,0,30,47,39.0,25,37,40.3,27,21,56.3,58.6,88.3,Detroit Red Wings,Carolina Hurricanes,Detroit Red Wings,4,1
+82,2023-04-13,@,Tampa Bay Lightning,0,5,L,,,32,6,1,2,0,49,54,47.6,38,39,49.4,17,29,37.0,55.5,85.2,Detroit Red Wings,Tampa Bay Lightning,Detroit Red Wings,5,0

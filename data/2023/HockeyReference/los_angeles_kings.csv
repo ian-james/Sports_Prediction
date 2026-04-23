@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-11,,Vegas Golden Knights,3,4,L,,,51,6,1,5,0,50,72,41.0,41,52,44.1,24,24,50.0,50.0,103.9,Los Angeles Kings,Los Angeles Kings,Vegas Golden Knights,3,4
+2,2022-10-13,,Seattle Kraken,1,4,L,,,22,19,1,6,1,42,29,59.2,30,22,57.7,25,11,69.4,56.1,87.5,Los Angeles Kings,Los Angeles Kings,Seattle Kraken,1,4
+3,2022-10-15,@,Minnesota Wild,7,6,W,,,35,14,3,6,0,31,53,36.9,27,36,42.9,32,20,61.5,43.7,110.2,Los Angeles Kings,Minnesota Wild,Los Angeles Kings,6,7
+4,2022-10-17,@,Detroit Red Wings,5,4,W,OT,,33,8,1,4,0,53,40,57.0,40,30,57.1,32,16,66.7,49.0,105.2,Los Angeles Kings,Detroit Red Wings,Los Angeles Kings,4,5
+5,2022-10-18,@,Nashville Predators,4,3,W,SO,,32,18,0,5,0,39,41,48.8,32,34,48.5,13,21,38.2,52.4,95.7,Los Angeles Kings,Nashville Predators,Los Angeles Kings,3,4
+6,2022-10-20,@,Pittsburgh Penguins,1,6,L,,,34,14,1,3,1,55,46,54.5,39,33,54.2,16,18,47.1,40.3,85.7,Los Angeles Kings,Pittsburgh Penguins,Los Angeles Kings,6,1
+7,2022-10-22,@,Washington Capitals,3,4,L,,,32,2,0,3,0,51,58,46.8,35,40,46.7,35,16,68.6,50.0,97.7,Los Angeles Kings,Washington Capitals,Los Angeles Kings,4,3
+8,2022-10-25,,Tampa Bay Lightning,4,2,W,,,25,10,0,4,0,54,42,56.3,38,25,60.3,17,19,47.2,52.3,99.2,Los Angeles Kings,Los Angeles Kings,Tampa Bay Lightning,4,2
+9,2022-10-27,,Winnipeg Jets,4,6,L,,,19,8,2,5,1,64,25,71.9,46,20,69.7,22,13,62.9,57.9,80.6,Los Angeles Kings,Los Angeles Kings,Winnipeg Jets,4,6
+10,2022-10-29,,Toronto Maple Leafs,4,2,W,,,28,12,1,4,0,40,39,50.6,29,33,46.8,22,18,55.0,42.2,105.5,Los Angeles Kings,Los Angeles Kings,Toronto Maple Leafs,4,2
+11,2022-10-31,@,St. Louis Blues,5,1,W,,,28,6,0,4,0,48,36,57.1,41,27,60.3,23,18,56.1,58.6,110.4,Los Angeles Kings,St. Louis Blues,Los Angeles Kings,1,5
+12,2022-11-01,@,Dallas Stars,2,5,L,,,40,6,3,4,0,52,64,44.8,38,45,45.8,27,30,47.4,46.3,97.6,Los Angeles Kings,Dallas Stars,Los Angeles Kings,5,2
+13,2022-11-03,@,Chicago Blackhawks,1,2,L,OT,,19,9,0,1,0,67,37,64.4,47,28,62.7,31,17,64.6,57.1,91.3,Los Angeles Kings,Chicago Blackhawks,Los Angeles Kings,2,1
+14,2022-11-05,,Florida Panthers,5,4,W,,,38,22,0,2,0,46,69,40.0,33,53,38.4,32,27,54.2,48.7,104.2,Los Angeles Kings,Los Angeles Kings,Florida Panthers,5,4
+15,2022-11-08,,Minnesota Wild,1,0,W,,,21,11,0,1,0,52,38,57.8,38,27,58.5,21,12,63.6,,104.2,Los Angeles Kings,Los Angeles Kings,Minnesota Wild,1,0
+16,2022-11-10,,Chicago Blackhawks,2,1,W,OT,,32,8,1,4,0,60,37,61.9,42,27,60.9,14,31,31.1,61.3,106.9,Los Angeles Kings,Los Angeles Kings,Chicago Blackhawks,2,1
+17,2022-11-12,,Detroit Red Wings,4,3,W,,,21,6,2,4,0,47,44,51.6,30,25,54.5,24,18,57.1,42.9,104.9,Los Angeles Kings,Los Angeles Kings,Detroit Red Wings,4,3
+18,2022-11-14,@,Calgary Flames,5,6,L,,,30,8,1,2,0,44,47,48.4,32,33,49.2,28,30,48.3,31.5,97.4,Los Angeles Kings,Calgary Flames,Los Angeles Kings,6,5
+19,2022-11-16,@,Edmonton Oilers,3,1,W,,,23,10,0,1,0,40,60,40.0,33,32,50.8,29,22,56.9,44.5,106.0,Los Angeles Kings,Edmonton Oilers,Los Angeles Kings,1,3
+20,2022-11-18,@,Vancouver Canucks,1,4,L,,,25,4,1,3,0,54,43,55.7,45,29,60.8,22,24,47.8,48.7,90.1,Los Angeles Kings,Vancouver Canucks,Los Angeles Kings,4,1
+21,2022-11-19,@,Seattle Kraken,2,3,L,OT,,29,2,1,3,0,61,41,59.8,39,34,53.4,20,22,47.6,62.8,96.0,Los Angeles Kings,Seattle Kraken,Los Angeles Kings,3,2
+22,2022-11-22,,New York Rangers,3,5,L,,,25,4,0,0,0,56,51,52.3,42,32,56.8,30,28,51.7,50.3,85.4,Los Angeles Kings,Los Angeles Kings,New York Rangers,3,5
+23,2022-11-25,@,San Jose Sharks,5,2,W,,,31,4,0,3,0,48,59,44.9,35,40,46.7,29,25,53.7,48.4,108.6,Los Angeles Kings,San Jose Sharks,Los Angeles Kings,2,5
+24,2022-11-27,,Ottawa Senators,2,3,L,OT,,39,4,1,2,0,54,65,45.4,37,45,45.1,29,31,48.3,47.6,94.3,Los Angeles Kings,Los Angeles Kings,Ottawa Senators,2,3
+25,2022-11-29,,Seattle Kraken,8,9,L,OT,,30,8,3,4,0,48,47,50.5,40,39,50.6,33,19,63.5,42.6,98.4,Los Angeles Kings,Los Angeles Kings,Seattle Kraken,8,9
+26,2022-12-01,,Arizona Coyotes,5,3,W,,,21,10,0,3,1,40,30,57.1,28,22,56.0,17,26,39.5,65.4,96.1,Los Angeles Kings,Los Angeles Kings,Arizona Coyotes,5,3
+27,2022-12-03,,Carolina Hurricanes,2,4,L,,,31,8,1,3,0,55,50,52.4,40,45,47.1,29,22,56.9,60.7,93.0,Los Angeles Kings,Los Angeles Kings,Carolina Hurricanes,2,4
+28,2022-12-06,@,Ottawa Senators,5,2,W,,,33,6,2,4,0,50,48,51.0,33,31,51.6,19,25,43.2,59.4,112.5,Los Angeles Kings,Ottawa Senators,Los Angeles Kings,2,5
+29,2022-12-08,@,Toronto Maple Leafs,0,5,L,,,41,12,1,3,0,42,53,44.2,30,43,41.1,17,22,43.6,59.3,87.9,Los Angeles Kings,Toronto Maple Leafs,Los Angeles Kings,5,0
+30,2022-12-10,@,Montreal Canadiens,4,2,W,,,22,8,0,3,0,44,43,50.6,38,27,58.5,27,15,64.3,66.7,98.9,Los Angeles Kings,Montreal Canadiens,Los Angeles Kings,2,4
+31,2022-12-11,@,Columbus Blue Jackets,5,6,L,OT,,26,4,2,3,1,66,52,55.9,54,34,61.4,26,30,46.4,66.3,99.6,Los Angeles Kings,Columbus Blue Jackets,Los Angeles Kings,6,5
+32,2022-12-13,@,Buffalo Sabres,0,6,L,,,31,6,3,6,0,42,46,47.7,36,30,54.5,24,25,49.0,55.1,85.7,Los Angeles Kings,Buffalo Sabres,Los Angeles Kings,6,0
+33,2022-12-15,@,Boston Bruins,3,2,W,SO,,35,14,1,6,0,45,46,49.5,32,31,50.8,22,16,57.9,38.3,98.6,Los Angeles Kings,Boston Bruins,Los Angeles Kings,2,3
+34,2022-12-17,,San Jose Sharks,3,2,W,SO,,25,8,1,3,0,54,45,54.5,37,28,56.9,23,23,50.0,46.3,98.0,Los Angeles Kings,Los Angeles Kings,San Jose Sharks,3,2
+35,2022-12-20,,Anaheim Ducks,4,1,W,,,25,12,1,5,0,54,38,58.7,40,26,60.6,25,13,65.8,61.5,110.0,Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,4,1
+36,2022-12-22,,Calgary Flames,4,3,W,OT,,30,8,1,2,0,53,55,49.1,41,37,52.6,22,25,46.8,40.0,108.0,Los Angeles Kings,Los Angeles Kings,Calgary Flames,4,3
+37,2022-12-23,@,Arizona Coyotes,1,2,L,SO,,24,8,1,6,0,37,43,46.3,28,28,50.0,19,13,59.4,54.5,100.0,Los Angeles Kings,Arizona Coyotes,Los Angeles Kings,2,1
+38,2022-12-27,,Vegas Golden Knights,4,2,W,,,25,4,1,3,0,44,44,50.0,33,30,52.4,25,15,62.5,56.0,111.4,Los Angeles Kings,Los Angeles Kings,Vegas Golden Knights,4,2
+39,2022-12-29,@,Colorado Avalanche,5,4,W,SO,,27,10,1,5,0,43,50,46.2,34,33,50.7,24,22,52.2,35.8,97.5,Los Angeles Kings,Colorado Avalanche,Los Angeles Kings,4,5
+40,2022-12-31,,Philadelphia Flyers,2,4,L,,,23,10,1,3,1,51,30,63.0,36,22,62.1,23,14,62.2,55.5,91.5,Los Angeles Kings,Los Angeles Kings,Philadelphia Flyers,2,4
+41,2023-01-03,,Dallas Stars,3,2,W,,,30,6,0,3,0,54,46,54.0,40,35,53.3,23,18,56.1,42.9,98.8,Los Angeles Kings,Los Angeles Kings,Dallas Stars,3,2
+42,2023-01-05,,Boston Bruins,2,5,L,,,22,7,1,1,0,56,42,57.1,36,27,57.1,24,21,53.3,53.6,88.1,Los Angeles Kings,Los Angeles Kings,Boston Bruins,2,5
+43,2023-01-07,@,Vegas Golden Knights,5,1,W,,,20,2,0,3,0,34,36,48.6,27,24,52.9,25,16,61.0,32.0,114.5,Los Angeles Kings,Vegas Golden Knights,Los Angeles Kings,1,5
+44,2023-01-09,,Edmonton Oilers,6,3,W,,,31,41,0,6,0,41,46,47.1,32,31,50.8,25,19,56.8,38.1,94.7,Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,6,3
+45,2023-01-11,,San Jose Sharks,4,3,W,,,30,4,1,2,0,55,68,44.7,47,44,51.6,24,27,47.1,60.3,104.3,Los Angeles Kings,Los Angeles Kings,San Jose Sharks,4,3
+46,2023-01-14,,New Jersey Devils,2,5,L,,,28,8,1,3,0,54,44,55.1,44,29,60.3,28,26,51.9,56.6,80.0,Los Angeles Kings,Los Angeles Kings,New Jersey Devils,2,5
+47,2023-01-19,,Dallas Stars,0,4,L,,,24,8,0,4,0,48,40,54.5,31,29,51.7,19,16,54.3,59.7,78.9,Los Angeles Kings,Los Angeles Kings,Dallas Stars,0,4
+48,2023-01-21,@,Nashville Predators,3,5,L,,,28,15,1,1,0,48,54,47.1,35,39,47.3,20,25,44.4,54.5,92.6,Los Angeles Kings,Nashville Predators,Los Angeles Kings,5,3
+49,2023-01-22,@,Chicago Blackhawks,2,1,W,,,19,2,0,2,0,48,40,54.5,41,29,58.6,16,25,39.0,45.8,101.9,Los Angeles Kings,Chicago Blackhawks,Los Angeles Kings,1,2
+50,2023-01-24,@,Philadelphia Flyers,4,3,W,OT,,31,24,0,3,0,54,37,59.3,43,30,58.9,31,17,64.6,60.2,97.4,Los Angeles Kings,Philadelphia Flyers,Los Angeles Kings,3,4
+51,2023-01-27,@,Florida Panthers,4,3,W,,,48,8,0,5,0,47,68,40.9,34,53,39.1,23,25,47.9,35.3,99.9,Los Angeles Kings,Florida Panthers,Los Angeles Kings,3,4
+52,2023-01-28,@,Tampa Bay Lightning,2,5,L,,,25,14,0,2,0,43,47,47.8,34,33,50.7,21,31,40.4,48.5,87.2,Los Angeles Kings,Tampa Bay Lightning,Los Angeles Kings,5,2
+53,2023-01-31,@,Carolina Hurricanes,4,5,L,OT,,30,4,2,2,0,35,61,36.5,28,48,36.8,26,34,43.3,31.3,104.3,Los Angeles Kings,Carolina Hurricanes,Los Angeles Kings,5,4
+54,2023-02-11,,Pittsburgh Penguins,6,0,W,,,25,30,0,5,0,43,47,47.8,33,29,53.2,15,15,50.0,55.6,116.0,Los Angeles Kings,Los Angeles Kings,Pittsburgh Penguins,6,0
+55,2023-02-13,,Buffalo Sabres,5,2,W,,,29,8,1,5,0,41,48,46.1,32,34,48.5,27,17,61.4,17.9,106.0,Los Angeles Kings,Los Angeles Kings,Buffalo Sabres,5,2
+56,2023-02-17,@,Anaheim Ducks,6,3,W,,,27,16,1,2,0,60,48,55.6,47,39,54.7,26,14,65.0,63.0,101.0,Los Angeles Kings,Anaheim Ducks,Los Angeles Kings,3,6
+57,2023-02-18,,Arizona Coyotes,6,5,W,SO,,32,10,1,3,0,56,40,58.3,41,31,56.9,23,21,52.3,65.3,97.3,Los Angeles Kings,Los Angeles Kings,Arizona Coyotes,6,5
+58,2023-02-21,@,Minnesota Wild,1,2,L,,,20,2,0,3,0,71,33,68.3,50,23,68.5,21,15,58.3,59.6,89.7,Los Angeles Kings,Minnesota Wild,Los Angeles Kings,2,1
+59,2023-02-23,@,New Jersey Devils,3,4,L,OT,,32,2,0,4,0,38,55,40.9,30,41,42.3,18,27,40.0,35.1,100.2,Los Angeles Kings,New Jersey Devils,Los Angeles Kings,4,3
+60,2023-02-24,@,New York Islanders,3,2,W,,,18,4,1,3,0,41,41,50.0,33,28,54.1,20,13,60.6,35.3,104.4,Los Angeles Kings,New York Islanders,Los Angeles Kings,2,3
+61,2023-02-26,@,New York Rangers,2,5,L,,,21,11,1,4,0,49,36,57.6,36,30,54.5,17,14,54.8,63.8,82.1,Los Angeles Kings,New York Rangers,Los Angeles Kings,5,2
+62,2023-02-28,@,Winnipeg Jets,6,5,W,SO,,31,10,0,3,1,53,59,47.3,36,38,48.6,21,21,50.0,64.4,99.5,Los Angeles Kings,Winnipeg Jets,Los Angeles Kings,5,6
+63,2023-03-02,,Montreal Canadiens,3,2,W,,,21,8,1,3,0,47,31,60.3,38,22,63.3,20,19,51.3,64.0,104.9,Los Angeles Kings,Los Angeles Kings,Montreal Canadiens,3,2
+64,2023-03-04,,St. Louis Blues,4,2,W,,,26,6,0,3,1,55,38,59.1,41,23,64.1,20,18,52.6,63.6,103.8,Los Angeles Kings,Los Angeles Kings,St. Louis Blues,4,2
+65,2023-03-06,,Washington Capitals,4,2,W,,,22,10,1,5,0,60,30,66.7,51,22,69.9,22,18,55.0,44.9,104.6,Los Angeles Kings,Los Angeles Kings,Washington Capitals,4,2
+66,2023-03-09,@,Colorado Avalanche,5,2,W,,,30,8,1,3,0,35,56,38.5,29,42,40.8,21,18,53.8,30.4,114.9,Los Angeles Kings,Colorado Avalanche,Los Angeles Kings,2,5
+67,2023-03-11,,Nashville Predators,1,2,L,SO,,30,8,1,2,0,64,53,54.7,45,39,53.6,24,21,53.3,65.0,104.0,Los Angeles Kings,Los Angeles Kings,Nashville Predators,1,2
+68,2023-03-14,,New York Islanders,5,2,W,,,28,6,0,3,0,61,50,55.0,49,35,58.3,27,18,60.0,70.0,101.4,Los Angeles Kings,Los Angeles Kings,New York Islanders,5,2
+69,2023-03-16,,Columbus Blue Jackets,4,1,W,,,30,6,0,2,0,60,42,58.8,42,30,58.3,23,16,59.0,50.0,107.4,Los Angeles Kings,Los Angeles Kings,Columbus Blue Jackets,4,1
+70,2023-03-18,,Vancouver Canucks,2,3,L,SO,,17,4,1,1,0,69,39,63.9,52,28,65.0,27,17,61.4,73.4,99.2,Los Angeles Kings,Los Angeles Kings,Vancouver Canucks,2,3
+71,2023-03-20,,Calgary Flames,8,2,W,,,18,20,1,4,0,45,35,56.3,34,22,60.7,23,24,48.9,55.5,111.7,Los Angeles Kings,Los Angeles Kings,Calgary Flames,8,2
+72,2023-03-25,,Winnipeg Jets,4,1,W,,,26,6,1,6,0,35,41,46.1,25,29,46.3,23,12,65.7,53.8,114.3,Los Angeles Kings,Los Angeles Kings,Winnipeg Jets,4,1
+73,2023-03-26,,St. Louis Blues,7,6,W,,,22,20,2,2,0,50,43,53.8,45,25,64.3,27,23,54.0,62.1,86.6,Los Angeles Kings,Los Angeles Kings,St. Louis Blues,7,6
+74,2023-03-28,@,Calgary Flames,1,2,L,,,32,4,1,3,0,47,55,46.1,36,45,44.4,25,17,59.5,48.3,99.9,Los Angeles Kings,Calgary Flames,Los Angeles Kings,2,1
+75,2023-03-30,@,Edmonton Oilers,0,2,L,,,37,6,0,2,1,54,48,52.9,42,38,52.5,29,27,51.8,55.8,96.8,Los Angeles Kings,Edmonton Oilers,Los Angeles Kings,2,0
+76,2023-04-01,@,Seattle Kraken,3,1,W,,,26,2,1,2,0,43,44,49.4,35,33,51.5,37,20,64.9,41.5,115.8,Los Angeles Kings,Seattle Kraken,Los Angeles Kings,1,3
+77,2023-04-02,@,Vancouver Canucks,4,1,W,,,25,4,0,4,0,46,40,53.5,31,32,49.2,20,24,45.5,67.7,109.5,Los Angeles Kings,Vancouver Canucks,Los Angeles Kings,1,4
+78,2023-04-04,,Edmonton Oilers,1,3,L,,,33,10,2,4,0,30,45,40.0,23,34,40.4,17,29,37.0,58.7,102.2,Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,1,3
+79,2023-04-06,@,Vegas Golden Knights,2,5,L,,,37,19,1,4,0,58,48,54.7,42,36,53.8,26,25,51.0,49.1,86.2,Los Angeles Kings,Vegas Golden Knights,Los Angeles Kings,5,2
+80,2023-04-08,,Colorado Avalanche,3,4,L,,,23,16,0,2,0,62,49,55.9,46,36,56.1,24,21,53.3,64.0,85.6,Los Angeles Kings,Los Angeles Kings,Colorado Avalanche,3,4
+81,2023-04-10,,Vancouver Canucks,3,0,W,,,20,12,0,2,0,50,30,62.5,35,16,68.6,22,13,62.9,42.1,111.1,Los Angeles Kings,Los Angeles Kings,Vancouver Canucks,3,0
+82,2023-04-13,@,Anaheim Ducks,5,3,W,,,24,50,0,2,0,49,31,61.3,33,22,60.0,21,16,56.8,58.7,97.0,Los Angeles Kings,Anaheim Ducks,Los Angeles Kings,3,5

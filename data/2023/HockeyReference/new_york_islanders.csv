@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-13,,Florida Panthers,1,3,L,,,29,8,0,5,0,53,43,55.2,40,27,59.7,30,19,61.2,62.9,85.0,New York Islanders,New York Islanders,Florida Panthers,1,3
+2,2022-10-15,,Anaheim Ducks,7,1,W,,,23,10,0,4,0,52,50,51.0,43,33,56.6,30,20,60.0,45.4,118.6,New York Islanders,New York Islanders,Anaheim Ducks,7,1
+3,2022-10-18,,San Jose Sharks,5,2,W,,,28,6,0,3,0,66,44,60.0,48,32,60.0,26,30,46.4,71.3,104.2,New York Islanders,New York Islanders,San Jose Sharks,5,2
+4,2022-10-20,,New Jersey Devils,1,4,L,,,43,6,0,3,0,42,64,39.6,22,49,31.0,18,22,45.0,54.2,95.7,New York Islanders,New York Islanders,New Jersey Devils,1,4
+5,2022-10-22,@,Tampa Bay Lightning,3,5,L,,,26,6,0,3,0,60,34,63.8,46,26,63.9,20,21,48.8,70.8,78.8,New York Islanders,Tampa Bay Lightning,New York Islanders,5,3
+6,2022-10-23,@,Florida Panthers,2,3,L,,,32,12,0,4,0,27,46,37.0,19,30,38.8,16,18,47.1,50.0,87.5,New York Islanders,Florida Panthers,New York Islanders,3,2
+7,2022-10-26,,New York Rangers,3,0,W,,,41,6,0,3,0,44,56,44.0,32,45,41.6,17,18,48.6,48.0,113.0,New York Islanders,New York Islanders,New York Rangers,3,0
+8,2022-10-28,@,Carolina Hurricanes,6,2,W,,,35,2,0,3,0,45,73,38.1,36,49,42.4,25,32,43.9,29.4,109.0,New York Islanders,Carolina Hurricanes,New York Islanders,2,6
+9,2022-10-29,,Colorado Avalanche,5,4,W,,,37,6,1,2,0,61,54,53.0,51,40,56.0,22,27,44.9,50.0,102.8,New York Islanders,New York Islanders,Colorado Avalanche,5,4
+10,2022-11-01,@,Chicago Blackhawks,3,1,W,,,22,8,1,4,0,39,35,52.7,27,25,51.9,16,18,47.1,45.5,108.0,New York Islanders,Chicago Blackhawks,New York Islanders,1,3
+11,2022-11-03,@,St. Louis Blues,5,2,W,,,34,9,1,3,0,44,55,44.4,36,50,41.9,15,28,34.9,33.3,113.0,New York Islanders,St. Louis Blues,New York Islanders,2,5
+12,2022-11-05,@,Detroit Red Wings,0,3,L,,,26,6,1,5,1,54,35,60.7,32,27,54.2,22,15,59.5,53.6,94.7,New York Islanders,Detroit Red Wings,New York Islanders,3,0
+13,2022-11-07,,Calgary Flames,4,3,W,OT,,46,4,0,0,0,56,73,43.4,37,55,40.2,29,27,51.8,37.5,104.2,New York Islanders,New York Islanders,Calgary Flames,4,3
+14,2022-11-08,@,New York Rangers,4,3,W,,,40,6,2,4,0,40,51,44.0,25,38,39.7,17,24,41.5,34.6,107.2,New York Islanders,New York Rangers,New York Islanders,3,4
+15,2022-11-10,,Arizona Coyotes,0,2,L,,,28,11,1,3,0,49,48,50.5,37,32,53.6,32,16,66.7,55.3,96.0,New York Islanders,New York Islanders,Arizona Coyotes,0,2
+16,2022-11-12,,Columbus Blue Jackets,4,3,W,OT,,29,4,1,2,0,62,51,54.9,46,38,54.8,28,25,52.8,52.9,103.7,New York Islanders,New York Islanders,Columbus Blue Jackets,4,3
+17,2022-11-14,@,Ottawa Senators,4,2,W,,,38,11,1,6,0,39,62,38.6,34,45,43.0,21,20,51.2,38.5,103.1,New York Islanders,Ottawa Senators,New York Islanders,2,4
+18,2022-11-17,@,Nashville Predators,4,5,L,,,31,8,1,3,0,58,48,54.7,42,40,51.2,23,23,50.0,59.5,96.7,New York Islanders,Nashville Predators,New York Islanders,5,4
+19,2022-11-19,@,Dallas Stars,2,5,L,,,35,10,0,2,0,42,47,47.2,30,36,45.5,14,29,32.6,54.2,85.5,New York Islanders,Dallas Stars,New York Islanders,5,2
+20,2022-11-21,@,Toronto Maple Leafs,3,2,W,OT,,32,11,1,2,0,45,57,44.1,37,45,45.1,26,27,49.1,45.7,109.6,New York Islanders,Toronto Maple Leafs,New York Islanders,2,3
+21,2022-11-23,,Edmonton Oilers,3,0,W,,,49,4,0,5,0,39,51,43.3,30,42,41.7,31,26,54.4,48.8,104.0,New York Islanders,New York Islanders,Edmonton Oilers,3,0
+22,2022-11-25,@,Columbus Blue Jackets,3,2,W,,,26,15,2,4,0,45,44,50.6,26,32,44.8,23,18,56.1,28.4,112.5,New York Islanders,Columbus Blue Jackets,New York Islanders,2,3
+23,2022-11-26,,Philadelphia Flyers,5,2,W,,,28,27,0,2,0,34,47,42.0,25,39,39.1,16,16,50.0,37.5,110.8,New York Islanders,New York Islanders,Philadelphia Flyers,5,2
+24,2022-11-29,@,Philadelphia Flyers,1,3,L,,,33,20,0,2,1,38,47,44.7,23,34,40.4,20,21,48.8,37.8,92.9,New York Islanders,Philadelphia Flyers,New York Islanders,3,1
+25,2022-12-02,,Nashville Predators,1,4,L,,,23,13,2,3,0,65,35,65.0,50,27,64.9,18,27,40.0,63.5,88.2,New York Islanders,New York Islanders,Nashville Predators,1,4
+26,2022-12-04,,Chicago Blackhawks,3,0,W,,,21,9,0,1,0,63,48,56.8,44,33,57.1,18,33,35.3,58.8,108.8,New York Islanders,New York Islanders,Chicago Blackhawks,3,0
+27,2022-12-06,,St. Louis Blues,4,7,L,,,28,4,0,2,0,59,42,58.4,43,35,55.1,33,20,62.3,38.7,81.4,New York Islanders,New York Islanders,St. Louis Blues,4,7
+28,2022-12-09,@,New Jersey Devils,6,4,W,,,29,23,1,3,0,41,63,39.4,28,40,41.2,32,20,61.5,34.3,112.5,New York Islanders,New Jersey Devils,New York Islanders,4,6
+29,2022-12-10,,Carolina Hurricanes,0,3,L,,,29,6,0,2,0,35,69,33.7,21,39,35.0,12,21,36.4,27.3,87.0,New York Islanders,New York Islanders,Carolina Hurricanes,0,3
+30,2022-12-13,@,Boston Bruins,3,4,L,SO,,33,11,1,2,1,59,52,53.2,37,39,48.7,26,31,45.6,46.9,108.4,New York Islanders,Boston Bruins,New York Islanders,4,3
+31,2022-12-16,@,Arizona Coyotes,4,5,L,,,29,12,0,5,0,42,38,52.5,30,25,54.5,21,16,56.8,33.3,97.2,New York Islanders,Arizona Coyotes,New York Islanders,5,4
+32,2022-12-17,@,Vegas Golden Knights,5,2,W,,,38,4,2,3,0,47,66,41.6,34,52,39.5,21,28,42.9,27.4,120.0,New York Islanders,Vegas Golden Knights,New York Islanders,2,5
+33,2022-12-19,@,Colorado Avalanche,0,1,L,SO,,46,2,0,2,0,49,79,38.3,35,56,38.5,35,26,57.4,45.8,100.0,New York Islanders,Colorado Avalanche,New York Islanders,1,0
+34,2022-12-22,@,New York Rangers,3,5,L,,,34,4,1,6,0,34,44,43.6,24,33,42.1,18,20,47.4,47.6,98.9,New York Islanders,New York Rangers,New York Islanders,5,3
+35,2022-12-23,,Florida Panthers,5,1,W,,,23,29,0,3,0,62,37,62.6,48,23,67.6,15,20,42.9,54.0,108.5,New York Islanders,New York Islanders,Florida Panthers,5,1
+36,2022-12-27,,Pittsburgh Penguins,5,1,W,,,21,6,0,1,0,70,43,61.9,52,31,62.7,25,25,50.0,79.4,107.8,New York Islanders,New York Islanders,Pittsburgh Penguins,5,1
+37,2022-12-29,,Columbus Blue Jackets,2,1,W,,,21,8,0,2,0,57,45,55.9,47,30,61.0,34,20,63.0,43.6,97.5,New York Islanders,New York Islanders,Columbus Blue Jackets,2,1
+38,2023-01-01,@,Seattle Kraken,1,4,L,,,35,4,1,2,0,41,47,46.6,30,32,48.4,28,18,60.9,44.0,94.8,New York Islanders,Seattle Kraken,New York Islanders,4,1
+39,2023-01-03,@,Vancouver Canucks,6,2,W,,,26,4,1,3,0,34,49,41.0,31,34,47.7,16,23,41.0,36.4,111.7,New York Islanders,Vancouver Canucks,New York Islanders,2,6
+40,2023-01-05,@,Edmonton Oilers,2,4,L,,,38,6,1,4,1,32,56,36.4,22,40,35.5,21,19,52.5,42.3,104.0,New York Islanders,Edmonton Oilers,New York Islanders,4,2
+41,2023-01-06,@,Calgary Flames,1,4,L,,,21,2,0,2,0,34,52,39.5,26,35,42.6,26,19,57.8,50.0,83.5,New York Islanders,Calgary Flames,New York Islanders,4,1
+42,2023-01-10,,Dallas Stars,1,2,L,SO,,26,6,0,1,0,63,50,55.8,43,33,56.6,26,23,53.1,55.1,95.8,New York Islanders,New York Islanders,Dallas Stars,1,2
+43,2023-01-12,,Minnesota Wild,1,3,L,,,36,8,0,5,1,37,48,43.5,25,36,41.0,16,24,40.0,48.0,99.5,New York Islanders,New York Islanders,Minnesota Wild,1,3
+44,2023-01-14,,Montreal Canadiens,2,1,W,,,23,4,0,2,0,66,42,61.1,46,28,62.2,21,25,45.7,67.7,100.7,New York Islanders,New York Islanders,Montreal Canadiens,2,1
+45,2023-01-16,,Washington Capitals,3,4,L,OT,,35,4,0,1,0,50,61,45.0,37,47,44.0,21,27,43.8,43.6,98.9,New York Islanders,New York Islanders,Washington Capitals,3,4
+46,2023-01-18,,Boston Bruins,1,4,L,,,24,14,1,4,0,49,38,56.3,30,33,47.6,13,20,39.4,65.4,90.7,New York Islanders,New York Islanders,Boston Bruins,1,4
+47,2023-01-19,@,Buffalo Sabres,2,3,L,OT,,45,2,0,3,0,44,79,35.8,35,55,38.9,27,24,52.9,34.3,101.2,New York Islanders,Buffalo Sabres,New York Islanders,3,2
+48,2023-01-21,,Carolina Hurricanes,2,5,L,,,26,8,0,3,0,52,57,47.7,37,41,47.4,27,27,50.0,52.5,87.4,New York Islanders,New York Islanders,Carolina Hurricanes,2,5
+49,2023-01-23,@,Toronto Maple Leafs,2,5,L,,,39,6,1,2,0,70,53,56.9,47,43,52.2,24,19,55.8,62.7,92.7,New York Islanders,Toronto Maple Leafs,New York Islanders,5,2
+50,2023-01-25,@,Ottawa Senators,1,2,L,,,38,11,1,3,0,55,70,44.0,45,53,45.9,23,22,51.1,56.3,100.0,New York Islanders,Ottawa Senators,New York Islanders,2,1
+51,2023-01-27,,Detroit Red Wings,2,0,W,,,23,10,0,4,0,48,31,60.8,39,23,62.9,21,16,56.8,39.6,108.3,New York Islanders,New York Islanders,Detroit Red Wings,2,0
+52,2023-01-28,,Vegas Golden Knights,2,1,W,OT,,46,2,0,2,0,63,60,51.2,41,45,47.7,27,22,55.1,57.3,103.6,New York Islanders,New York Islanders,Vegas Golden Knights,2,1
+53,2023-02-06,@,Philadelphia Flyers,2,1,W,,,26,6,0,2,0,52,50,51.0,37,34,52.1,21,14,60.0,36.4,99.5,New York Islanders,Philadelphia Flyers,New York Islanders,1,2
+54,2023-02-07,,Seattle Kraken,4,0,W,,,32,2,0,1,0,49,57,46.2,36,42,46.2,28,21,57.1,57.6,115.4,New York Islanders,New York Islanders,Seattle Kraken,4,0
+55,2023-02-09,,Vancouver Canucks,5,6,L,,,34,6,2,4,0,41,44,48.2,29,36,44.6,23,17,57.5,42.9,98.9,New York Islanders,New York Islanders,Vancouver Canucks,5,6
+56,2023-02-11,@,Montreal Canadiens,3,4,L,OT,,31,4,0,2,0,54,49,52.4,35,37,48.6,24,17,58.5,44.6,92.6,New York Islanders,Montreal Canadiens,New York Islanders,4,3
+57,2023-02-14,,Ottawa Senators,2,3,L,SO,,34,12,1,3,0,64,48,57.1,49,33,59.8,21,26,44.7,64.0,98.7,New York Islanders,New York Islanders,Ottawa Senators,2,3
+58,2023-02-17,,Pittsburgh Penguins,5,4,W,,,44,4,0,1,0,41,79,34.2,30,62,32.6,22,35,38.6,53.8,106.7,New York Islanders,New York Islanders,Pittsburgh Penguins,5,4
+59,2023-02-18,@,Boston Bruins,2,6,L,,,27,4,1,3,0,53,46,53.5,41,37,52.6,16,19,45.7,55.1,84.4,New York Islanders,Boston Bruins,New York Islanders,6,2
+60,2023-02-20,@,Pittsburgh Penguins,4,2,W,,,46,30,1,4,0,52,64,44.8,33,51,39.3,26,16,61.9,41.4,112.3,New York Islanders,Pittsburgh Penguins,New York Islanders,2,4
+61,2023-02-22,,Winnipeg Jets,2,1,W,,,26,10,1,4,0,33,40,45.2,24,29,45.3,13,22,37.1,39.7,111.1,New York Islanders,New York Islanders,Winnipeg Jets,2,1
+62,2023-02-24,,Los Angeles Kings,2,3,L,,,28,6,0,2,0,41,41,50.0,28,33,45.9,13,20,39.4,64.7,95.6,New York Islanders,New York Islanders,Los Angeles Kings,2,3
+63,2023-02-26,@,Winnipeg Jets,4,0,W,,,23,7,0,3,0,39,60,39.4,31,38,44.9,20,18,52.6,40.0,113.6,New York Islanders,Winnipeg Jets,New York Islanders,0,4
+64,2023-02-28,@,Minnesota Wild,1,2,L,SO,,31,5,0,1,0,62,50,55.4,49,37,57.0,22,16,57.9,63.4,99.0,New York Islanders,Minnesota Wild,New York Islanders,2,1
+65,2023-03-04,,Detroit Red Wings,4,1,W,,,23,4,1,3,0,56,36,60.9,46,25,64.8,24,9,72.7,50.0,109.4,New York Islanders,New York Islanders,Detroit Red Wings,4,1
+66,2023-03-07,,Buffalo Sabres,3,2,W,,,24,4,0,2,0,53,58,47.7,45,27,62.5,29,16,64.4,50.2,100.2,New York Islanders,New York Islanders,Buffalo Sabres,3,2
+67,2023-03-09,@,Pittsburgh Penguins,4,3,W,OT,,36,10,0,3,0,51,54,48.6,30,46,39.5,18,20,47.4,63.6,107.6,New York Islanders,Pittsburgh Penguins,New York Islanders,3,4
+68,2023-03-11,,Washington Capitals,1,5,L,,,27,10,0,4,0,40,32,55.6,28,27,50.9,17,17,50.0,40.8,84.5,New York Islanders,New York Islanders,Washington Capitals,1,5
+69,2023-03-14,@,Los Angeles Kings,2,5,L,,,37,8,2,2,0,50,61,45.0,35,49,41.7,18,27,40.0,30.0,98.6,New York Islanders,Los Angeles Kings,New York Islanders,5,2
+70,2023-03-15,@,Anaheim Ducks,6,3,W,,,23,2,1,2,0,54,36,60.0,37,26,58.7,24,18,57.1,60.0,110.7,New York Islanders,Anaheim Ducks,New York Islanders,3,6
+71,2023-03-18,@,San Jose Sharks,4,1,W,,,30,12,0,2,0,46,50,47.9,36,34,51.4,15,21,41.7,64.0,105.0,New York Islanders,San Jose Sharks,New York Islanders,1,4
+72,2023-03-21,,Toronto Maple Leafs,7,2,W,,,27,9,0,1,0,44,60,42.3,35,41,46.1,32,21,60.4,44.9,116.4,New York Islanders,New York Islanders,Toronto Maple Leafs,7,2
+73,2023-03-24,@,Columbus Blue Jackets,4,5,L,OT,,27,2,2,4,0,74,47,61.2,57,35,62.0,24,20,54.5,53.6,95.3,New York Islanders,Columbus Blue Jackets,New York Islanders,5,4
+74,2023-03-25,,Buffalo Sabres,0,2,L,,,35,4,0,3,0,41,54,43.2,29,39,42.6,28,13,68.3,53.6,93.5,New York Islanders,New York Islanders,Buffalo Sabres,0,2
+75,2023-03-27,,New Jersey Devils,5,1,W,,,31,2,0,2,1,60,60,50.0,46,43,51.7,28,19,59.6,25.8,112.1,New York Islanders,New York Islanders,New Jersey Devils,5,1
+76,2023-03-29,@,Washington Capitals,2,1,W,SO,,26,4,0,0,0,63,51,55.3,38,36,51.4,31,25,55.4,57.9,99.6,New York Islanders,Washington Capitals,New York Islanders,1,2
+77,2023-04-01,@,Tampa Bay Lightning,0,5,L,,,32,18,1,2,0,55,48,53.4,43,38,53.1,17,21,44.7,47.3,85.2,New York Islanders,Tampa Bay Lightning,New York Islanders,5,0
+78,2023-04-02,@,Carolina Hurricanes,1,2,L,,,35,4,0,2,0,42,58,42.0,30,42,41.7,25,28,47.2,47.4,98.1,New York Islanders,Carolina Hurricanes,New York Islanders,2,1
+79,2023-04-06,,Tampa Bay Lightning,6,1,W,,,31,6,0,1,0,77,44,63.6,53,34,60.9,33,25,56.9,49.8,111.0,New York Islanders,New York Islanders,Tampa Bay Lightning,6,1
+80,2023-04-08,,Philadelphia Flyers,4,0,W,,,27,4,0,2,0,49,51,49.0,33,37,47.1,24,13,64.9,34.8,121.1,New York Islanders,New York Islanders,Philadelphia Flyers,4,0
+81,2023-04-10,@,Washington Capitals,2,5,L,,,25,8,0,0,0,85,48,63.9,63,35,64.3,40,24,62.5,57.8,84.3,New York Islanders,Washington Capitals,New York Islanders,5,2
+82,2023-04-12,,Montreal Canadiens,4,2,W,,,19,8,0,1,1,63,47,57.3,44,28,61.1,34,15,69.4,39.2,104.4,New York Islanders,New York Islanders,Montreal Canadiens,4,2

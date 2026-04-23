@@ -1,0 +1,83 @@
+GP,Date,Location,Opponent,GF,GA,Result,OverTime,Unnamed: 8,S,PIM,PPG,PPO,SHG,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO,team,Home,Visitor,HG,AG
+1,2022-10-12,@,Carolina Hurricanes,1,4,L,,,43,4,0,2,0,50,84,37.3,41,64,39.0,27,37,42.2,46.9,92.4,Columbus Blue Jackets,Carolina Hurricanes,Columbus Blue Jackets,4,1
+2,2022-10-14,,Tampa Bay Lightning,2,5,L,,,39,8,1,2,0,26,64,28.9,23,51,31.1,28,14,66.7,21.4,101.7,Columbus Blue Jackets,Columbus Blue Jackets,Tampa Bay Lightning,2,5
+3,2022-10-15,@,St. Louis Blues,2,5,L,,,25,4,1,3,0,42,44,48.8,30,31,49.2,26,21,55.3,50.0,89.3,Columbus Blue Jackets,St. Louis Blues,Columbus Blue Jackets,5,2
+4,2022-10-18,,Vancouver Canucks,4,3,W,OT,,35,9,0,3,1,56,45,55.4,43,30,58.9,33,20,62.3,41.0,105.1,Columbus Blue Jackets,Columbus Blue Jackets,Vancouver Canucks,4,3
+5,2022-10-20,,Nashville Predators,5,3,W,,,26,6,0,5,0,64,48,57.1,48,32,60.0,25,30,45.5,62.3,101.8,Columbus Blue Jackets,Columbus Blue Jackets,Nashville Predators,5,3
+6,2022-10-22,,Pittsburgh Penguins,3,6,L,,,39,2,0,3,0,48,55,46.6,31,44,41.3,31,31,50.0,46.5,90.5,Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,3,6
+7,2022-10-23,@,New York Rangers,5,1,W,,,31,2,1,3,0,38,56,40.4,27,37,42.2,16,28,36.4,43.3,125.0,Columbus Blue Jackets,New York Rangers,Columbus Blue Jackets,1,5
+8,2022-10-25,,Arizona Coyotes,3,6,L,,,19,14,2,6,0,52,26,66.7,40,21,65.6,27,22,55.1,71.9,80.8,Columbus Blue Jackets,Columbus Blue Jackets,Arizona Coyotes,3,6
+9,2022-10-28,,Boston Bruins,0,4,L,,,35,6,0,2,1,45,49,47.9,26,37,41.3,16,25,39.0,36.7,88.9,Columbus Blue Jackets,Columbus Blue Jackets,Boston Bruins,0,4
+10,2022-10-30,@,New Jersey Devils,1,7,L,,,53,6,1,3,0,36,68,34.6,24,52,31.6,24,31,43.6,48.9,89.0,Columbus Blue Jackets,New Jersey Devils,Columbus Blue Jackets,7,1
+11,2022-11-04,@,Colorado Avalanche,3,6,L,,,36,14,2,5,0,42,44,48.8,30,33,47.6,38,26,59.4,44.2,91.7,Columbus Blue Jackets,Colorado Avalanche,Columbus Blue Jackets,6,3
+12,2022-11-05,,Colorado Avalanche,1,5,L,,,45,7,0,1,0,50,74,40.3,37,54,40.7,27,35,43.5,40.9,88.6,Columbus Blue Jackets,Columbus Blue Jackets,Colorado Avalanche,1,5
+13,2022-11-10,,Philadelphia Flyers,5,2,W,,,34,11,0,0,0,43,64,40.2,34,46,42.5,30,28,51.7,35.3,113.9,Columbus Blue Jackets,Columbus Blue Jackets,Philadelphia Flyers,5,2
+14,2022-11-12,@,New York Islanders,3,4,L,OT,,46,4,0,2,0,51,62,45.1,38,46,45.2,25,28,47.2,47.1,96.3,Columbus Blue Jackets,New York Islanders,Columbus Blue Jackets,4,3
+15,2022-11-15,,Philadelphia Flyers,5,4,W,OT,,37,4,1,2,0,55,69,44.4,38,47,44.7,32,27,54.2,52.3,103.1,Columbus Blue Jackets,Columbus Blue Jackets,Philadelphia Flyers,5,4
+16,2022-11-17,,Montreal Canadiens,6,4,W,,,42,9,1,3,0,50,67,42.7,40,51,44.0,31,30,50.8,44.4,114.9,Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens,6,4
+17,2022-11-19,,Detroit Red Wings,1,6,L,,,37,6,2,3,0,49,48,50.5,36,35,50.7,35,20,63.6,48.2,89.9,Columbus Blue Jackets,Columbus Blue Jackets,Detroit Red Wings,1,6
+18,2022-11-20,,Florida Panthers,5,3,W,,,50,4,0,3,0,33,80,29.2,30,57,34.5,35,31,53.0,32.0,103.9,Columbus Blue Jackets,Columbus Blue Jackets,Florida Panthers,5,3
+19,2022-11-23,,Montreal Canadiens,1,3,L,,,29,11,0,3,0,51,45,53.1,34,32,51.5,32,27,54.2,41.8,92.9,Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens,1,3
+20,2022-11-25,,New York Islanders,2,3,L,,,24,15,1,4,0,44,45,49.4,32,26,55.2,18,23,43.9,71.6,87.5,Columbus Blue Jackets,Columbus Blue Jackets,New York Islanders,2,3
+21,2022-11-28,,Vegas Golden Knights,2,3,L,SO,,36,4,0,4,0,53,55,49.1,39,43,47.6,23,29,44.2,48.6,100.5,Columbus Blue Jackets,Columbus Blue Jackets,Vegas Golden Knights,2,3
+22,2022-12-02,@,Winnipeg Jets,4,1,W,,,38,6,1,5,0,46,70,39.7,31,45,40.8,25,25,50.0,50.2,119.0,Columbus Blue Jackets,Winnipeg Jets,Columbus Blue Jackets,1,4
+23,2022-12-04,,Detroit Red Wings,2,4,L,,,35,6,2,5,0,37,41,47.4,28,29,49.1,19,21,47.5,63.0,96.1,Columbus Blue Jackets,Columbus Blue Jackets,Detroit Red Wings,2,4
+24,2022-12-06,@,Pittsburgh Penguins,1,4,L,,,34,10,1,5,0,59,47,55.7,40,41,49.4,20,22,47.6,43.0,91.8,Columbus Blue Jackets,Pittsburgh Penguins,Columbus Blue Jackets,4,1
+25,2022-12-07,,Buffalo Sabres,4,9,L,,,30,6,3,5,0,39,41,48.8,32,27,54.2,23,20,53.5,57.7,93.0,Columbus Blue Jackets,Columbus Blue Jackets,Buffalo Sabres,4,9
+26,2022-12-09,,Calgary Flames,3,1,W,,,32,14,0,5,0,36,46,43.9,31,34,47.7,19,18,51.4,51.6,110.0,Columbus Blue Jackets,Columbus Blue Jackets,Calgary Flames,3,1
+27,2022-12-11,,Los Angeles Kings,6,5,W,OT,,38,6,0,2,0,52,66,44.1,34,54,38.6,30,26,53.6,33.7,100.4,Columbus Blue Jackets,Columbus Blue Jackets,Los Angeles Kings,6,5
+28,2022-12-13,@,Florida Panthers,0,4,L,,,26,6,0,3,0,44,46,48.9,30,35,46.2,16,16,50.0,52.2,80.0,Columbus Blue Jackets,Florida Panthers,Columbus Blue Jackets,4,0
+29,2022-12-15,@,Tampa Bay Lightning,1,4,L,,,29,2,0,3,0,49,49,50.0,33,35,48.5,27,24,52.9,56.6,86.8,Columbus Blue Jackets,Tampa Bay Lightning,Columbus Blue Jackets,4,1
+30,2022-12-17,@,Boston Bruins,2,4,L,,,39,12,2,3,0,38,64,37.3,29,45,39.2,10,31,24.4,44.5,94.3,Columbus Blue Jackets,Boston Bruins,Columbus Blue Jackets,4,2
+31,2022-12-19,,Dallas Stars,1,2,L,,,34,2,0,0,0,57,73,43.8,45,47,48.9,17,30,36.2,48.8,97.8,Columbus Blue Jackets,Columbus Blue Jackets,Dallas Stars,1,2
+32,2022-12-20,@,Philadelphia Flyers,3,5,L,,,39,2,0,1,1,54,63,46.2,43,49,46.7,22,26,45.8,43.3,98.8,Columbus Blue Jackets,Philadelphia Flyers,Columbus Blue Jackets,5,3
+33,2022-12-23,@,Chicago Blackhawks,2,5,L,,,38,19,1,5,0,40,42,48.8,29,34,46.0,16,25,39.0,39.9,91.0,Columbus Blue Jackets,Chicago Blackhawks,Columbus Blue Jackets,5,2
+34,2022-12-29,@,New York Islanders,1,2,L,,,36,6,1,3,0,45,57,44.1,30,47,39.0,20,34,37.0,56.4,102.5,Columbus Blue Jackets,New York Islanders,Columbus Blue Jackets,2,1
+35,2022-12-31,,Chicago Blackhawks,4,1,W,,,28,6,0,5,0,53,32,62.4,39,28,58.2,18,25,41.9,52.2,97.9,Columbus Blue Jackets,Columbus Blue Jackets,Chicago Blackhawks,4,1
+36,2023-01-03,@,Ottawa Senators,0,4,L,,,34,6,2,6,1,40,43,48.2,25,29,46.3,23,22,51.1,47.1,95.0,Columbus Blue Jackets,Ottawa Senators,Columbus Blue Jackets,4,0
+37,2023-01-05,,Washington Capitals,2,6,L,,,37,4,2,2,0,49,60,45.0,37,45,45.1,16,28,36.4,63.8,95.9,Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,2,6
+38,2023-01-07,,Carolina Hurricanes,4,3,W,SO,,42,12,2,6,0,20,53,27.4,15,41,26.8,20,23,46.5,34.1,106.0,Columbus Blue Jackets,Columbus Blue Jackets,Carolina Hurricanes,4,3
+39,2023-01-08,@,Washington Capitals,0,1,L,,,19,9,0,2,0,66,41,61.7,42,27,60.9,13,21,38.2,53.8,93.8,Columbus Blue Jackets,Washington Capitals,Columbus Blue Jackets,1,0
+40,2023-01-10,@,Tampa Bay Lightning,3,6,L,,,46,4,3,4,0,53,59,47.3,37,48,43.5,15,28,34.9,37.3,106.6,Columbus Blue Jackets,Tampa Bay Lightning,Columbus Blue Jackets,6,3
+41,2023-01-12,,Carolina Hurricanes,2,6,L,,,41,8,0,4,1,34,58,37.0,26,41,38.8,24,28,46.2,38.6,94.4,Columbus Blue Jackets,Columbus Blue Jackets,Carolina Hurricanes,2,6
+42,2023-01-14,@,Detroit Red Wings,4,3,W,,,28,2,0,2,0,39,45,46.4,33,32,50.8,23,19,54.8,50.0,104.7,Columbus Blue Jackets,Detroit Red Wings,Columbus Blue Jackets,3,4
+43,2023-01-16,,New York Rangers,1,3,L,,,33,8,1,5,0,36,54,40.0,25,38,39.7,16,22,42.1,57.4,97.6,Columbus Blue Jackets,Columbus Blue Jackets,New York Rangers,1,3
+44,2023-01-17,@,Nashville Predators,1,2,L,,,28,6,0,3,0,46,52,46.9,37,41,47.4,16,23,41.0,60.7,95.7,Columbus Blue Jackets,Nashville Predators,Columbus Blue Jackets,2,1
+45,2023-01-19,,Anaheim Ducks,3,5,L,,,33,7,0,3,0,56,44,56.0,44,36,55.0,21,23,47.7,53.6,91.8,Columbus Blue Jackets,Columbus Blue Jackets,Anaheim Ducks,3,5
+46,2023-01-21,,San Jose Sharks,5,3,W,,,25,9,0,1,0,52,33,61.2,39,30,56.5,27,25,51.9,58.6,103.0,Columbus Blue Jackets,Columbus Blue Jackets,San Jose Sharks,5,3
+47,2023-01-23,@,Calgary Flames,3,4,L,OT,,49,15,0,2,0,40,78,33.9,29,59,33.0,25,35,41.7,39.9,95.7,Columbus Blue Jackets,Calgary Flames,Columbus Blue Jackets,4,3
+48,2023-01-25,@,Edmonton Oilers,3,2,W,OT,,36,4,1,1,0,57,63,47.5,38,39,49.4,20,27,42.6,49.5,109.4,Columbus Blue Jackets,Edmonton Oilers,Columbus Blue Jackets,2,3
+49,2023-01-27,@,Vancouver Canucks,2,5,L,,,34,8,2,4,1,39,46,45.9,32,36,47.1,19,27,41.3,46.4,92.9,Columbus Blue Jackets,Vancouver Canucks,Columbus Blue Jackets,5,2
+50,2023-01-28,@,Seattle Kraken,1,3,L,,,31,4,0,2,0,45,58,43.7,32,44,42.1,26,26,50.0,58.8,94.4,Columbus Blue Jackets,Seattle Kraken,Columbus Blue Jackets,3,1
+51,2023-01-31,,Washington Capitals,3,4,L,OT,,34,8,0,1,0,63,55,53.4,42,37,53.2,26,31,45.6,73.4,95.8,Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,3,4
+52,2023-02-10,,Toronto Maple Leafs,0,3,L,,,41,6,1,4,0,47,52,47.5,35,37,48.6,27,16,62.8,46.7,93.1,Columbus Blue Jackets,Columbus Blue Jackets,Toronto Maple Leafs,0,3
+53,2023-02-11,@,Toronto Maple Leafs,4,3,W,,,29,10,1,1,0,54,55,49.5,38,38,50.0,23,22,51.1,45.4,106.0,Columbus Blue Jackets,Toronto Maple Leafs,Columbus Blue Jackets,3,4
+54,2023-02-14,,New Jersey Devils,2,3,L,,,32,6,0,2,0,45,71,38.8,35,49,41.7,20,22,47.6,48.3,93.8,Columbus Blue Jackets,Columbus Blue Jackets,New Jersey Devils,2,3
+55,2023-02-16,,Winnipeg Jets,3,1,W,,,38,10,1,7,0,27,52,34.2,19,36,34.5,21,19,52.5,31.3,113.3,Columbus Blue Jackets,Columbus Blue Jackets,Winnipeg Jets,3,1
+56,2023-02-18,@,Dallas Stars,4,1,W,,,29,2,0,1,0,67,61,52.3,51,43,54.3,27,24,52.9,57.1,108.2,Columbus Blue Jackets,Dallas Stars,Columbus Blue Jackets,1,4
+57,2023-02-19,@,Arizona Coyotes,2,3,L,OT,,25,16,0,1,0,56,52,51.9,46,34,57.5,24,25,49.0,56.9,91.2,Columbus Blue Jackets,Arizona Coyotes,Columbus Blue Jackets,3,2
+58,2023-02-23,,Minnesota Wild,0,2,L,,,25,2,0,1,0,66,55,54.5,41,44,48.2,36,13,73.5,57.9,92.0,Columbus Blue Jackets,Columbus Blue Jackets,Minnesota Wild,0,2
+59,2023-02-25,,Edmonton Oilers,6,5,W,,,47,10,1,4,1,37,69,34.9,31,53,36.9,14,27,34.1,28.0,117.5,Columbus Blue Jackets,Columbus Blue Jackets,Edmonton Oilers,6,5
+60,2023-02-26,@,Minnesota Wild,2,3,L,OT,,44,4,1,2,0,46,65,41.4,31,52,37.3,24,21,53.3,39.4,103.3,Columbus Blue Jackets,Minnesota Wild,Columbus Blue Jackets,3,2
+61,2023-02-28,@,Buffalo Sabres,5,3,W,,,41,2,1,3,0,54,56,49.1,45,45,50.0,25,29,46.3,29.0,106.4,Columbus Blue Jackets,Buffalo Sabres,Columbus Blue Jackets,3,5
+62,2023-03-03,,Seattle Kraken,2,4,L,,,35,8,2,4,0,43,55,43.9,34,43,44.2,29,21,58.0,30.3,99.1,Columbus Blue Jackets,Columbus Blue Jackets,Seattle Kraken,2,4
+63,2023-03-04,@,Ottawa Senators,2,5,L,,,39,6,0,2,1,35,63,35.7,21,49,30.0,19,26,42.2,35.3,94.5,Columbus Blue Jackets,Ottawa Senators,Columbus Blue Jackets,5,2
+64,2023-03-07,@,Pittsburgh Penguins,4,5,L,OT,,47,4,1,2,0,38,89,29.9,29,62,31.9,31,29,51.7,36.9,104.5,Columbus Blue Jackets,Pittsburgh Penguins,Columbus Blue Jackets,5,4
+65,2023-03-11,,St. Louis Blues,2,5,L,,,24,6,0,2,0,59,44,57.3,46,30,60.5,36,20,64.3,57.9,80.3,Columbus Blue Jackets,Columbus Blue Jackets,St. Louis Blues,2,5
+66,2023-03-14,@,San Jose Sharks,6,5,W,OT,,32,6,1,3,0,65,56,53.7,51,40,56.0,24,31,43.6,62.4,97.4,Columbus Blue Jackets,San Jose Sharks,Columbus Blue Jackets,5,6
+67,2023-03-16,@,Los Angeles Kings,1,4,L,,,36,4,0,3,0,42,60,41.2,30,42,41.7,16,23,41.0,50.0,92.6,Columbus Blue Jackets,Los Angeles Kings,Columbus Blue Jackets,4,1
+68,2023-03-17,@,Anaheim Ducks,4,7,L,,,38,8,0,2,0,64,50,56.1,44,39,53.0,19,27,41.3,57.1,82.7,Columbus Blue Jackets,Anaheim Ducks,Columbus Blue Jackets,7,4
+69,2023-03-19,@,Vegas Golden Knights,2,7,L,,,41,4,2,2,0,53,54,49.5,37,41,47.4,19,33,36.5,48.6,92.9,Columbus Blue Jackets,Vegas Golden Knights,Columbus Blue Jackets,7,2
+70,2023-03-21,@,Washington Capitals,7,6,W,OT,,37,4,0,1,0,62,67,48.1,45,52,46.4,24,31,43.6,58.7,99.1,Columbus Blue Jackets,Washington Capitals,Columbus Blue Jackets,6,7
+71,2023-03-24,,New York Islanders,5,4,W,OT,,38,8,1,1,0,47,74,38.8,35,57,38.0,20,24,45.5,46.4,104.7,Columbus Blue Jackets,Columbus Blue Jackets,New York Islanders,5,4
+72,2023-03-25,@,Montreal Canadiens,2,8,L,,,32,8,1,3,0,32,55,36.8,20,41,32.8,22,15,59.5,29.0,88.3,Columbus Blue Jackets,Montreal Canadiens,Columbus Blue Jackets,8,2
+73,2023-03-28,@,New York Rangers,2,6,L,,,36,8,1,2,0,38,52,42.2,31,41,43.1,26,19,57.8,51.6,88.9,Columbus Blue Jackets,New York Rangers,Columbus Blue Jackets,6,2
+74,2023-03-30,@,Boston Bruins,1,2,L,OT,,31,25,1,5,0,33,42,44.0,21,33,38.9,17,17,50.0,52.6,101.5,Columbus Blue Jackets,Boston Bruins,Columbus Blue Jackets,2,1
+75,2023-04-01,,Florida Panthers,0,7,L,,,49,8,1,3,0,29,76,27.6,20,59,25.3,17,22,43.6,20.8,85.4,Columbus Blue Jackets,Columbus Blue Jackets,Florida Panthers,0,7
+76,2023-04-02,,Ottawa Senators,4,3,W,OT,,27,4,0,2,0,41,54,43.2,32,42,43.2,31,19,62.0,32.3,101.4,Columbus Blue Jackets,Columbus Blue Jackets,Ottawa Senators,4,3
+77,2023-04-04,@,Toronto Maple Leafs,2,4,L,,,50,4,0,3,0,45,66,40.5,29,53,35.4,20,28,41.7,37.5,98.6,Columbus Blue Jackets,Toronto Maple Leafs,Columbus Blue Jackets,4,2
+78,2023-04-06,@,New Jersey Devils,1,8,L,,,36,24,2,3,1,28,54,34.1,19,43,30.6,19,15,55.9,47.6,88.5,Columbus Blue Jackets,New Jersey Devils,Columbus Blue Jackets,8,1
+79,2023-04-08,,New York Rangers,0,4,L,,,28,4,0,2,0,39,54,41.9,26,39,40.0,19,27,41.3,42.1,83.3,Columbus Blue Jackets,Columbus Blue Jackets,New York Rangers,0,4
+80,2023-04-11,@,Philadelphia Flyers,3,4,L,OT,,39,8,1,3,0,47,58,44.8,35,44,44.3,22,24,47.8,46.3,98.6,Columbus Blue Jackets,Philadelphia Flyers,Columbus Blue Jackets,4,3
+81,2023-04-13,,Pittsburgh Penguins,3,2,W,OT,,36,8,2,2,0,56,51,52.3,46,42,52.3,25,19,56.8,50.0,106.7,Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,3,2
+82,2023-04-14,,Buffalo Sabres,2,5,L,,,35,2,0,1,0,49,65,43.0,38,50,43.2,19,27,41.3,38.2,93.0,Columbus Blue Jackets,Columbus Blue Jackets,Buffalo Sabres,2,5
