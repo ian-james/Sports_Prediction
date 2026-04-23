@@ -24,51 +24,83 @@ class HockeyReferenceParser(BaseParser):
     def parse_team_name(self, soup: BeautifulSoup) -> str:
         if not soup.title:
             return "Unknown Team"
+
         title = soup.title.text
-        idx = title.find(" Team ")
-        if idx >= 0:
-            title = title[0:idx]
-            title = re.sub(r"^[^A-Z]*", "", title)
+        # Pattern: "2025-26 Pittsburgh Penguins Schedule | Hockey-Reference.com"
+        # Remove the " Schedule | ..." part
+        if " Schedule" in title:
+            title = title.split(" Schedule")[0]
+
+        # Remove leading years (e.g., 2025-26)
+        title = re.sub(r"^\d{4}-\d{2}\s+", "", title)
+
         return title.strip()
 
     def parse_categories(self, soup: BeautifulSoup) -> List[str]:
-        table = soup.find("table")
+        # HockeyRef usually IDs the main table as 'games'
+        table = soup.find("table", id="games") or soup.find("table")
+
         if not isinstance(table, Tag):
             return []
 
-        rows = table.find_all("tr")
-        if len(rows) < 2:
-            return []
+        # Find headers specifically in the thead to avoid body/row confusion
+        thead = table.find("thead")
+        if isinstance(thead, Tag):
+            # Grab the last row of the header (sometimes there are multi-row headers)
+            header_row = thead.find_all("tr")[-1]
+            # headers = [h.text.strip() for h in header_row.find_all("th")]
 
-        headers = [h.text.strip() for h in rows[1].find_all("th")]
+            # Use data-stat attributes for internal reliability if text is empty
+            # (e.g. the Location column '@' often has an empty text header)
+            final_headers = []
+            for h in header_row.find_all("th"):
+                text = h.text.strip()
+                if not text and h.get("data-stat") == "game_location":
+                    final_headers.append("Location")
+                else:
+                    final_headers.append(text)
 
-        # Manual header fix for HockeyRef's shorthand columns
-        if len(headers) > 7:
-            headers[2] = "Location"
-            headers[6] = "Result"
-            headers[7] = "OverTime"
-        return headers
+            # Apply your manual index fixes if names are still missing
+            if len(final_headers) > 7:
+                if not final_headers[2]:
+                    final_headers[2] = "Location"
+                if not final_headers[6]:
+                    final_headers[6] = "Result"
+                if not final_headers[7]:
+                    final_headers[7] = "OverTime"
+
+            return final_headers
+
+        return []
 
     def parse_dataframe(
         self, soup: BeautifulSoup, team_name: str, categories: List[str]
     ) -> pd.DataFrame:
-        """Matches BaseParser signature exactly to fix [override] error."""
-        table = soup.find("table")
+        # Find the specific games table
+        table = soup.find("table", id="games") or soup.find("table")
         if not isinstance(table, Tag):
             return pd.DataFrame()
 
-        rows = table.find_all("tr")[2:]
-        games = []
+        # Target the tbody specifically.
+        # Real Hockey-Ref and your Test Mock both put data here.
+        tbody = table.find("tbody")
+        if isinstance(tbody, Tag):
+            rows = tbody.find_all("tr")
+        else:
+            rows = table.find_all("tr")
 
+        games = []
         for row in rows:
-            # Check for data cells first to avoid header/spacer rows
+            # 1. Skip month header rows (e.g., 'October') which have no 'td' cells
             td_cells = row.find_all("td")
             if not td_cells:
                 continue
 
+            # 2. Hockey-Ref puts the rank/GP in a 'th' and stats in 'td'
             th_cells = row.find_all("th")
             row_data = [c.text.strip() for c in th_cells + td_cells]
 
+            # 3. Only append if the data matches our header count
             if len(row_data) == len(categories):
                 games.append(dict(zip(categories, row_data)))
 
