@@ -35,7 +35,7 @@ def hr_pittsburgh_html():
     """
 
 
-class TestParsersWithRealStructures:
+class TestParsersWithFakeStructures:
     def test_hockey_reference_pittsburgh(self, hr_pittsburgh_html):
         parser = HockeyReferenceParser()
         soup = BeautifulSoup(hr_pittsburgh_html, "lxml")
