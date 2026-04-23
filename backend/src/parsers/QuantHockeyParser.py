@@ -14,16 +14,36 @@ class QuantHockeyParser(BaseParser):
         title_tag = soup.title
         if title_tag:
             title = title_tag.text
-            idx = title.find(" Game Log")
-            return title[0:idx].strip() if idx >= 0 else title.strip()
+            # Use a more robust split; QuantHockey titles usually follow
+            # "Team Name Game Log @ ..."
+            if " Game Log" in title:
+                return title.split(" Game Log")[0].strip()
+            return title.strip()
         return "Unknown"
 
     def parse_categories(self, soup: BeautifulSoup) -> List[str]:
-        table = soup.find("table")
+        # QuantHockey tables use the class 'qh-table'
+        table = soup.find("table", class_="qh-table") or soup.find("table")
+
         if isinstance(table, Tag):
+            # Look for th tags with the specific QuantHockey header class
+            headers = table.find_all("th", class_="qh-th")
+
+            # Fallback to standard thead search if classes aren't present
+            if not headers:
+                thead = table.find("thead")
+                if isinstance(thead, Tag):
+                    headers = thead.find_all("th")
+
+            if headers:
+                return [h.text.strip() for h in headers]
+
+            # Last resort: your original row-based logic
             rows = table.find_all("tr")
-            if len(rows) > 1:
-                return [h.text for h in rows[1].find_all("th")]
+            for row in rows[:2]:  # Check first two rows
+                cols = row.find_all("th")
+                if cols:
+                    return [c.text.strip() for c in cols]
         return []
 
     def parse_dataframe(
