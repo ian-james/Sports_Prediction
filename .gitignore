@@ -25,7 +25,6 @@ dist/
 # We keep uv.lock but ignore the local project-specific cache
 .uv/
 .cache/
-uv.lock
 
 # --- Static Analysis & Testing ---
 .mypy_cache/
