@@ -1,7 +1,7 @@
 from typing import List
 import pandas as pd
 from bs4 import BeautifulSoup, Tag
-from .BaseParser import BaseParser
+from .base_parser import BaseParser
 
 
 class QuantHockeyParser(BaseParser):
