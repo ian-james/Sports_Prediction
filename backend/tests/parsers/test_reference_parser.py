@@ -1,6 +1,6 @@
 import pytest
 from bs4 import BeautifulSoup
-from src.parsers.HockeyReferenceParser import HockeyReferenceParser
+from src.sports.hockey.parsers.hockey_reference_parser import HockeyReferenceParser
 
 
 @pytest.fixture

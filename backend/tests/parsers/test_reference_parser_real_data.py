@@ -4,7 +4,7 @@ import pytest
 from bs4 import BeautifulSoup
 
 from src.helpers.file_helpers import load_read_file
-from src.parsers.HockeyReferenceParser import HockeyReferenceParser
+from src.sports.hockey.parsers.hockey_reference_parser import HockeyReferenceParser
 
 
 @pytest.fixture

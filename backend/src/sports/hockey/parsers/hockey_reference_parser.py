@@ -4,10 +4,11 @@ from typing import List
 import pandas as pd
 from bs4 import BeautifulSoup, Tag
 
-from .MappingService import MappingService
+from src.sports.hockey.mappings.mapping_service import MappingService
 
 # Use relative imports to avoid 'module not found'
-from .BaseParser import BaseParser
+from .base_parser import BaseParser
+from ..adapters.hockey_reference_adapter import HockeyReferenceAdapter
 
 logger = logging.getLogger(__name__)
 
@@ -135,9 +136,15 @@ class HockeyReferenceParser(BaseParser):
 
     def clean_data(self, df: pd.DataFrame, team_name: str) -> pd.DataFrame:
         """Standardizes headers and runs base cleaning."""
-        # Fix the [attr-defined] error by using the correct MappingService method
-        rename_map = MappingService.standardize_columns(df.columns.tolist())
-        df = df.rename(columns=rename_map)
+        # Fix the [attr-defined] error by using the correct MappingService method 1. Instantiate the adapter
+        adapter = HockeyReferenceAdapter()
+
+        # 2. Pass the ENTIRE DataFrame and the adapter to the service
+        # normalize_columns returns a new DataFrame with renamed columns
+        df = MappingService.normalize_columns(df, adapter)
+
+        # 3. (Optional but recommended) Run the final cleaning/sorting logic
+        df = adapter.finalize(df)
 
         # Call super().clean_data for dropna and team assignment
         return super().clean_data(df, team_name)

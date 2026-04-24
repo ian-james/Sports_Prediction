@@ -1,6 +1,6 @@
 import pytest
 from bs4 import BeautifulSoup
-from src.parsers.QuantHockeyParser import QuantHockeyParser
+from src.sports.hockey.parsers.QuantHockeyParser import QuantHockeyParser
 
 
 @pytest.fixture
