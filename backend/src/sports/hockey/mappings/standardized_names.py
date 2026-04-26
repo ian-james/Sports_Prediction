@@ -57,6 +57,12 @@ class InternalStat(StrEnum):
     GOALS_FOR_PER_GAME = "gf_per_game"
     GOALS_AGAINST_PER_GAME = "ga_per_game"
 
+    # Derived / Engineered
+    IS_HOME = "is_home"
+    WON = "won"
+    OT_GAME = "ot_game"
+    POINTS_EARNED = "points_earned"
+
     @property
     def display(self) -> str:
         """Returns the human-readable version of the stat."""
