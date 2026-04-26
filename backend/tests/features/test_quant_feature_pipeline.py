@@ -55,7 +55,7 @@ class TestRollingAverages:
 
     def test_rolling_uses_prior_games_only(self):
         games = [
-            _game(f"2025-10-0{i+1}", "A", True, goals_for=float(i + 1))
+            _game(f"2025-10-0{i + 1}", "A", True, goals_for=float(i + 1))
             for i in range(6)
         ]
         df = _make_df(games)
@@ -104,7 +104,7 @@ class TestHomeAwaySplits:
 
     def test_split_values_in_valid_range(self):
         games = [
-            _game(f"2025-10-0{i+1}", "A", i % 2 == 0, is_home=i % 2 == 0)
+            _game(f"2025-10-0{i + 1}", "A", i % 2 == 0, is_home=i % 2 == 0)
             for i in range(6)
         ]
         result = add_home_away_splits(_make_df(games))
@@ -155,8 +155,8 @@ class TestStreak:
 
     def test_last_10_wins_counts_prior_games(self):
         # 6 wins followed by 4 losses → at the 11th game, last_10_wins should be 6
-        games = [_game(f"2025-10-{i+1:02d}", "A", True) for i in range(6)] + [
-            _game(f"2025-11-{i+1:02d}", "A", False) for i in range(5)
+        games = [_game(f"2025-10-{i + 1:02d}", "A", True) for i in range(6)] + [
+            _game(f"2025-11-{i + 1:02d}", "A", False) for i in range(5)
         ]
         result = add_streak(_make_df(games))
         assert result["last_10_wins"].iloc[10] == 6
@@ -204,7 +204,7 @@ class TestHeadToHead:
 
 class TestBuildFeatures:
     def test_all_feature_groups_present(self):
-        games = [_game(f"2025-10-{i+1:02d}", "A", i % 2 == 0) for i in range(12)]
+        games = [_game(f"2025-10-{i + 1:02d}", "A", i % 2 == 0) for i in range(12)]
         result = build_features(_make_df(games))
         assert f"rolling_5_{InternalStat.GOALS_FOR.value}" in result.columns
         assert "home_win_pct_cumul" in result.columns
