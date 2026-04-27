@@ -25,6 +25,8 @@ class BaseLeagueAdapter(ABC):
 
     def finalize(self, df: pd.DataFrame) -> pd.DataFrame:
         """Standard sorting and cleanup."""
+        df = self.add_derived_columns(df)
+
         # Change GAME_DATE to DATE to match your Enum
         if InternalStat.DATE.value in df.columns:
             df[InternalStat.DATE.value] = pd.to_datetime(df[InternalStat.DATE.value])
